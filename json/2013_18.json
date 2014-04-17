@@ -1,0 +1,63 @@
+data_2013_18(
+{
+    "issue": 35,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://shapeof.com/archives/2013/4/we_need_a_standard_layered_image_format.html",
+            "title": "We Need A Standard Layered Image Format",
+            "description": ""
+        },
+		{
+            "url": "http://killdream.github.io/blog/2013/04/the-hikkikomoris-guide-to-javascript/",
+            "title": "The Hikikomori's Guide to JavaScript",
+            "description": "How to write simple, useful and composable JavaScript applications"
+        },
+		{
+            "url": "http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with",
+            "title": "Everything you need to understand to start with AngularJS",
+            "description": ""
+        },
+		{
+            "url": "http://www.codesmiles.com/post/Visual-Studio-2012-New-Features.aspx",
+            "title": "Visual Studio 2012 New Features of the IDE",
+            "description": ""
+        },
+		{
+            "url": "http://dotnet.dzone.com/articles/intro-git",
+            "title": "Git Explained: For Beginners",
+            "description": ""
+        },
+		{
+            "url": "http://www.microsoft.com/en-us/download/details.aspx?id=38787&WT.mc_id=rss_alldownloads_all",
+            "title": "Cancelling a project (without cancelling your career)",
+            "description": ""
+        },
+		{
+            "url": "https://www.simple-talk.com/dotnet/.net-framework/taking-nuget-to-the-enterprise/",
+            "title": "Taking NuGet to the Enterprise",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/visualstudioalm/archive/2013/04/22/learn-intellitrace.aspx",
+            "title": "Learn IntelliTrace",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/566542/Date-and-Time-Data-Types-and-Functions-SQL-Server",
+            "title": "Date and Time Data Types and Functions",
+            "description": "SQL Server (2000, 2005, 2008, 2008 R2, 2012)"
+        }
+    ],
+    "freebook": {
+        "title": "Let’s Build a Compiler",
+		"url": "http://www.stack.nl/~marcov/compiler.pdf",
+        "author": "Jack W. Crenshaw"
+    },
+    "book": {
+        "title": "Selectors, Specificity, and the Cascade. Applying CSS3 to Documents",
+		"url": "http://shop.oreilly.com/product/0636920027614.do",
+        "author": "Eric A. Meyer"
+    }
+}
+);

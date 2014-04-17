@@ -1,0 +1,63 @@
+data_2013_35(
+{
+    "issue": 52,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blog.codeship.io/2013/08/22/the-codeship-workflow-part-2-pull-requests-and-code-review.html",
+            "title": "The Codeship Workflow: Pull Requests and Code Review",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/85296/6-important-uses-of-Delegates-and-Events",
+            "title": "6 important uses of Delegates and Events",
+            "description": ""
+        },
+		{
+            "url": "http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html",
+            "title": "Things I Wish I Were Told About Angular.js",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/8/26/reddit-lessons-learned-from-mistakes-made-scaling-to-1-billi.html",
+            "title": "Scaling to 1 Billion Pageviews a Month",
+            "description": "Reddit: Lessons Learned from Mistakes Made"
+        },
+		{
+            "url": "http://www.codelord.net/2013/08/26/please-use-labels-properly/",
+            "title": "Please Use Labels Properly",
+            "description": ""
+        },
+		{
+            "url": "http://10kloc.wordpress.com/2013/08/25/plain-text-doesnt-exist-unicode-and-encodings-demystified/",
+            "title": "Unicode isn’t harmful for health",
+            "description": "Unicode Myths debunked and encodings demystified"
+        },
+		{
+            "url": "http://slidetocode.com/2013/08/25/how-git-works/",
+            "title": "How git works",
+            "description": ""
+        },
+		{
+            "url": "http://johanneshoff.com/bug-reports.html",
+            "title": "If you get a useful bug report, say thank you",
+            "description": ""
+        },
+		{
+            "url": "http://devdocs.io/",
+            "title": "API Documentation reader for Web Developers of all kinds",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Dependency Injection with Unity",
+		"url": "http://www.microsoft.com/en-us/download/details.aspx?id=39944&WT.mc_id=rss_alldownloads_all",
+        "author": "Dominic Betts, Grigori Melnik, Fernando Simonazzi, Mani Subramanian"
+    },
+    "book": {
+        "title": "AngularJS",
+		"url": "http://shop.oreilly.com/product/0636920028055.do",
+        "author": "Brad Green, Shyam Seshadri"
+    }
+}
+);

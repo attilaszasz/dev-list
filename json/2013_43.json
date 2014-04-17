@@ -1,0 +1,79 @@
+data_2013_43(
+{
+    "issue": 60,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.codeproject.com/Articles/657218/Upgrading-your-car-with-NET-Micro-Framework",
+            "title": "Upgrading your car with .NET Micro Framework",
+            "description": ""
+        },
+		{
+            "url": "http://aphyr.com/posts/299-the-trouble-with-timestamps",
+            "title": "The trouble with timestamps",
+            "description": ""
+        },
+		{
+            "url": "http://pythonsweetness.tumblr.com/post/64740079543/how-to-lose-172-222-a-second-for-45-minutes",
+            "title": "How to lose $172,222 a second for 45 minutes",
+            "description": ""
+        },
+		{
+            "url": "http://cases.azoft.com/mobile-application-security-testing/",
+            "title": "Mobile App Security Checklist",
+            "description": "Does Your iOS App Protect User Data?"
+        },
+		{
+            "url": "http://voices.canonical.com/jussi.pakkanen/2012/09/25/the-code-documentation-fallacy/",
+            "title": "The code documentation fallacy",
+            "description": ""
+        },
+		{
+            "url": "http://queue.acm.org/detail.cfm?id=2536492",
+            "title": "High-frequency Trading and Exchange Technology",
+            "description": ""
+        },
+		{
+            "url": "http://www.hackdesign.org/lessons/9",
+            "title": "An Introduction to User Experience Design",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/matthiasshapiro/archive/2013/03/21/10-great-windows-phone-8-code-samples-no-wait-30.aspx",
+            "title": "10 Great Windows Phone 8 Code Samples (No, Wait... 30)",
+            "description": ""
+        },
+		{
+            "url": "http://www.developerphil.com/android-studio-tips-tricks-moving-around/",
+            "title": "Android Studio Tips & Tricks: Moving Around",
+            "description": ""
+        },
+		{
+            "url": "http://thedatafarm.com/blog/data-access/ef6-connection-resiliency-for-sql-azure-ndash-when-does-it-actually-do-it-rsquo-s-thing/",
+            "title": "EF6 Connection Resiliency for SQL Azure",
+            "description": "When does it actually do it's thing?"
+        },
+		{
+            "url": "http://blogs.msdn.com/b/webdev/archive/2013/10/17/attribute-routing-in-asp-net-mvc-5.aspx",
+            "title": "Attribute Routing in ASP.NET MVC 5",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "45 Database Performance Tips for Developers",
+		"url": "",
+        "author": "Phil Factor, Grant Fritchey, K. Brian Kelley, Mickey Stuewe, Ike Ellis, Jonathan Allen, Louis Davidson",
+        "links": [
+            {
+                "name": "pdf (zipped)",
+                "url": "http://assets.red-gate.com/offerings/45-database-performance-tips.zip"
+            }
+        ]
+    },
+    "book": {
+        "title": "Regular Expressions Cookbook, 2nd Edition",
+		"url": "http://shop.oreilly.com/product/0636920023630.do",
+        "author": "Jan Goyvaerts, Steven Levithan"
+    }
+}
+);

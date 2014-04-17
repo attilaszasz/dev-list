@@ -1,0 +1,48 @@
+data_2012_17(
+{
+    "issue": 17,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://ericlippert.com/2012/12/20/nullable-micro-optimizations-part-one/",
+            "title": "Nullable micro-optimizations, part one",
+            "description": ""
+        },
+        {
+            "url": "http://ericlippert.com/2012/12/27/nullable-micro-optimization-part-two/",
+            "title": "Nullable micro-optimizations, part two",
+            "description": ""
+        },
+        {
+            "url": "http://coding.smashingmagazine.com/2009/11/21/zen-coding-a-new-way-to-write-html-code/",
+            "title": "Zen Coding: A Speedy Way To Write HTML/CSS Code",
+            "description": ""
+        },
+        {
+            "url": "http://blog.olafssons.com/post/F*cking%20testdata,%20how%20do%20they%20work",
+            "title": "F*cking testdata, how do they work",
+            "description": ""
+        },
+        {
+            "url": "http://highscalability.com/blog/2012/12/26/ask-hs-what-will-programming-and-architecture-look-like-in-2.html",
+            "title": "What will programming and architecture look like in 2020?",
+            "description": ""
+        },
+        {
+            "url": "http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html",
+            "title": "Latency Numbers Every Programmer Should Know",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Rust for Rubyists",
+		"url": "http://www.rustforrubyists.com/book/book.html",
+        "author": "Steve Klabnik"
+    },
+    "book": {
+        "title": "Clean Code",
+		"url": "http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
+        "author": "Robert C. Martin"
+    }
+}
+);

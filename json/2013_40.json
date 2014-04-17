@@ -1,0 +1,69 @@
+data_2013_40(
+{
+    "issue": 57,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://use-the-index-luke.com/blog/2013-10/mysql-is-to-sql-like-mongodb-to-nosql",
+            "title": "MongoDB is to NoSQL like MySQL to SQL — in the most harmful way",
+            "description": ""
+        },
+		{
+            "url": "http://docs.writethedocs.org/en/latest/writing/beginners-guide-to-docs/",
+            "title": "A beginners guide to writing documentation",
+            "description": ""
+        },
+		{
+            "url": "http://www.cringely.com/2013/09/19/the-secret-of-ios-7/",
+            "title": "The Secret of iOS 7",
+            "description": ""
+        },
+		{
+            "url": "http://www.2ality.com/2013/09/window.html",
+            "title": "Tips for using window in JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://www.elijahmanor.com/2013/01/yo-dawg-i-herd-you-like-loops-so-jquery.html",
+            "title": "Yo dawg, I herd you like loops, so jQuery put a loop in your code",
+            "description": ""
+        },
+		{
+            "url": "http://www.elijahmanor.com/2013/02/animating-twitter-bootstrap-icon-with.html",
+            "title": "Animating a Twitter BootStrap Icon with CSS3",
+            "description": ""
+        },
+		{
+            "url": "http://simpleprogrammer.com/2013/09/03/responsive-design-waste-time/",
+            "title": "Why Responsive Design Is a Waste Of Time",
+            "description": ""
+        },
+		{
+            "url": "http://bradfrost.github.io/this-is-responsive/",
+            "title": "This Is Responsive",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-angularjs/",
+            "title": "Resources to Get You Up to Speed in AngularJS",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Introducing Windows Azure for IT Professionals",
+		"url": "http://blogs.msdn.com/b/microsoft_press/archive/2013/10/01/free-ebook-introducing-windows-azure-for-it-professionals.aspx",
+        "author": "Mitch Tulloch",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://aka.ms/682887pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "HTML5 Web Application Development By Example",
+		"url": "http://shop.oreilly.com/product/9781849695947.do",
+        "author": "J. M. Gustafson"
+    }
+}
+);

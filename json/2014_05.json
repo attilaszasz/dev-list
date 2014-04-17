@@ -1,0 +1,79 @@
+data_2014_05(
+{
+    "issue": 74,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://blogs.msdn.com/b/csharpfaq/archive/2010/02/16/covariance-and-contravariance-faq.aspx",
+            "title": "Covariance and Contravariance in C#",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/tools-and-tips/how-to-use-new-relic-custom-dashboards-why-youd-want-to/",
+            "title": "How to Use New Relic Custom Dashboards & Why You'd Want To",
+            "description": ""
+        },
+		{
+            "url": "http://dev.tutsplus.com/tutorials/working-with-less-and-the-chrome-devtools--net-36636",
+            "title": "Working With LESS and the Chrome DevTools",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/library/dn568099.aspx",
+            "title": "Cloud Design Patterns",
+            "description": ""
+        },
+		{
+            "url": "http://www.dirkstrauss.com/how-to/script-table-data",
+            "title": "Script Table Data In SQL Server Management Studio",
+            "description": ""
+        },
+		{
+            "url": "http://coding.smashingmagazine.com/2014/01/23/understanding-javascript-function-prototype-bind/",
+            "title": "Understanding JavaScript's Function.prototype.bind",
+            "description": ""
+        },
+		{
+            "url": "http://blog.programmableweb.com/2014/01/27/review-postman-client-makes-restful-api-exploration-a-breeze/",
+            "title": "Postman Client Makes RESTful API Exploration a Breeze",
+            "description": ""
+        },
+		{
+            "url": "http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html",
+            "title": "The Failures of 'Intro to TDD'",
+            "description": ""
+        },
+		{
+            "url": "http://blog.8thlight.com/uncle-bob/2014/01/27/TheChickenOrTheRoad.html",
+            "title": "The Domain Discontinuity",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/718046/10-Reasons-Web-Developers-Should-Learn-Angular",
+            "title": "10 Reasons Web Developers Should Learn Angular",
+            "description": ""
+        },
+		{
+            "url": "http://blog.filipekberg.se/2014/01/29/developing-good-software-damn-hard/",
+            "title": "Developing Good Software is Damn Hard",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": ".NET Technology Guide for Business Applications",
+		"url": "",
+        "author": "Cesar de la Torre, David Carmona",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://aka.ms/NETTechGuide/ebook"
+            }
+        ]
+    },
+    "book": {
+        "title": "Hadoop: The Definitive Guide",
+		"url": "http://shop.oreilly.com/product/0636920021773.do",
+        "author": "Tom White"
+    }
+}
+);

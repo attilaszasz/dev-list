@@ -1,0 +1,68 @@
+data_2014_09(
+{
+    "issue": 78,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.brainrules.net/pdf/brainrules_summaries.pdf",
+            "title": "Brain Rules",
+            "description": "12 Principles for Surviving and Thriving at Work, Home and School"
+        },
+		{
+            "url": "http://www.sqlskills.com/blogs/kimberly/when-did-sql-server-stop-putting-indexes-on-foreign-key-columns/",
+            "title": "When did SQL Server stop putting indexes on Foreign Key columns?",
+            "description": ""
+        },
+		{
+            "url": "http://www.petrikainulainen.net/software-development/general/why-i-write-tests/",
+            "title": "Why I Write Tests?",
+            "description": ""
+        },
+		{
+            "url": "http://qpit.net/blog/process-for-beginners.html",
+            "title": "Process for Beginners",
+            "description": ""
+        },
+		{
+            "url": "http://dailyjs.com/2014/02/20/promises-in-detail/",
+            "title": "JavaScript Promises...In Wicked Detail",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/lhartikk/ArnoldC",
+            "title": "ArnoldC",
+            "description": "Programming language based on the one-liners of Arnold Schwarzenegger"
+        },
+		{
+            "url": "http://antiagilemanifesto.com/",
+            "title": "The Anti Agile Manifesto",
+            "description": ""
+        },
+		{
+            "url": "http://www.alleywatch.com/2013/12/a-short-form-guide-to-contracts-for-tech-startups-and-software-developers/",
+            "title": "A Short-Form Guide to Contracts for Tech Startups and Software Developers",
+            "description": ""
+        },
+		{
+            "url": "http://blog.shaunfinglas.co.uk/posts/2014/02/the-correct-way-to-use-var-in-csharp",
+            "title": "The correct way to use var in C#",
+            "description": ""
+        },
+		{
+            "url": "http://danrigby.com/2014/02/26/xamarin-studio-settings-for-visual-studio-developers/",
+            "title": "Xamarin Studio Settings for Visual Studio Developers",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Node: Up and Running",
+		"url": "http://chimera.labs.oreilly.com/books/1234000001808/index.html",
+        "author": "Tom Hughes-Croucher, Mike Wilson"
+    },
+    "book": {
+        "title": "The Principles of Object-Oriented JavaScript",
+		"url": "http://shop.oreilly.com/product/9781593275402.do",
+        "author": "Nicholas C. Zakas"
+    }
+}
+);

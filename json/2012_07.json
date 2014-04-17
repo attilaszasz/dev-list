@@ -1,0 +1,43 @@
+data_2012_07(
+{
+    "issue": 7,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://www.androidbootstrap.com/",
+            "title": "Android Bootstrap",
+            "description": ""
+        },
+        {
+            "url": "http://android-developers.blogspot.ca/2012/10/new-google-play-developer-console.html",
+            "title": "New Google Play Developer Console Available to Everyone",
+            "description": ""
+        },
+        {
+            "url": "https://plus.google.com/101960720994009339267/posts/R58WgWwN9jp",
+            "title": "On History and Unintended Consequences: A lesson in Unix hidden files.",
+            "description": ""
+        },
+        {
+            "url": "http://variadic.me/posts/2012-10-17-reflection-tool-generic-solutions.html",
+            "title": "Reflection as a tool for generic solutions in C#",
+            "description": ""
+        },
+        {
+            "url": "http://jsoneditoronline.org/",
+            "title": "JSON Editor Online - view, edit and format JSON online",
+            "description": ""
+        },
+        {
+            "url": "http://snmaynard.com/2012/10/17/things-i-wish-i-knew-about-mongodb-a-year-ago/",
+            "title": "Things I wish I knew about MongoDB a year ago",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Use The Index, Luke!",
+		"url": "http://use-the-index-luke.com/",
+        "author": "Markus Winand"
+    }
+}
+);

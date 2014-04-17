@@ -1,0 +1,58 @@
+data_2013_19(
+{
+    "issue": 36,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.youtube.com/watch?v=msp2y_Y5MLE",
+            "title": "Understand the P vs. NP Problem. A fantastic lecture from MIT",
+            "description": ""
+        },
+		{
+            "url": "http://stackoverflow.com/questions/19132/expression-versus-statement/19224#19224",
+            "title": "Expressions Vs. Statements",
+            "description": ""
+        },
+		{
+            "url": "http://bigocheatsheet.com/",
+            "title": "Big-O Cheat Sheet",
+            "description": ""
+        },
+		{
+            "url": "http://www.gamedev.net/page/resources/_/technical/general-programming/modern-garbage-collectors-under-the-hood-r2995",
+            "title": "Modern Garbage Collectors under the Hood",
+            "description": ""
+        },
+		{
+            "url": "http://www.unrealengine.com/html5/",
+            "title": "Unreal Engine in JavaScript/HTML5 – Citadel demo",
+            "description": ""
+        },
+		{
+            "url": "http://betanews.com/2013/05/09/windows-azure-cloud-hosted-virtual-machines-done-right-review/",
+            "title": "Windows Azure: Cloud-hosted virtual machines done right [review]",
+            "description": ""
+        },
+		{
+            "url": "http://devcv.me/2012/10/programmers-career-growth-d/",
+            "title": "Programmers Career Growth",
+            "description": ""
+        },
+		{
+            "url": "http://earthengine.google.org/#intro",
+            "title": "Google Earth Engine",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Learning with Python: Interactive Edition",
+		"url": "http://interactivepython.org/courselib/static/thinkcspy/index.html",
+        "author": "Brad Miller and David Ranum"
+    },
+    "book": {
+        "title": "Professional Scrum Development with Microsoft® Visual Studio® 2012",
+		"url": "http://shop.oreilly.com/product/0790145320902.do?code=MSDEAL",
+        "author": "Richard Hundhausen"
+    }
+}
+);

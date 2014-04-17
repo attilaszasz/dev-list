@@ -1,0 +1,72 @@
+data_2014_15(
+{
+    "issue": 84,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://notes.underscorediscovery.com/shaders-a-primer/",
+            "title": "What are shaders?",
+            "description": ""
+        },
+		{
+            "url": "http://www.fastcodesign.com/3026463/from-google-ventures-5-rules-for-writing-great-interface-copy",
+            "title": "From Google Ventures: 5 Rules For Writing Great Interface Copy",
+            "description": ""
+        },
+		{
+            "url": "http://alistapart.com/article/people-skills-for-web-workers",
+            "title": "People Skills for Web Workers",
+            "description": ""
+        },
+		{
+            "url": "http://madskristensen.net/post/visual-studio-extensions-for-web-developers",
+            "title": "Visual Studio extensions for web developers",
+            "description": ""
+        },
+		{
+            "url": "http://brikis98.blogspot.ro/2014/04/six-programming-paradigms-that-will.html",
+            "title": "Six programming paradigms that will change how you think about coding",
+            "description": ""
+        },
+		{
+            "url": "https://www.youtube.com/watch?v=OpLU__bhu2w",
+            "title": "The 10,000 Domino Computer",
+            "description": ""
+        },
+		{
+            "url": "http://alistapart.com/article/creating-style-guides",
+            "title": "Creating Style Guides",
+            "description": ""
+        },
+		{
+            "url": "http://www.studionashvegas.com/development/advanced-css-selectors/",
+            "title": "Advanced CSS Selectors",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Introducing Microsoft SQL Server 2014",
+		"url": "http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx",
+        "author": "Ross Mistry, Stacia Misner",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://aka.ms/684751pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://aka.ms/684751mobi"
+            },
+			{
+                "name": "epub",
+                "url": "http://aka.ms/684751epub"
+            }
+        ]
+    },
+    "book": {
+        "title": "Building Web Apps with WordPress",
+		"url": "http://shop.oreilly.com/product/0636920029380.do",
+        "author": "Brian Messenlehner, Jason Coleman"
+    }
+}
+);

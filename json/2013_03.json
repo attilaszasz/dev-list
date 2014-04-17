@@ -1,0 +1,58 @@
+data_2013_03(
+{
+    "issue": 20,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blog.jquery.com/2013/01/14/the-state-of-jquery-2013/",
+            "title": "The State of jQuery 2013",
+            "description": ""
+        },
+		{
+            "url": "http://www.breezejs.com/",
+            "title": "Breeze",
+            "description": "Rich data for JavaScript Apps is a Breeze"
+        },
+		{
+            "url": "http://blog.oskarsson.nu/post/40196324612/the-twitter-stack",
+            "title": "The Twitter stack",
+            "description": ""
+        },
+		{
+            "url": "http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/",
+            "title": "Notes on Distributed Systems for Young Bloods",
+            "description": ""
+        },
+		{
+            "url": "http://try.github.com/levels/1/challenges/1",
+            "title": "Got 15 minutes and want to learn Git?",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html",
+            "title": "What if Cars Were Rented Like We Hire Programmers?",
+            "description": ""
+        },
+		{
+            "url": "http://stuartkhall.com/posts/ios-development-tips-i-would-want-if-i-was-starting-out-today",
+            "title": "iOS Development Tips I Would Want If I Was Starting Out Today",
+            "description": ""
+        },
+		{
+            "url": "http://learn.shayhowe.com/advanced-html-css/performance-organization",
+            "title": "An Advanced Guide to HTML & CSS : Performance & Organization",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Threading in C#",
+		"url": "http://www.albahari.info/threading/threading.pdf",
+        "author": "Joseph Albahari"
+    },
+    "book": {
+        "title": "Code Complete",
+		"url": "http://www.amazon.com/Code-Complete-ebook/dp/B004OR1XGK",
+        "author": "Steve McConnell"
+    }
+}
+);

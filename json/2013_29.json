@@ -1,0 +1,59 @@
+data_2013_29(
+{
+    "issue": 46,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.jitbit.com/news/186-my-startup-is-microsoftbased-heres-why/",
+            "title": "My startup is Microsoft-based, here's why",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.microsoft.co.il/blogs/applisec/archive/2013/07/10/how-to-choose-a-no-sql-database.aspx",
+            "title": "How to choose a No SQL Database",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/7/17/how-do-you-create-a-100th-monkey-software-development-cultur.html",
+            "title": "How do you create a 100th Monkey software development culture?",
+            "description": ""
+        },
+		{
+            "url": "http://shapeshed.com/the-void-of-undefined-in-javascript/",
+            "title": "The void of undefined in JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://notherdev.blogspot.com/2013/07/liskov-substitution-vs-immutability.html",
+            "title": "Liskov Substitution Principle vs. immutability",
+            "description": ""
+        },
+		{
+            "url": "http://brendansterne.com/2013/07/11/do-the-right-thing-wait-to-get-fired/",
+            "title": "Do the right thing, Wait to get fired",
+            "description": ""
+        },
+		{
+            "url": "http://calendar.perfplanet.com/2011/a-practical-guide-to-the-navigation-timing-api/",
+            "title": "A Practical Guide to the Navigation Timing API",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Testing for Continuous Delivery with Visual Studio 2012",
+		"url": "",
+        "author": "Larry Brader, Howie Hilliker, Alan Cameron Wills",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://download.microsoft.com/download/7/8/D/78DEA276-F64B-45D3-974D-649EC7142675/TestingforContinuousDeliverywithVisualStudio2012.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Regular Expressions Cookbook",
+		"url": "http://www.amazon.com/Regular-Expressions-Cookbook-ebook/dp/B008Y4OP1O/",
+        "author": "Jan Goyvaerts, Steven Levithan"
+    }
+}
+);

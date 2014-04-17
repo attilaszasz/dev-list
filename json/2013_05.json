@@ -1,0 +1,48 @@
+data_2013_05(
+{
+    "issue": 22,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://www.tbray.org/ongoing/When/201x/2013/01/23/OAuth",
+            "title": "How to Think About OAuth",
+            "description": ""
+        },
+		{
+            "url": "http://learn.knockoutjs.com/",
+            "title": "Knockout.js interactive tutorial",
+            "description": ""
+        },
+		{
+            "url": "http://forefront.io/a/beginners-guide-to-arduino",
+            "title": "The Absolute Beginner's Guide to Arduino",
+            "description": ""
+        },
+		{
+            "url": "http://www.zetalab.de/blog/developing-an-app-for-ios-android-and-windows-phone-a-comparative-study/",
+            "title": "Developing an App for iOS, Android and Windows Phone - a Comparative Study",
+            "description": ""
+        },
+		{
+            "url": "http://blog.javascriptroom.com/2013/01/29/the-illusion-of-class/",
+            "title": "The Illusion of Class",
+            "description": ""
+        },
+		{
+            "url": "http://taitems.github.com/Front-End-Development-Guidelines/",
+            "title": "Front End Development Guidelines",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Practical Common Lisp",
+		"url": "http://www.gigamonkeys.com/book/",
+        "author": "Peter Seibel"
+    },
+    "book": {
+        "title": "TeamCity 7 Continuous Integration Essentials",
+		"url": "http://www.amazon.com/TeamCity-Continuous-Integration-Essentials-ebook/dp/B00ATYE3XW/",
+        "author": "Volodymyr Melymuka"
+    }
+}
+);

@@ -1,0 +1,64 @@
+data_2013_46(
+{
+    "issue": 63,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/",
+            "title": "An Introduction To DOM Events",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2013/10/02/powerful-workflow-tips-tools-and-tricks-for-web-designers/",
+            "title": "Powerful Workflow Tips, Tools And Tricks For Web Designers",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/tools-and-tips/using-browserstack-for-cross-browser-testing/",
+            "title": "Using BrowserStack for Cross-Browser Testing",
+            "description": ""
+        },
+		{
+            "url": "http://ryanlowdermilk.com/2013/11/developer-cant-draw-learn-how-to-create-amazing-2d-art-today/",
+            "title": "Developer? Can't draw? Learn how to create amazing 2D art, today!",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.technet.com/b/cansql/archive/2013/10/31/11-free-sql-server-2012-online-training-courses-to-sharpen-your-skills.aspx",
+            "title": "11 Free SQL Server 2012 Online Training Courses to Sharpen Your Skills",
+            "description": ""
+        },
+		{
+            "url": "http://philipnilsson.github.io/Badness10k/articles/knockout-patterns-proxy/",
+            "title": "Patterns for Knockout.js - Proxy Object",
+            "description": ""
+        },
+		{
+            "url": "https://puppetlabs.com/top-20-flowcon-slides-continuous-delivery",
+            "title": "Top 20 FlowCon Slides: Continuous Delivery & Lean Product Design",
+            "description": ""
+        },
+		{
+            "url": "http://www.bennorthrop.com/Essays/2013/developer-motivation.php",
+            "title": "The 3 Motivational Forces of Developers",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Field Guide to Data Science",
+		"url": "http://www.boozallen.com/insights/insight-detail/data-science-field-guide",
+        "author": "Booz Allen Hamilton",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "New Perspectives On Web Design",
+		"url": "https://shop.smashingmagazine.com/smashing-book-4-new-perspectives-on-web-design.html",
+        "author": "Smashing Magazine"
+    }
+}
+);

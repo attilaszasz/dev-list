@@ -1,0 +1,68 @@
+data_2013_21(
+{
+    "issue": 38,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://philipwalton.com/articles/what-no-one-told-you-about-z-index/",
+            "title": "What No One Told You About Z-Index",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/5/20/the-tumblr-architecture-yahoo-bought-for-a-cool-billion-doll.html",
+            "title": "The Tumblr Architecture Yahoo Bought for a Cool Billion Dollars",
+            "description": ""
+        },
+		{
+            "url": "http://ericlippert.com/2013/05/20/what-is-lexical-scoping/",
+            "title": "What is lexical scoping?",
+            "description": ""
+        },
+		{
+            "url": "http://subspacecables.com/blog/2013/5/19/abstraction",
+            "title": "Abstractions",
+            "description": ""
+        },
+		{
+            "url": "http://blog.goyello.com/2013/05/17/express-names-in-code-bad-vs-clean/",
+            "title": "Express names in code: Bad vs Clean",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/tutorial/1102/three-tricks-to-get-more-out-of-sql-server-in-common-web-scenarios",
+            "title": "Three tricks to get more out of SQL Server in common web scenarios",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/tutorial/1108/using-html5-data--tags-razor-and-c-anonymous-objects",
+            "title": "Using HTML5 data-* tags, Razor, and C# anonymous objects",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance",
+            "title": "9 Ways to Optimize Your Front End Performance",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/tutorial/1261/9-more-ways-to-optimize-your-front-end-performance",
+            "title": "9 More Ways to Optimize Your Front End Performance",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn198238.aspx",
+            "title": "Social Authentication in ASP.NET MVC 4",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Another tour of Scala",
+		"url": "http://naildrivin5.com/scalatour",
+        "author": "David Bryant Copeland "
+    },
+    "book": {
+        "title": "Redis in Action",
+		"url": "http://www.manning.com/carlson/",
+        "author": "Josiah L. Carlson"
+    }
+}
+);

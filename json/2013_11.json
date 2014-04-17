@@ -1,0 +1,53 @@
+data_2013_11(
+{
+    "issue": 28,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454",
+            "title": "You can't parse [X]HTML with regex.",
+            "description": ""
+        },
+		{
+            "url": "http://canvasjs.com/",
+            "title": "CanvasJS HTML5 JavaScript Charts",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/jj991977.aspx",
+            "title": "Async/Await: Best Practices in Asynchronous Programming",
+            "description": ""
+        },
+		{
+            "url": "http://blog.8thlight.com/uncle-bob/2013/01/30/The-Craftsman-And-The-Laborer.html",
+            "title": "The Laborer and the Craftsman",
+            "description": ""
+        },
+		{
+            "url": "http://blog.8thlight.com/eric-meyer/2012/05/08/advice-for-new-mentors.html",
+            "title": "Advice for Novice Mentors",
+            "description": ""
+        },
+		{
+            "url": "http://devo.ps/blog/2013/03/06/troubleshooting-5minutes-on-a-yet-unknown-box.html",
+            "title": "First 5 Minutes Troubleshooting A Server",
+            "description": ""
+        },
+		{
+            "url": "http://morethancoding.com/2013/03/12/ux-then-architecture-then-tools/",
+            "title": "UX, Then Architecture, Then Tools",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Wizard Code",
+		"url": "http://vendu.twodots.nl/wizardcode.html",
+        "author": "Tuomo Petteri Venäläinen"
+    },
+    "book": {
+        "title": "JavaScript: The Good Parts",
+		"url": "http://shop.oreilly.com/product/9780596517748.do",
+        "author": "Douglas Crockford"
+    }
+}
+);

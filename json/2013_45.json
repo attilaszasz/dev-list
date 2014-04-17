@@ -1,0 +1,59 @@
+data_2013_45(
+{
+    "issue": 62,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550",
+            "title": "Developing iOS 7 Apps for iPhone and iPad by Stanford",
+            "description": ""
+        },
+		{
+            "url": "http://thenextweb.com/entrepreneur/2013/11/03/hired-developer-elance-build-first-iphone-app-experience/",
+            "title": "I hired a developer on Elance to build my first iPhone app, this was my experience",
+            "description": ""
+        },
+		{
+            "url": "http://omnicognate.wordpress.com/2013/01/07/in-css-px-is-not-an-angular-measurement-and-it-is-not-non-linear/",
+            "title": "In CSS, “px” is not an angular measurement and it is not non-linear",
+            "description": ""
+        },
+		{
+            "url": "http://news.rapgenius.com/Mat-brown-xpath-is-actually-pretty-useful-once-it-stops-being-confusing-lyrics",
+            "title": "XPath is actually pretty useful once it stops being confusing",
+            "description": ""
+        },
+		{
+            "url": "http://docforge.com/wiki/Code_review",
+            "title": "How to perform a proper code review",
+            "description": ""
+        },
+		{
+            "url": "http://blog.rspective.pl/?p=99",
+            "title": "Definition of Done in a Scrum project",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/darcyclarke/Front-end-Developer-Interview-Questions",
+            "title": "Front-end Job Interview Questions",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Beginning Big Data with NuoDB",
+		"url": "",
+        "author": "Pinal Dave",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.pinaldave.com/sql-download/nuodb.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Pro Team Foundation Service",
+		"url": "http://www.apress.com/9781430259954",
+        "author": "Mathias Olausson, Joachim Rossberg, Jakob Ehn, Mattias Sköld"
+    }
+}
+);

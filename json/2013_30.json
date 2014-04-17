@@ -1,0 +1,58 @@
+data_2013_30(
+{
+    "issue": 47,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://paulgraham.com/ds.html",
+            "title": "Do Things that Don't Scale",
+            "description": ""
+        },
+		{
+            "url": "http://googletesting.blogspot.com/2013/07/testing-on-toilet-know-your-test-doubles.html",
+            "title": "Know Your Test Doubles",
+            "description": "The difference between stubs, mocks, and fakes."
+        },
+		{
+            "url": "http://tech.pro/tutorial/1419/10-things-in-sql-server-which-don-t-work-as-expected",
+            "title": "10 things in SQL Server (which don't work as expected)",
+            "description": ""
+        },
+		{
+            "url": "http://www.codinghorror.com/blog/2013/07/rule-of-three.html",
+            "title": "The Rule of Three",
+            "description": ""
+        },
+		{
+            "url": "http://www.objectplayground.com/",
+            "title": "The Definitive Guide to Object-Oriented JavaScript - a tool and video for exploring objects in JS",
+            "description": ""
+        },
+		{
+            "url": "http://blog.hartleybrody.com/https-certificates/",
+            "title": "How HTTPS Secures Connections: What Every Web Dev Should Know",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Data Structures Succinctly Part 1",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1",
+        "author": "Robert Horvick",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Data%20Structures%20Succinctly%20Part%201.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Data%20Structures%20Succinctly%20Part%201.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "Instant RabbitMQ Messaging Application Development How-to",
+		"url": "http://shop.oreilly.com/product/9781782165743.do",
+        "author": "Andrew Keig"
+    }
+}
+);

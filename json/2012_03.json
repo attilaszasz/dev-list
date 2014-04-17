@@ -1,0 +1,93 @@
+data_2012_03(
+{
+    "issue": 3,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://davidcelis.com/blog/2012/09/06/stop-validating-email-addresses-with-regex/",
+            "title": "Stop Validating Email Addresses With Your Complex Regex",
+            "description": ""
+        },
+        {
+            "url": "http://code.jonwagner.com/2012/09/06/best-practices-for-c-asyncawait/",
+            "title": "Best Practices for c# async/await",
+            "description": ""
+        },
+        {
+            "url": "http://code.jonwagner.com/2012/09/11/best-practices-when-to-not-use-asynchronous-programming/",
+            "title": "Best Practices: When to (NOT) Use Asynchronous Programming",
+            "description": ""
+        },
+        {
+            "url": "http://blogs.msdn.com/b/thalesc/archive/2012/09/05/favor-composition-over-inheritance.aspx",
+            "title": "Favor Composition Over Inheritance",
+            "description": ""
+        },
+        {
+            "url": "https://github.com/blog/1252-how-we-keep-github-fast",
+            "title": "How we keep GitHub fast",
+            "description": ""
+        },
+        {
+            "url": "http://twitter.github.com/bower/",
+            "title": "Bower: A package manager for the web, from Twitter",
+            "description": ""
+        },
+        {
+            "url": "http://www.dodgycoder.net/2012/09/q-with-nine-great-programmers.html",
+            "title": "Q&A With Nine Great Programmers",
+            "description": ""
+        },
+        {
+            "url": "http://blog.notdot.net/2012/09/Dam-Cool-Algorithms-Cardinality-Estimation",
+            "title": "Damn Cool Algorithms: Cardinality Estimation",
+            "description": ""
+        },
+        {
+            "url": "http://www.troyhunt.com/2012/09/10-lessons-for-uncultured-web-developers.html",
+            "title": "10 lessons for uncultured web developers ",
+            "description": ""
+        },
+        {
+            "url": "http://fpcomplete.com/ten-things-you-should-know-about-haskell-syntax/",
+            "title": "Ten Things You Should Know About Haskell Syntax",
+            "description": ""
+        },
+        {
+            "url": "http://www.americanscientist.org/issues/pub/2012/5/alice-and-bob-in-cipherspace/1",
+            "title": "A new form of encryption allows you to compute with data you cannot read",
+            "description": ""
+        },
+        {
+            "url": "http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html",
+            "title": "Javascript Sorting - We're Doing It Wrong",
+            "description": ""
+        },
+        {
+            "url": "http://www.drdobbs.com/tools/microsoft-visual-studio-2012-reviewed/240007128",
+            "title": "Microsoft Visual Studio 2012 Reviewed",
+            "description": ""
+        },
+        {
+            "url": "http://google-opensource.blogspot.com/2012/09/j2objc-java-to-ios-objective-c.html",
+            "title": "J2ObjC: A Java to iOS Objective-C translator",
+            "description": ""
+        },
+        {
+            "url": "http://typecastexception.com/post/2012/09/01/Getting-Started-with-Git-for-the-Windows-Developer-%28Part-I%29.aspx",
+            "title": "Getting Started with Git for the Windows Developer (Part I)",
+            "description": ""
+        },
+        {
+            "url": "http://martinfowler.com/articles/modernMockingTools.html",
+            "title": "Modern Mocking Tools and Black Magic",
+            "description": ""
+        },
+        {
+            "url": "http://lethain.com/introduction-to-architecting-systems-for-scale/",
+            "title": "Introduction to Architecting Systems for Scale",
+            "description": ""
+        }
+    ]
+}
+);

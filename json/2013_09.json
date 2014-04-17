@@ -1,0 +1,48 @@
+data_2013_09(
+{
+    "issue": 26,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://loup-vaillant.fr/tutorials/from-imperative-to-functional",
+            "title": "From Imperative to Functional: how to make the leap",
+            "description": ""
+        },
+		{
+            "url": "http://maxburstein.com/blog/intro-to-graph-theory-finding-shortest-path-part2/",
+            "title": "Introduction to Graph Theory: Finding The Shortest Path (Part 2)",
+            "description": ""
+        },
+		{
+            "url": "http://www.debuggex.com/?re=&str=",
+            "title": "Debuggex: A visual regular expression debugger, tester, and helper.",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/svick/LINQ-to-Wiki",
+            "title": "LinqToWiki",
+            "description": "LinqToWiki is a library for accessing sites running MediaWiki (including Wikipedia) through the MediaWiki API from .Net languages like C# and VB.NET."
+        },
+		{
+            "url": "http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml",
+            "title": "Google JavaScript Style Guide",
+            "description": ""
+        },
+		{
+            "url": "http://amberonrails.com/building-stripes-api/",
+            "title": "Building Stripe's API",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Hadoop Illuminated",
+		"url": "http://hadoopilluminated.com/hadoop_book/index.html",
+        "author": "Mark Kerzner, Sujee Maniyam"
+    },
+    "book": {
+        "title": "Google Analytics, 2nd Edition",
+		"url": "http://shop.oreilly.com/product/0636920023326.do",
+        "author": "Justin Cutroni"
+    }
+}
+);

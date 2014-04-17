@@ -1,0 +1,53 @@
+data_2013_22(
+{
+    "issue": 39,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.softfinity.com/blog/the-battle-of-modern-javascript-frameworks-part-i/",
+            "title": "The Battle of Modern Javascript Frameworks",
+            "description": ""
+        },
+		{
+            "url": "http://happybearsoftware.com/you-are-dangerously-bad-at-cryptography.html",
+            "title": "You are dangerously bad at cryptography",
+            "description": ""
+        },
+		{
+            "url": "http://stackoverflow.com/questions/2307283/what-does-olog-n-mean-exactly/2307314#2307314",
+            "title": "What does O(log n) mean exactly?",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/this-happened-to-me/8f381aa6bd5e",
+            "title": "Four Steps to Google, Without a Degree",
+            "description": ""
+        },
+		{
+            "url": "http://www.engineeringandcareering.co.uk/2013/05/the-well-rounded-technical-lead-model.html",
+            "title": "The Well-Rounded Technical Lead (A Model for Technical Leadership)",
+            "description": ""
+        },
+		{
+            "url": "http://googletesting.blogspot.ro/2013/05/testing-on-toilet-dont-overuse-mocks.html",
+            "title": "Testing on the Toilet: Don’t Overuse Mocks",
+            "description": ""
+        },
+		{
+            "url": "http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api",
+            "title": "Best Practices for Designing a Pragmatic RESTful API",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Object-Oriented Reenginering Patterns",
+		"url": "http://scg.unibe.ch/download/oorp/OORP.pdf",
+        "author": "Serge Demeyer, Stéphane Ducasse, Oscar Nierstraz"
+    },
+    "book": {
+        "title": "Inside the Microsoft® Build Engine, Using MSBuild and Team Foundation Build",
+		"url": "http://shop.oreilly.com/product/0790145301949.do",
+        "author": "Sayed Ibrahim Hashimi, William Bartholomew"
+    }
+}
+);

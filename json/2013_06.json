@@ -1,0 +1,48 @@
+data_2013_06(
+{
+    "issue": 23,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://msdn.microsoft.com/en-us/magazine/jj891017.aspx",
+            "title": "Essential Facebook Programming: The JavaScript SDK",
+            "description": ""
+        },
+		{
+            "url": "http://lorempixel.com/",
+            "title": "Placeholder Images for every case.",
+            "description": ""
+        },
+		{
+            "url": "http://stanford.edu/class/cs193p/cgi-bin/drupal/",
+            "title": "Stanford iPhone Development Class",
+            "description": ""
+        },
+		{
+            "url": "http://bonsaiden.github.com/JavaScript-Garden/",
+            "title": "JavaScript Garden (JS quirks & pitfalls explained)",
+            "description": ""
+        },
+		{
+            "url": "https://www.dropbox.com/developers/blog/26",
+            "title": "Introducing the Dropbox Sync API for mobile developers",
+            "description": ""
+        },
+		{
+            "url": "http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/",
+            "title": "StackExchage: Why We (Still) Believe in Working Remotely",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Performance Testing Guidance for Web Applications",
+		"url": "http://perftestingguide.codeplex.com/",
+        "author": "J.D. Meier, Carlos Farre, Prashant Bansode, Scott Barber, Dennis Rea"
+    },
+    "book": {
+        "title": "Professional Microsoft IIS 8",
+		"url": "http://www.amazon.com/Professional-Microsoft-IIS-8-ebook/dp/B00ANO4ARM/",
+        "author": "Ken Schaefer, Jeff Cochran, Scott Forsyth, Dennis Glendenning, Benjamin Perkins"
+    }
+}
+);

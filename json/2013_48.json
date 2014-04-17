@@ -1,0 +1,88 @@
+data_2013_48(
+{
+    "issue": 65,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blogs.msdn.com/b/dotnet/archive/2013/11/25/opening-files-from-skydrive-using-net.aspx",
+            "title": "Opening Files from SkyDrive using .NET",
+            "description": ""
+        },
+		{
+            "url": "http://www.daedtech.com/restful-home-automation",
+            "title": "RESTful Home Automation",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/windows_azure_technical_support_wats_team/archive/2013/11/21/windows-azure-learning-resources.aspx",
+            "title": "Windows Azure Learning Resources",
+            "description": ""
+        },
+		{
+            "url": "http://codeofrob.com/entries/frameworkless-js---what-jquery-did-right.html",
+            "title": "Frameworkless JS - What jQuery did right",
+            "description": ""
+        },
+		{
+            "url": "http://flippinawesome.org/2013/11/25/writing-better-jquery-code/",
+            "title": "Writing Better jQuery Code",
+            "description": ""
+        },
+		{
+            "url": "http://cwbuecheler.tumblr.com/post/68163195864/on-penny-arcade-exploitation-and-the-myth-of-the",
+            "title": "On Penny Arcade, Exploitation, and the Myth of the Do-Everything Rock Star",
+            "description": ""
+        },
+		{
+            "url": "http://stephenhaunts.com/2013/11/22/is-wcf-redundant/",
+            "title": "Is WCF Redundant?",
+            "description": ""
+        },
+		{
+            "url": "https://blogs.oracle.com/onesizedoesntfitall/entry/adf_mobile_avoiding_the_android",
+            "title": "ADF Mobile: Avoiding the Android Emulator with AndroVM",
+            "description": ""
+        },
+		{
+            "url": "http://www.sitepoint.com/ten-toughest-tasks-development/",
+            "title": "The Ten Toughest Tasks in Development",
+            "description": ""
+        },
+		{
+            "url": "http://www.barebonescoder.com/2013/11/dapper-vs-ef-6-part-3-the-winner/",
+            "title": "Dapper vs. EF 6",
+            "description": ""
+        },
+		{
+            "url": "http://dotnetfiddle.net/",
+            "title": ".NET Fiddle",
+            "description": ""
+        },
+		{
+            "url": "http://wearemammoth.com/2013/11/long-hours",
+            "title": "What Long Hours Really Mean",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Knockout.js Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/knockoutjs",
+        "author": "Ryan Hodson",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Knockoutjs_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Knockoutjs_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "Android Studio Application Development",
+		"url": "http://shop.oreilly.com/product/9781783285273.do",
+        "author": "Belen Cruz Zapata"
+    }
+}
+);

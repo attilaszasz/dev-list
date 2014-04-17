@@ -1,0 +1,58 @@
+data_2014_14(
+{
+    "issue": 83,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://geekswithblogs.net/akraus1/archive/2014/03/24/155766.aspx",
+            "title": "What Every Developer Must Know About Fast Garbage Collection (+ more)",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/tutorials/create-a-music-player-on-android-song-playback--mobile-22778",
+            "title": "Create a Music Player on Android: Song Playback",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.telerik.com/ServicesTeam/posts/14-03-31/9-reasons-your-project-is-going-to-fail",
+            "title": "9 Reasons Your Project is Going to Fail",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/AnalysisParalysisOverthinkingAndKnowingTooMuchToJustCODE.aspx",
+            "title": "Analysis Paralysis: Over-thinking and Knowing Too Much to Just CODE",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/kaevans/archive/2014/03/28/git-for-team-foundation-developers-merging.aspx",
+            "title": "Git for Team Foundation Developers - Merging",
+            "description": ""
+        },
+		{
+            "url": "http://www.funnyant.com/javascript-frameworks/",
+            "title": "JavaScript Frameworks - How to Learn Them Quickly",
+            "description": ""
+        },
+		{
+            "url": "http://blog.teamtreehouse.com/building-html5-context-menus",
+            "title": "Building HTML5 Context Menus",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/03/28/design-principles-visual-perception-and-the-principles-of-gestalt/",
+            "title": "Design Principles: Visual Perception And The Principles Of Gestalt",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Explore SharePoint 2013",
+		"url": "http://www.microsoft.com/en-us/download/confirmation.aspx?id=35396",
+        "author": ""
+    },
+    "book": {
+        "title": "Bootstrap Site Blueprints",
+		"url": "http://www.packtpub.com/bootstrap-site-blueprints/book",
+        "author": "David Cochran, Ian Whitley"
+    }
+}
+);

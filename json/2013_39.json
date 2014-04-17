@@ -1,0 +1,63 @@
+data_2013_39(
+{
+    "issue": 56,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.joelonsoftware.com/articles/fog0000000069.html",
+            "title": "Things You Should Never Do, Part I",
+            "description": ""
+        },
+		{
+            "url": "http://cirw.in//blog/time-to-move-on.html",
+            "title": "MVC is dead, it's time to MOVE on",
+            "description": ""
+        },
+		{
+            "url": "http://www.theverge.com/2013/9/18/4744904/how-facebook-secretly-redesigned-its-iphone-app-with-your-help",
+            "title": "How Facebook secretly redesigned its iPhone app with your help",
+            "description": ""
+        },
+		{
+            "url": "http://www3.cfo.com/article/2013/5/it-value_martha-heller-it-talent-hiring-growing-people-cio-cfo",
+            "title": "The IT Talent Problem",
+            "description": ""
+        },
+		{
+            "url": "http://msmvps.com/blogs/jon_skeet/archive/2013/09/21/career-and-skills-advice.aspx",
+            "title": "Career and skills advice by Jon Skeet",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/html-css-techniques/mobile-first-with-bootstrap-3/",
+            "title": "Mobile First With Bootstrap 3",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn423698.aspx",
+            "title": "HTML5 Threading with Web Workers and Data Storage with IndexedDB",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Distributed systems for fun and profit",
+		"url": "http://book.mixu.net/distsys/single-page.html",
+        "author": "Mikito Takada",
+        "links": [
+            {
+                "name": "epub",
+                "url": "http://book.mixu.net/distsys/mixu-distributed-systems-book.epub"
+            },
+			{
+                "name": "mobi",
+                "url": "http://book.mixu.net/distsys/mixu-distributed-systems-book.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "Beginning Arduino",
+		"url": "http://www.apress.com/9781430250166",
+        "author": "Michael McRoberts"
+    }
+}
+);

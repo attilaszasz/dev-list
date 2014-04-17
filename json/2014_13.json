@@ -1,0 +1,68 @@
+data_2014_13(
+{
+    "issue": 82,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://maori.geek.nz/post/when_to_be_a_software_architect",
+            "title": "When to be a Software Architect",
+            "description": ""
+        },
+		{
+            "url": "http://ryanoneill.com/what-do-developers-spend-all-that-time-on/",
+            "title": "What do developers spend all that time on?",
+            "description": ""
+        },
+		{
+            "url": "http://tympanus.net/codrops/2013/11/07/css-overlay-techniques/",
+            "title": "CSS Overlay Techniques",
+            "description": ""
+        },
+		{
+            "url": "http://www.charlotteis.co.uk/html-emails-arent-that-bad/",
+            "title": "HTML Emails Aren't That Bad",
+            "description": ""
+        },
+		{
+            "url": "http://lab.abhinayrathore.com/jquery-standards/",
+            "title": "jQuery Coding Standards & Best Practices",
+            "description": ""
+        },
+		{
+            "url": "http://www.webperformancetoday.com/2014/03/18/waterfalls-101-how-to-use-a-waterfall-chart-to-diagnose-performance-pains/",
+            "title": "Waterfalls 101",
+            "description": "How to use a waterfall chart to diagnose your website's performance pains"
+        },
+		{
+            "url": "http://www.mckinsey.com/insights/high_tech_telecoms_internet/ten_it-enabled_business_trends_for_the_decade_ahead",
+            "title": "Ten IT-enabled business trends for the decade ahead",
+            "description": ""
+        },
+		{
+            "url": "https://code.tutsplus.com/tutorials/securely-handling-users-login-credentials--cms-20369",
+            "title": "Securely Handling User's Login Credentials",
+            "description": ""
+        },
+		{
+            "url": "http://www.wei-wang.com/ExplainGitWithD3/",
+            "title": "Visualizing Git Concepts with D3",
+            "description": ""
+        },
+		{
+            "url": "http://www.ajkp.ca/2014/03/24/linkedlist-has-a-loop/",
+            "title": "How To Find If A LinkedList Has A Loop And Where The Loop Is",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Web Platform",
+		"url": "http://shop.oreilly.com/product/0636920033127.do?code=CFFLNT",
+        "author": "Simon St.Laurent"
+    },
+    "book": {
+        "title": "Web Development with Node and Express",
+		"url": "http://shop.oreilly.com/product/0636920032977.do",
+        "author": "Ethan Brown"
+    }
+}
+);

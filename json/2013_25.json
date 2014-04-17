@@ -1,0 +1,63 @@
+data_2013_25(
+{
+    "issue": 42,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://scrumtrainingseries.com/",
+            "title": "Scrum Training Series",
+            "description": "Free Online Scrum Master Training: The fun way to learn about Agile/Scrum"
+        },
+		{
+            "url": "http://jakearchibald.github.io/request-quest/",
+            "title": "Request Quest",
+            "description": ""
+        },
+		{
+            "url": "http://blog.etianen.com/blog/2013/05/19/html5-video-is-hard/",
+            "title": "Embedding HTML5 video is still pretty hard",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/codeanalysis/archive/2006/04/27/585476.aspx",
+            "title": "FAQ: Why does DoNotExposeGenericLists recommend that I expose Collection<T> instead of List<T>?",
+            "description": ""
+        },
+		{
+            "url": "http://su-shee.tumblr.com/post/50901053095/a-constant-source-of-confusion-simplicity",
+            "title": "A constant source of confusion: Simplicity",
+            "description": ""
+        },
+		{
+            "url": "http://www.webperformancetoday.com/2013/06/05/web-page-growth-2010-2013/",
+            "title": "The average web page has almost doubled in size since 2010",
+            "description": ""
+        },
+		{
+            "url": "http://ericlippert.com/2013/06/10/construction-destruction/?utm_source=rss&utm_medium=rss&utm_campaign=construction-destruction",
+            "title": "Construction destruction",
+            "description": ""
+        },
+		{
+            "url": "http://crazyagility.wordpress.com/2013/06/10/unit-tests-are-not-for-validation/",
+            "title": "Unit tests are not for validation",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/6/10/the-10-deadly-sins-against-scalability.html",
+            "title": "The 10 Deadly Sins Against Scalability",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Little Redis Book",
+		"url": "http://openmymind.net/2012/1/23/The-Little-Redis-Book/",
+        "author": "Karl Seguin"
+    },
+    "book": {
+        "title": "Android Recipes - A Problem-Solution Approach",
+		"url": "http://www.apress.com/9781430234135",
+        "author": "Dave Smith, Jeff Friesen"
+    }
+}
+);

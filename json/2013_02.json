@@ -1,0 +1,53 @@
+data_2013_02(
+{
+    "issue": 19,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://eli.thegreenplace.net/2013/01/05/understanding-your-own-code/",
+            "title": "Understanding your own code",
+            "description": "Not being able to understand the code you wrote a week ago, or a year ago, is unforgivable for a professional programmer"
+        },
+		{
+            "url": "http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/",
+            "title": "SQL Injection Cheat Sheet",
+            "description": ""
+        },
+		{
+            "url": "http://blog.gomiso.com/2013/01/06/asynchronous-processing-in-web-applications-part-2-developers-need-to-understand-message-queues/",
+            "title": "Asynchronous Processing in Web Applications, Part 2: Developers Need to Understand Message Queues",
+            "description": ""
+        },
+		{
+            "url": "http://www.codecademy.com/blog/52-introducing-api-lessons",
+            "title": "Codecademy introduces API lessons with YouTube, SoundCloud, Parse, and more",
+            "description": ""
+        },
+		{
+            "url": "http://slant.co/topics/what-is-the-best-architecture-for-building-a-web-service/opinions/rest",
+            "title": "SOAP vs REST for web service architectures",
+            "description": ""
+        },
+		{
+            "url": "https://blog.stackmob.com/2013/01/resources-for-getting-started-with-functional-programming-and-scala/",
+            "title": "Resources for Getting Started With Functional Programming and Scala",
+            "description": ""
+        },
+		{
+            "url": "http://kellabyte.com/2011/09/04/clarifying-rest/",
+            "title": "Clarifying REST",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Node Beginner Book",
+		"url": "http://www.nodebeginner.org/",
+        "author": "Manuel Kiessling"
+    },
+    "book": {
+        "title": "Pro JavaScript Performance : Monitoring and Visualization",
+		"url": "http://www.apress.com/9781430247494",
+        "author": "Tom Barker"
+    }
+}
+);

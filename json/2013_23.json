@@ -1,0 +1,63 @@
+data_2013_23(
+{
+    "issue": 40,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://victorarias.com.br/2013/05/30/tests-are-your-best-friend.html",
+            "title": "Tests Are Your Best Friends: Do Not Neglect Them",
+            "description": ""
+        },
+		{
+            "url": "http://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/",
+            "title": "Falsehoods programmers believe about addresses",
+            "description": ""
+        },
+		{
+            "url": "http://visual.ly/history-programming-languages",
+            "title": "The History of Programming Languages",
+            "description": ""
+        },
+		{
+            "url": "http://www.browserhacks.com/",
+            "title": "Browser Hacks",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/blog/1352/aspnet-mvc--5-bad-out-of-the-box-guidances",
+            "title": "ASP.NET MVC: 5 bad out-of-the-box guidances",
+            "description": ""
+        },
+		{
+            "url": "http://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/",
+            "title": "What is a Full Stack developer?",
+            "description": ""
+        },
+		{
+            "url": "http://flippinawesome.org/2013/06/03/javascript-inheritance-how-to-shoot-yourself-in-the-foot-with-prototypes/",
+            "title": "JavaScript Inheritance",
+            "description": "How To Shoot Yourself In the Foot With Prototypes!"
+        },
+		{
+            "url": "http://blogs.msdn.com/b/bharry/archive/2013/06/03/visual-studio-2013.aspx",
+            "title": "Visual Studio 2013",
+            "description": ""
+        },
+		{
+            "url": "http://www.brentozar.com/archive/2013/06/almost-everything-you-need-to-know-about-the-next-version-of-sql-server/",
+            "title": "(Almost) Everything You Need to Know About SQL Server 2014",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Little MongoDB Book",
+		"url": "http://openmymind.net/mongodb.pdf",
+        "author": "Karl Seguin"
+    },
+    "book": {
+        "title": "Functional JavaScript - Introducing Functional Programming with Underscore.js",
+		"url": "http://shop.oreilly.com/product/0636920028857.do",
+        "author": "Michael Fogus"
+    }
+}
+);

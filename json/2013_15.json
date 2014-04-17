@@ -1,0 +1,48 @@
+data_2013_15(
+{
+    "issue": 32,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://support.microsoft.com/kb/2797912",
+            "title": "Description of Visual Studio 2012 Update 2",
+            "description": ""
+        },
+		{
+            "url": "http://www.attendly.com/debunking-the-myths-about-the-programmers-brain/",
+            "title": "Debunking The Myths About The Programmer’s Brain",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Tips/573781/jQuery-Best-Practices",
+            "title": "jQuery Best Practices",
+            "description": ""
+        },
+		{
+            "url": "http://onstartups.com/tabid/3339/bid/97052/Screw-You-Joel-Spolsky-We-re-Rewriting-It-From-Scratch.aspx",
+            "title": "How To Survive a Ground-Up Rewrite Without Losing Your Sanity",
+            "description": ""
+        },
+		{
+            "url": "http://xlinux.nist.gov/dads/",
+            "title": "Dictionary of Algorithms and Data Structures",
+            "description": ""
+        },
+		{
+            "url": "http://www.youtube.com/watch?v=Il4swGfTOSM&feature=youtu.be",
+            "title": "Breaking the 1000ms Time to Glass Mobile Barrier",
+            "description": "[Video] by a Google Engineer about what it takes to render a web page in under 1 second."
+        }
+    ],
+    "freebook": {
+        "title": "PHP The Right Way",
+		"url": "http://www.phptherightway.com/",
+        "author": "Josh Lockhart"
+    },
+    "book": {
+        "title": "Inside Microsoft® SQL Server® 2008: T-SQL Programming",
+		"url": "http://shop.oreilly.com/product/9780735626027.do",
+        "author": "Itzik Ben-Gan, Dejan Sarka, Greg Low, Roger Wolter, Ed Katibah, Isaac Kunen"
+    }
+}
+);

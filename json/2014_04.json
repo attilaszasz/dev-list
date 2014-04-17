@@ -1,0 +1,68 @@
+data_2014_04(
+{
+    "issue": 73,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.brentozar.com/archive/2014/01/how-to-query-the-stackexchange-databases/",
+            "title": "How to Query the StackExchange Databases",
+            "description": ""
+        },
+		{
+            "url": "http://www.woodwardweb.com/git/setting_up_the.html",
+            "title": "Setting up the Perfect Git Command Line Environment on Windows",
+            "description": ""
+        },
+		{
+            "url": "http://www.sitepoint.com/ten-quick-fixes-reduce-page-weight/",
+            "title": "10 Quick and Easy Fixes to Reduce Page Weight",
+            "description": ""
+        },
+		{
+            "url": "http://norvig.com/21-days.html",
+            "title": "Teach Yourself Programming in Ten Years",
+            "description": ""
+        },
+		{
+            "url": "http://www.lionhack.com/2014/01/14/advanced-dotnet-debugging-pdbs-and-symbols/",
+            "title": "Advanced .NET Debugging - PDBs and Symbol Stores",
+            "description": ""
+        },
+		{
+            "url": "http://programming.oreilly.com/2014/01/web-performance-is-user-experience.html",
+            "title": "Web Performance Is User Experience",
+            "description": ""
+        },
+		{
+            "url": "http://rexstjohn.com/write-cross-platform-cordova-3-3-app-android-ios/",
+            "title": "Writing Android and iOS apps with Cordova 3.3",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2014/1/22/how-would-you-build-the-next-internet-loons-drones-copters-s.html",
+            "title": "How Would You Build The Next Internet? Loons, Drones, Copters, Satellites, Or Something Else?",
+            "description": ""
+        },
+		{
+            "url": "http://use-the-index-luke.com/blog/2014-01/unreasonable-defaults-primary-key-clustering-key",
+            "title": "Unreasonable Defaults: Primary Key as Clustering Key",
+            "description": ""
+        },
+		{
+            "url": "http://blog.thesoftwarecraft.com/2014/01/acceptance-test-driven-development.html",
+            "title": "Acceptance Test Driven Development",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Resonate",
+		"url": "http://resonate.duarte.com/",
+        "author": "Nancy Duarte"
+    },
+    "book": {
+        "title": "Pro ASP.NET Web API Security",
+		"url": "http://www.apress.com/9781430257820",
+        "author": "Badrinarayanan Lakshmiraghavan"
+    }
+}
+);

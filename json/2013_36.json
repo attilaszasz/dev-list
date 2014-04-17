@@ -1,0 +1,68 @@
+data_2013_36(
+{
+    "issue": 53,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://ruoyusun.com/2013/04/14/to-developers-who-first-use-bootstrap-one.html",
+            "title": "To Developers Who First Use Bootstrap (One)",
+            "description": ""
+        },
+		{
+            "url": "http://ruoyusun.com/2013/05/17/to-developers-who-first-use-bootstrap-two.html",
+            "title": "To Developers Who First Use Bootstrap (Two)",
+            "description": ""
+        },
+		{
+            "url": "http://econsultancy.com/ro/blog/5525-top-20-seo-requirements-for-any-ecommerce-platform",
+            "title": "Top 20 SEO requirements for scoping your eCommerce platform",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/AmIReallyADeveloperOrJustAGoodGoogler.aspx",
+            "title": "Am I really a developer or just a good googler?",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/ACloudAndAzureGlossaryForTheConfused.aspx",
+            "title": "A Cloud and Azure Glossary for the Confused",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/library/hh350860.aspx",
+            "title": "Ten Year Agile Retrospective",
+            "description": "How We Can Improve In The Next Ten Years"
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/php/building-a-codeigniter-web-application-from-scratch-part-1/",
+            "title": "Building a CodeIgniter Web Application From Scratch – Part 1",
+            "description": ""
+        },
+		{
+            "url": "http://java.dzone.com/articles/how-create-jquery-datatable?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+zones%2Fcss+%28CSS+Zone%29",
+            "title": "How to create a JQuery DataTable using JSON and Servlet",
+            "description": ""
+        },
+		{
+            "url": "http://ayende.com/blog/163170/building-async-unit-of-work-with-mvc-4",
+            "title": "Building async Unit of Work with MVC 4",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/audreyr/favicon-cheat-sheet",
+            "title": "favicon-cheat-sheet",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Paul Thurrott’s Windows Phone 8",
+		"url": "http://www.windowsphonebook.com/",
+        "author": "Paul Thurrott"
+    },
+    "book": {
+        "title": "Software Requirements 3",
+		"url": "http://shop.oreilly.com/product/0790145385512.do",
+        "author": "Karl E Wiegers, Joy Beatty"
+    }
+}
+);

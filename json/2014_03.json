@@ -1,0 +1,74 @@
+data_2014_03(
+{
+    "issue": 72,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://blog.jerrynixon.com/2014/01/the-most-comprehensive-blend-for-visual.html",
+            "title": "The most Comprehensive Blend for Visual Studio training you will ever receive - for Free",
+            "description": ""
+        },
+		{
+            "url": "http://www.khalidabuhakmeh.com/asp-net-mvc-5-authentication-breakdown-part-deux",
+            "title": "ASP.NET MVC 5 Authentication Breakdown : Part Deux",
+            "description": ""
+        },
+		{
+            "url": "http://www.thoughtleadersllc.com/2014/01/5-myths-that-can-ruin-project-management/",
+            "title": "5 Myths that Can Ruin Project Management",
+            "description": ""
+        },
+		{
+            "url": "http://jairtrejo.mx/blog/2014/01/git-commit-sins",
+            "title": "Git commit sins",
+            "description": ""
+        },
+		{
+            "url": "http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/",
+            "title": "Vertical align anything with just 3 lines of CSS",
+            "description": ""
+        },
+		{
+            "url": "http://blog.coverity.com/2014/01/13/inconsistent-equality/#.UteAO_QW3_8",
+            "title": "C#: Inconsistent equality",
+            "description": ""
+        },
+		{
+            "url": "http://www.drdobbs.com/windows/parsing-big-records-with-jsonnet/240165316",
+            "title": "Parsing Big Records with Json.NET",
+            "description": ""
+        },
+		{
+            "url": "http://www.youtube.com/watch?v=qf2N1GnQTd8",
+            "title": "Understanding Git",
+            "description": ""
+        },
+		{
+            "url": "http://bearmetal.eu/theden/do-you-know-the-biggest-reason-why-enterprise-software-sucks/",
+            "title": "Do You Know the Biggest Reason for Why Enterprise Software Sucks?",
+            "description": ""
+        },
+		{
+            "url": "http://girliemac.com/blog/2014/01/12/luminosity/",
+            "title": "Responsive UI with Luminosity Level",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The C# Programming Yellow Book",
+		"url": "http://www.robmiles.com/c-yellow-book/",
+        "author": "Rob Miles",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://static.squarespace.com/static/5019271be4b0807297e8f404/t/52ca85ebe4b04a45ef2c9c97/1389004267685/Rob%20Miles%20CSharp%20Yellow%20Book%202014.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Beginning Backbone.js",
+		"url": "http://www.apress.com/9781430263340",
+        "author": "James Sugrue"
+    }
+}
+);

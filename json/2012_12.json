@@ -1,0 +1,48 @@
+data_2012_12(
+{
+    "issue": 12,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://brendan.sdf-eu.org/fpiah/wp7/",
+            "title": "Windows Phone Development for People in a Hurry ",
+            "description": ""
+        },
+        {
+            "url": "http://www.benrady.com/2012/11/theres-no-such-thing-as-software-productivity.html",
+            "title": "There's No Such Thing As Software Productivity",
+            "description": ""
+        },
+        {
+            "url": "http://www.nytimes.com/2012/11/18/business/as-boom-lures-app-creators-tough-part-is-making-a-living.html?pagewanted=all&_r=0",
+            "title": "As Boom Lures App Creators, Tough Part Is Making a Living",
+            "description": ""
+        },
+        {
+            "url": "http://www.richardrodger.com/2012/11/03/why-i-have-given-up-on-coding-standards/#.UK3WbYb7eUk",
+            "title": "Why I Have Given Up on Coding Standards",
+            "description": ""
+        },
+        {
+            "url": "http://msdn.microsoft.com/en-us/magazine/jj835794.aspx",
+            "title": "Authentication with jQuery Mobile.",
+            "description": "Learn how to connect a jQuery Mobile application to the Forms authentication system in an ASP.NET application."
+        },
+        {
+            "url": "http://msdn.microsoft.com/en-us/magazine/jj651577.aspx",
+            "title": "Authoring Windows Store Apps in Blend",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Eloquent JavaScript",
+		"url": "http://eloquentjavascript.net/contents.html",
+        "author": "Marijn Haverbeke"
+    },
+    "book": {
+        "title": "Programming Android, 2nd Edition",
+		"url": "http://shop.oreilly.com/product/0636920023005.do",
+        "author": "Zigurd Mednieks, Laird Dornin, G. Blake Meike, Masumi Nakamura"
+    }
+}
+);

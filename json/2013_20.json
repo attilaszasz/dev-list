@@ -1,0 +1,68 @@
+data_2013_20(
+{
+    "issue": 37,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.idsoftware.com/iphone-games/wolfenstein-3d-classic-platinum/wolfdevelopment.htm",
+            "title": "John Carmack about porting Wolfenstein 3D to the iPhone",
+            "description": ""
+        },
+		{
+            "url": "http://jonobr1.github.io/two.js/",
+            "title": "2D drawing API for JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://james-iry.blogspot.co.at/2009/05/brief-incomplete-and-mostly-wrong.html",
+            "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
+            "description": ""
+        },
+		{
+            "url": "http://bradt.ca/blog/stop-avoiding-regular-expressions-damn-it/",
+            "title": "Stop Avoiding Regular Expressions Damn It",
+            "description": ""
+        },
+		{
+            "url": "http://bergie.iki.fi/blog/six-weeks-working-android/",
+            "title": "Working on an Android tablet: first six weeks",
+            "description": ""
+        },
+		{
+            "url": "http://developer.android.com/sdk/installing/studio.html",
+            "title": "Android Studio",
+            "description": ""
+        },
+		{
+            "url": "https://developers.google.com/appengine/downloads#Google_App_Engine_SDK_for_PHP",
+            "title": "Google's new AppEngine language is PHP",
+            "description": ""
+        },
+		{
+            "url": "http://www.steamclock.com/blog/2013/05/apple-objective-c-javascript-bridge/",
+            "title": "Apple’s new Objective-C to Javascript Bridge",
+            "description": ""
+        },
+		{
+            "url": "http://www.bbc.co.uk/news/business-22317297",
+            "title": "How Estonia became E-stonia",
+            "description": ""
+        },
+		{
+            "url": "http://odetocode.com/blogs/scott/archive/2013/05/15/where-is-net-headed.aspx",
+            "title": "Where Is .NET Headed?",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Practical .NET Unit Testing",
+		"url": "http://downloads.ytechie.com/Practical_.NET_Unit_Testing.pdf",
+        "author": "Jason Young"
+    },
+    "book": {
+        "title": "Dependency Injection in .NET",
+		"url": "http://www.manning.com/seemann/",
+        "author": "Mark Seemann"
+    }
+}
+);

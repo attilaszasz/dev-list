@@ -1,0 +1,88 @@
+data_2013_33(
+{
+    "issue": 50,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://aurisc4.blogspot.ro/2013/03/mercurial-vs-git-every-day-use.html",
+            "title": "Mercurial vs. Git (every day use)",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/html-css-techniques/real-world-off-line-data-storage/",
+            "title": "Real-World Off-Line Data Storage",
+            "description": ""
+        },
+		{
+            "url": "http://www.brentozar.com/archive/2013/08/one-line-romantic-stories-of-sql-server/",
+            "title": "One-Line Romantic Stories of SQL Server",
+            "description": ""
+        },
+		{
+            "url": "http://www.deanhume.com/Home/BlogPost/asp-net-release-checklist/93",
+            "title": "ASP.NET Release Checklist",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx",
+            "title": "Penny Pinching in the Cloud",
+            "description": "When do Azure Websites make sense?"
+        },
+		{
+            "url": "http://www.codeproject.com/Tips/635451/Contravariance-in-Csharp",
+            "title": "Contravariance in C#",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/library/dd997578.aspx",
+            "title": "Agile Principles and Values",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/320219/Lucene-Net-ultra-fast-search-for-MVC-or-WebForms",
+            "title": "Lucene.Net ultra fast search for MVC or WebForms site",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/design-ux/dd45ec50f7b0",
+            "title": "Designing User Interfaces for Your Mother",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/636789/Knockout-Tutorial-Part-1",
+            "title": "Knockout Tutorial - Part 1",
+            "description": ""
+        },
+		{
+            "url": "http://visualstudiomagazine.com/articles/2013/07/23/async-actions-in-aspnet-mvc-4.aspx",
+            "title": "Async Actions in ASP.NET MVC 4",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "SQL Server 2012: High Availability Solutions",
+		"url": "",
+        "author": "Microsoft",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://ligman.me/ZZh7Ts"
+            },
+			{
+                "name": "mobi",
+                "url": "http://ligman.me/17UHSNJ"
+            },
+			{
+                "name": "epub",
+                "url": "http://ligman.me/14HcD5O"
+            }
+        ]
+
+    },
+    "book": {
+        "title": "Building Interactive Queries with LINQPad",
+		"url": "http://www.packtpub.com/building-interactive-queries-with-linqpad/book",
+        "author": "Sébastien Finot"
+    }
+}
+);

@@ -1,0 +1,87 @@
+data_2014_11(
+{
+    "issue": 80,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://visualstudiomagazine.com/articles/2014/02/01/43-great-windows-azure-development-resources.aspx?m=1",
+            "title": "43 Great Windows Azure Development Resources",
+            "description": ""
+        },
+		{
+            "url": "https://www.sendwithus.com/resources/bulletproof-html-email-components",
+            "title": "Bulletproof HTML Email Components",
+            "description": "These components will work in all email clients that matter"
+        },
+		{
+            "url": "http://madskristensen.net/post/cache-busting-in-aspnet",
+            "title": "Cache busting in ASP.NET",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.lessthandot.com/index.php/enterprisedev/cloud/azure/azure-web-sites-deployment-and-unit-testing/",
+            "title": "Azure Web Sites Deployment and Unit Testing",
+            "description": ""
+        },
+		{
+            "url": "http://www.strathweb.com/2014/03/per-request-tracing-asp-net-web-api/",
+            "title": "Per request tracing in ASP.NET Web API",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/741326/Introduction-to-Web-API-Versioning",
+            "title": "Introduction to Web API Versioning",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/tutorials/html5-vibration-api--mobile-22585",
+            "title": "HTML5: Vibration API",
+            "description": ""
+        },
+		{
+            "url": "http://blog.teamtreehouse.com/how-to-interpret-ridiculous-web-design-job-posts",
+            "title": "How to Interpret Ridiculous Web Design Job Posts",
+            "description": ""
+        },
+		{
+            "url": "http://vitalflux.com/tips-load-webpage-faster-based-googles-pre-recommendations/",
+            "title": "Tips to Load Your Webpage Faster based on Google's Pre-* Recommendations",
+            "description": ""
+        },
+		{
+            "url": "http://bdadam.com/blog/simple-usability-trick-for-google-maps.html",
+            "title": "A simple usability trick for Google Maps",
+            "description": ""
+        },
+		{
+            "url": "http://www.linkedin.com/today/post/article/20130328145402-81312-no-time-for-improvement-bah-make-time-for-improvement",
+            "title": "No Time for Improvement? Bah! Make Time for Improvement!",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Introduction Into Barcodes",
+		"url": "http://bytescout.com/books/introduction-into-barcodes-book.html",
+        "author": "ByteScout",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://bytescout.com/files/other/barcodesbook/Introduction%20Into%20Barcodes%20by%20ByteScout.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://bytescout.com/files/other/barcodesbook/Introduction%20Into%20Barcodes%20by%20ByteScout.mobi"
+            },
+			{
+                "name": "epub",
+                "url": "http://bytescout.com/files/other/barcodesbook/Introduction%20Into%20Barcodes%20by%20ByteScout.epub"
+            }
+        ]
+    },
+    "book": {
+        "title": "Data Structures and Algorithms with JavaScript",
+		"url": "http://shop.oreilly.com/product/0636920029557.do",
+        "author": "Michael McMillan"
+    }
+}
+);

@@ -1,0 +1,53 @@
+data_2013_17(
+{
+    "issue": 34,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://mathieu.fenniak.net/stop-designing-fragile-web-apis/",
+            "title": "Stop Designing Fragile Web APIs",
+            "description": ""
+        },
+		{
+            "url": "http://prog21.dadgum.com/171.html",
+            "title": "Remembering a Revolution That Never Happened",
+            "description": ""
+        },
+		{
+            "url": "http://prog21.dadgum.com/169.html",
+            "title": "Expertise, the Death of Fun, and What to Do About It",
+            "description": ""
+        },
+		{
+            "url": "http://www.amazedsaint.com/2013/04/hack-raspberry-pi-how-to-build.html",
+            "title": "Hack Raspberry Pi",
+            "description": "How To Build Apps In C#, WinForms and ASP.NET Using Mono In Pi"
+        },
+		{
+            "url": "http://codepen.io/stuffit/pen/KrAwx",
+            "title": "Tearable cloth simulation in raw JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://www.networkworld.com/news/tech/2012/102212-nosql-263595.html?page=1",
+            "title": "A vendor-independent comparison of NoSQL databases: Cassandra, HBase, MongoDB, Riak",
+            "description": ""
+        },
+		{
+            "url": "http://taskjs.org/",
+            "title": "Task.js - Concurrency for JavaScript",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Practical PostgreSQL",
+		"url": "http://commandprompt.com/ppbook/",
+        "author": "John Worsley, Joshua Drake"
+    },
+    "book": {
+        "title": "Training Kit (Exam 70-461): Querying Microsoft® SQL Server® 2012",
+		"url": "http://shop.oreilly.com/product/0790145345059.do?code=DEAL",
+        "author": "Itzik Ben-Gan, Dejan Sarka, Ron Talmage"
+    }
+}
+);

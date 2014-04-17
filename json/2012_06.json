@@ -1,0 +1,47 @@
+data_2012_06(
+{
+    "issue": 6,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://ozkatz.github.com/5-jquery-tips-for-intermediates.html",
+            "title": "5 jQuery tips for intermediates",
+            "description": ""
+        },
+        {
+            "url": "http://news.ycombinator.com/item?id=4626201",
+            "title": "How to be an Excellent Programmer for Many Years",
+            "description": ""
+        },
+        {
+            "url": "http://games.greggman.com/game/webgl-fundamentals/",
+            "title": "WebGL Fundamentals",
+            "description": ""
+        },
+        {
+            "url": "http://www.igvita.com/slides/2012/devtools-tips-and-tricks/",
+            "title": "Chrome DevTools could do that?",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Introducing Windows Server 2012",
+		"url": "",
+        "author": "Mitch Tulloch with the Windows Server Team",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://ligman.me/N1CgTz"
+            },
+			{
+                "name": "mobi",
+                "url": "http://ligman.me/OsFKzi"
+            },
+			{
+                "name": "epub",
+                "url": "http://ligman.me/OsFIaI"
+            }
+        ]
+    }
+}
+);

@@ -1,0 +1,48 @@
+data_2013_16(
+{
+    "issue": 33,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://jetstrap.com/",
+            "title": "Jetstrap",
+            "description": "Jetstrap is a 100% web-based interface building tool for Twitter Bootstrap."
+        },
+		{
+            "url": "http://www.layoutit.com/",
+            "title": "LayoutIt!",
+            "description": "Create your frontend code simple and quickly with Bootstrap using a Drag & Drop Interface Builder."
+        },
+		{
+            "url": "http://addyosmani.github.io/jquery-ui-bootstrap/",
+            "title": "jQuery UI Bootstrap",
+            "description": "A Bootstrap-themed kickstart for jQuery UI widgets"
+        },
+		{
+            "url": "https://www.kennethnorton.com/essays/how-to-work-with-software-engineers.html",
+            "title": "How to Work with Software Engineers",
+            "description": ""
+        },
+		{
+            "url": "http://mathieu.fenniak.net/the-api-checklist/",
+            "title": "The Web API Checklist",
+            "description": "43 Things To Think About When Designing, Testing, and Releasing your API"
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html",
+            "title": "Scaling Pinterest",
+            "description": "From 0 to 10s of Billions of Page Views a Month in Two Years"
+        }
+    ],
+    "freebook": {
+        "title": "Learn Regex The Hard Way",
+		"url": "http://regex.learncodethehardway.org/book/",
+        "author": "Zed. A. Shaw"
+    },
+    "book": {
+        "title": "Training Guide: Programming in HTML5 with JavaScript and CSS3",
+		"url": "http://shop.oreilly.com/product/0790145371133.do",
+        "author": "Glenn Johnson"
+    }
+}
+);

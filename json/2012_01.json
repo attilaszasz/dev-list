@@ -1,0 +1,58 @@
+data_2012_01(
+{
+    "issue": 1,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://www.dodgycoder.net/2012/08/tcpip-sockets-in-net-4.html",
+            "title": "TCP/IP Sockets in .NET 4",
+            "description": ""
+        },
+        {
+            "url": "http://www.ebaytechblog.com/2012/08/20/caching-http-post-requests-and-responses",
+            "title": "Caching HTTP POST Requests and Responses",
+            "description": ""
+        },
+        {
+            "url": "http://prog21.dadgum.com/148.html",
+            "title": "All that Stand Between You and a Successful Project are 500 Experiments",
+            "description": ""
+        },
+        {
+            "url": "http://www.techrepublic.com/blog/european-technology/should-developers-be-sued-for-security-holes/1109",
+            "title": "Should developers be sued for security holes?",
+            "description": ""
+        },
+        {
+            "url": "http://code.jonwagner.com/2012/08/24/best-practices-for-linq-enumerables-and-queryables/",
+            "title": "Best Practices for Linq Enumerables and Queryables",
+            "description": ""
+        },
+        {
+            "url": "http://madebyknight.com/javascript-scope/",
+            "title": "Javascript Scope Quiz",
+            "description": ""
+        },
+        {
+            "url": "http://blog.notdot.net/2012/08/Damn-Cool-Algorithms-Homomorphic-Hashing",
+            "title": "Damn Cool Algorithms: Homomorphic Hashing",
+            "description": ""
+        },
+        {
+            "url": "http://channel9.msdn.com/Events/BUILD/BUILD2011/PLAT-134C",
+            "title": "The complete developer's guide to the SkyDrive API",
+            "description": ""
+        },
+        {
+            "url": "http://channel9.msdn.com/posts/Introduction-to-Windows-Azure-Mobile-Services",
+            "title": "Introduction to Windows Azure Mobile Services",
+            "description": ""
+        },
+        {
+            "url": "http://stackoverflow.com/questions/549/the-definitive-guide-to-forms-based-website-authentication",
+            "title": "The Definitive Guide To Forms based Website Authentication",
+            "description": ""
+        }
+    ]
+}
+);

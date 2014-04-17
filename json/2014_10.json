@@ -1,0 +1,48 @@
+data_2014_10(
+{
+    "issue": 79,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.sqlperformance.com/2012/12/t-sql-queries/left-anti-semi-join",
+            "title": "Should I use NOT IN, OUTER APPLY, LEFT OUTER JOIN, EXCEPT, or NOT EXISTS?",
+            "description": ""
+        },
+		{
+            "url": "http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2014/03/03/baby-steps-on-android-with-xamarin-part-4.aspx",
+            "title": "Baby Steps on Android with Xamarin",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/NuGetPackageOfTheWeekFluentAutomationForAutomatedTestingOfWebApplications.aspx",
+            "title": "FluentAutomation for automated testing of Web Applications",
+            "description": ""
+        },
+		{
+            "url": "http://mobile.smashingmagazine.com/2014/03/03/how-to-use-analytics-to-build-smarter-mobile-websites/",
+            "title": "How To Use Analytics To Build A Smarter Mobile Website",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/windowsazure/archive/2014/03/04/windows-azure-websites-online-tools-you-should-know-about.aspx",
+            "title": "Windows Azure Websites online tools you should know about",
+            "description": ""
+        },
+		{
+            "url": "http://zachholman.com/posts/only-90s-developers/",
+            "title": "Only 90s Web Developers Remember This",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Cloud Design Patterns",
+		"url": "http://www.microsoft.com/en-us/download/details.aspx?id=42026&WT.mc_id=rss_alldownloads_all",
+        "author": "Alex Homer, John Sharp, Larry Brader, Masashi Narumoto, Trent Swanson"
+    },
+    "book": {
+        "title": "Designing Evolvable Web APIs with ASP.NET",
+		"url": "http://shop.oreilly.com/product/0636920026617.do",
+        "author": "Glenn Block, Pablo Cibraro, Pedro Felix, Howard Dierking, Darrel Miller"
+    }
+}
+);
