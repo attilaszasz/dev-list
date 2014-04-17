@@ -25,10 +25,19 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
         this.model.bind("change reset", this.render);
     },
     render: function () {
-        var html = DevList.Templates.MainMenu.render({ years: this.model.toJSON() });
-        this.$el.html(html);
+        this.$el.html(DevList.Templates.MainMenu.render({ years: this.model.toJSON() }));
         return this;
     },
+    events: {
+        'click a.main-menu-link': 'mainMenuClick'
+    },
+    mainMenuClick: function (event) {
+        var fileName = $(event.target).data('file-name');
+        var fileNameNoExtension = fileName.split('.')[0];
+        var year = fileNameNoExtension.split('_')[0];
+        var edition = fileNameNoExtension.split('_')[1];
+        console.log('Year: ' + year + ', Edition: ' + edition);
+    }
 });
 
 $(function () {
