@@ -1,22 +1,21 @@
+h4.list-group-item-heading {
+    font-size: 16px;
+}
 
+ul#link-list {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
 
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+ul#link-list li.list-group-item {
+    border-style: none;
+    padding: 8px 15px;
+}
 
+#free-book, #book {
+    margin-top: 20px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.download-link {
+    margin: 5px 0 0 30px;
+}
