@@ -1,0 +1,58 @@
+data_2013_47(
+{
+    "issue": 64,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://coderwall.com/p/wixovg",
+            "title": "Bootstrap without all the debt",
+            "description": ""
+        },
+		{
+            "url": "http://blog.alinelerner.com/lessons-from-a-years-worth-of-hiring-data/",
+            "title": "Lessons from a year's worth of hiring data",
+            "description": ""
+        },
+		{
+            "url": "http://programmers.stackexchange.com/questions/111633/what-does-svn-do-better-than-git",
+            "title": "What does SVN do better than git?",
+            "description": ""
+        },
+		{
+            "url": "https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-table-storage/",
+            "title": "An Introduction to Windows Azure Table Storage",
+            "description": ""
+        },
+		{
+            "url": "http://www.strathweb.com/2013/09/adding-high-performance-windows-azure-cache-service-to-your-asp-net-web-api/",
+            "title": "Adding high performance Windows Azure Cache Service to your ASP.NET Web API",
+            "description": ""
+        },
+		{
+            "url": "http://blog.cellfish.se/2013/11/what-you-really-need-to-know-when.html",
+            "title": "What you really need to know when authoring NuGet packages",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/683498/DTDT",
+            "title": "'Design, Test, Developement, Test' instead of 'Test Driven Development' (DTDT over TDD)",
+            "description": ""
+        },
+		{
+            "url": "http://www.develop.com/webcasts/watch/5260173ad588bf08f82ac92f/building-beautiful-websites-with-bootstrap-a-case-study",
+            "title": "Building beautiful websites with Bootstrap: A case study",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Community Book of PowerShell Practices",
+		"url": "https://github.com/PowerShellOrg/ebooks/tree/master/Practices/2013Sep_Practices",
+        "author": "Don Jones, Matt Penny"
+    },
+    "book": {
+        "title": "The Leader's Guide to Speaking with Presence: How to Project Confidence, Conviction, and Authority",
+		"url": "http://www.amazon.com/Leaders-Guide-Speaking-Presence-Confidence-ebook/dp/B00E1SSJ82/",
+        "author": "John Baldoni"
+    }
+}
+);

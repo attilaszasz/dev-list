@@ -1,0 +1,54 @@
+data_2014_02(
+{
+    "issue": 71,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://net.tutsplus.com/tutorials/writing-robust-web-applications-the-lost-art-of-exception-handling/",
+            "title": "Writing Robust Web Applications - The Lost Art of Exception Handling",
+            "description": ""
+        },
+		{
+            "url": "http://visualstudiomagazine.com/articles/2013/12/01/best-practices-for-designing-a-fluent-api.aspx",
+            "title": "Best Practices for Designing a Fluent API",
+            "description": ""
+        },
+		{
+            "url": "http://www.kendoui.com/blogs/teamblog/posts/14-01-07/please-respect-the-back-button.aspx",
+            "title": "Please Respect The 'Back' Button",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/fkaduk/archive/2014/01/07/rest-wcf-vs-webapi-throughput.aspx",
+            "title": "REST WCF vs. WebAPI (throughput performance)",
+            "description": ""
+        },
+		{
+            "url": "http://weblog.west-wind.com/posts/2014/Jan/06/JavaScript-JSON-Date-Parsing-and-real-Dates",
+            "title": "JavaScript JSON Date Parsing and real Dates",
+            "description": ""
+        },
+		{
+            "url": "http://www.dotnetcurry.com/showarticle.aspx?ID=957",
+            "title": "ASP.NET MVC 5 Authentication Filters",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Building Real-World Cloud Apps with Windows Azure",
+		"url": "http://code.msdn.microsoft.com/Fix-It-app-for-Building-cdd80df4",
+        "author": "Tom Dykstra, Rick Anderson, Mike Wasson",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://archive.msdn.microsoft.com/Project/Download/FileDownload.aspx?ProjectName=aspnetmsdnexamples&DownloadId=16477"
+            }
+        ]
+    },
+    "book": {
+        "title": "Entity Framework 6 Recipes",
+		"url": "http://www.apress.com/9781430257882",
+        "author": "Brian Driscoll, Nitin Gupta, Robert Vettor, Zeeshan Hirani, Larry Tenny"
+    }
+}
+);

@@ -1,0 +1,362 @@
+indexData(
+{
+    "title": "The Dev List",
+    "years": [
+        {
+            "year": 2012,
+            "editions": [
+                {
+                    "url": "https://dl.dropbox.com/s/38nmd1z8m6wrugn/2012_01.json",
+                    "title": "Week August 27-31, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/5hyfhvqq6n47ha2/2012_02.json",
+                    "title": "Week September 1 - 7, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/xtsz4hptf0j35dg/2012_03.json",
+                    "title": "Week September 8 - 14, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/pu8znk7apbqzh1d/2012_04.json",
+                    "title": "Week September 15 - 21, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/eaggsafwsixb2na/2012_05.json",
+                    "title": "Week September 22 - 28, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/4z66b386t97clpz/2012_06.json",
+                    "title": "Week October 6 - 12, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/mijjpvig9db4gfe/2012_07.json",
+                    "title": "Week October 13 - 19, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/tq38tujtythsvrq/2012_08.json",
+                    "title": "Week October 20 - 26, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/2o10tpwilhf8ddl/2012_09.json",
+                    "title": "Week October 27 - November 2, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/8sgsfq8gc3b60nu/2012_10.json",
+                    "title": "Week November 3 - 9, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/ql3lt4a94v5qej4/2012_11.json",
+                    "title": "Week November 10 - 16, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/d7d4luzl0n387my/2012_12.json",
+                    "title": "Week November 17 - 23, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/54nft5q538tme65/2012_13.json",
+                    "title": "Week November 24 - 30, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/1y7ub7dybpbfgtq/2012_14.json",
+                    "title": "Week December 1 - 7, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/6nd28a78spasg7f/2012_15.json",
+                    "title": "Week December 8 - 14, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/8t5ronahzv263cd/2012_16.json",
+                    "title": "Week December 15 - 21, 2012"
+                },
+                {
+                    "url": "https://dl.dropbox.com/s/rsjc3e83vu92kmd/2012_17.json",
+                    "title": "Week December 22 - 28, 2012"
+                }
+            ]
+        },
+		{
+            "year": 2013,
+            "editions": [
+                {
+                    "url": "https://dl.dropbox.com/s/xjba7k3rch45yjn/2013_01.json",
+                    "title": "Week December 29, 2012 - January 4, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/yao29rgfc7lw8f6/2013_02.json",
+                    "title": "Week January 5 - 11, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/4u2fkcy9pue7ftc/2013_03.json",
+                    "title": "Week January 12 - 18, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/q8jz2f8qn6whk8m/2013_04.json",
+                    "title": "Week January 19 - 25, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/z274zq1qyitlw8a/2013_05.json",
+                    "title": "Week January 26 - February 1, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/bdforhjbnuc34ta/2013_06.json",
+                    "title": "Week February 2 - 8, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ss54v4d8qxemjgi/2013_07.json",
+                    "title": "Week February 9 - 15, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/axyb85c2q7yumg2/2013_08.json",
+                    "title": "Week February 16 - 22, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/w7fa1ipy75q5f4d/2013_09.json",
+                    "title": "Week February 23 - March 1, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/yozuptg8x2rpbom/2013_10.json",
+                    "title": "Week March 2 - 8, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/iqjwpc2fmnm7bt4/2013_11.json",
+                    "title": "Week March 9 - 15, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/qhgnkoncwngf7k1/2013_12.json",
+                    "title": "Week March 16 - 22, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/71n8d55ahj40w8c/2013_13.json",
+                    "title": "Week March 23 - 29, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ms1yx1qpjpgdy8l/2013_14.json",
+                    "title": "Week March 30 - April 5, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/x50iszuxibypy5w/2013_15.json",
+                    "title": "Week April 6 - 12, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/8d9usu1toz37vrw/2013_16.json",
+                    "title": "Week April 13 - 19, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/jciyl27v2izm9u5/2013_17.json",
+                    "title": "Week April 20 - 26, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/hlh6jxi8k5cgaak/2013_18.json",
+                    "title": "Week April 27 - May 3, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/t5f29loie7bvq3b/2013_19.json",
+                    "title": "Week May 4 - 10, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/6ngmjj2n4we056q/2013_20.json",
+                    "title": "Week May 11 - 17, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/c2kkv6rpoa4ajuq/2013_21.json",
+                    "title": "Week May 18 - 24, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/4ardcnhydnkg9g7/2013_22.json",
+                    "title": "Week May 25 - 31, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/0sm6uiqxe8jkupy/2013_23.json",
+                    "title": "Week June 1 - 7, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/nrbcshkqvulj19k/2013_24.json",
+                    "title": "Week June 8 - 14, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/5bwb4clje7loawm/2013_25.json",
+                    "title": "Week June 15 - 21, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/gagufk2sxr4l99p/2013_26.json",
+                    "title": "Week June 22 - 28, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/plsnc1e3bfy714q/2013_27.json",
+                    "title": "Week June 29 - July 5, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/hqihznce3jjbfps/2013_28.json",
+                    "title": "Week July 6 - 12, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/4588vnz7jzkd1cp/2013_29.json",
+                    "title": "Week July 13 - 19, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/484l0zi57a61zli/2013_30.json",
+                    "title": "Week July 20 - 26, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ckhxmhl6lj8qzu6/2013_31.json",
+                    "title": "Week July 27 - August 2, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/1ljb6nv9l1el4ie/2013_32.json",
+                    "title": "Week August 3 - 9, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/vnvwl7u912xfftg/2013_33.json",
+                    "title": "Week August 10 - 16, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/4b969w2wg0apard/2013_34.json",
+                    "title": "Week August 17 - 23, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/rc0gc25jvxq1c32/2013_35.json",
+                    "title": "Week August 24 - 30, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/vyqnk8vhusnvfq6/2013_36.json",
+                    "title": "Week August 31 - September 6, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/g3zpog6y3904pbm/2013_37.json",
+                    "title": "Week September 7 - 13, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/3cp6zeay6kmybmy/2013_38.json",
+                    "title": "Week September 14 - 20, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/jub8pmf5qf6h3m9/2013_39.json",
+                    "title": "Week September 21 - 27, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/jxd85g1us4usrd0/2013_40.json",
+                    "title": "Week September 28 - October 4, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/wmhb6bomczc030k/2013_41.json",
+                    "title": "Week October 5 - 11, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/hphdo8llwbpgdo2/2013_42.json",
+                    "title": "Week October 12 - 18, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/9yebhsloj9o9uat/2013_43.json",
+                    "title": "Week October 19 - 25, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/im3jrxq5drvdt2i/2013_44.json",
+                    "title": "Week October 26 - November 1, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/hprs9ry0xlqemfb/2013_45.json",
+                    "title": "Week November 2 - 8, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/hpv19g9j223hhmf/2013_46.json",
+                    "title": "Week November 9 - 15, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/g6q4jxja14esx8d/2013_47.json",
+                    "title": "Week November 16 - 22, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/jcczqsk1ylvxpzy/2013_48.json",
+                    "title": "Week November 23 - 29, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/qmad6y6xz3wd801/2013_49.json",
+                    "title": "Week November 30 - December 6, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/i4hdc6g18rpt328/2013_50.json",
+                    "title": "Week December 7 - 13, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/b10chpstj5a5v2n/2013_51.json",
+                    "title": "Week December 14 - 20, 2013"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/0kly0cpqubi13s2/2013_52.json",
+                    "title": "Week December 21 - 27, 2013"
+                }
+            ]		
+		},
+		{
+			"year": 2014,
+            "editions": [
+				{
+                    "url": "https://dl.dropbox.com/s/1n0sobqxzld156g/2014_01.json",
+                    "title": "Week December 28 - January 3, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/3762tco4af0ojsh/2014_02.json",
+                    "title": "Week January 4 - 10, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/i15kiapngui41sc/2014_03.json",
+                    "title": "Week January 11 - 17, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/48pibbuzk62kl9c/2014_04.json",
+                    "title": "Week January 18 - 24, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ru96yd2396v1p0y/2014_05.json",
+                    "title": "Week January 25 - 31, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/k8tv2ex0zkax2gy/2014_06.json",
+                    "title": "Week February 1 - 7, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ts80cyoka7v5btc/2014_07.json",
+                    "title": "Week February 8 - 14, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/s2228q9duahbn5d/2014_08.json",
+                    "title": "Week February 15 - 21, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ef1bmksr4rjo0wf/2014_09.json",
+                    "title": "Week February 22 - 28, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/ao3dw9ss0e7qxdt/2014_10.json",
+                    "title": "Week March 1 - 7, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/6j5d0ncmpso1hca/2014_11.json",
+                    "title": "Week March 8 - 14, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/2uzduq61u4ck42c/2014_12.json",
+                    "title": "Week March 15 - 21, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/99q6pek0wxj4w51/2014_13.json",
+                    "title": "Week March 22 - 28, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/jpd28wy3hdtbfk4/2014_14.json",
+                    "title": "Week March 29 - April 4, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/k67iaxbdocm1iit/2014_15.json",
+                    "title": "Week April 5 - 11, 2014"
+                },
+				{
+                    "url": "https://dl.dropbox.com/s/il2w8o1l2iw165v/2014_16.json",
+                    "title": "Week April 12 - 18, 2014"
+                }
+			]
+		}
+    ]
+}
+);

@@ -1,0 +1,74 @@
+data_2014_08(
+{
+    "issue": 77,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://blog.jetstrap.com/2013/08/bootstrap-3-grids-explained/",
+            "title": "Bootstrap 3 Grids Explained",
+            "description": ""
+        },
+		{
+            "url": "http://blog.bigbinary.com/2011/08/18/understanding-bind-and-bindall-in-backbone.html",
+            "title": "Understanding bind and bindAll in Backbone.js",
+            "description": ""
+        },
+		{
+            "url": "http://www.novanet.no/blog/olav-nybo/dates/2013/12/anti-forgery-tokens-using-mvc-web-api-and-angularjs/",
+            "title": "Anti-Forgery Tokens using MVC, Web API and AngularJS",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/visualstudio/archive/2014/02/17/introducing-bing-code-search-for-c.aspx",
+            "title": "Introducing Bing Code Search for C#",
+            "description": ""
+        },
+		{
+            "url": "http://www.johnpapa.net/angular-app-structuring-guidelines/?utm_source=rss&utm_medium=rss&utm_campaign=angular-app-structuring-guidelines",
+            "title": "Angular App Structuring Guidelines",
+            "description": ""
+        },
+		{
+            "url": "http://www.troyhunt.com/2014/02/the-cloud-never-goes-down-azure-slas.html",
+            "title": "'The Cloud Never Goes Down', Azure SLAs and other availability trivia",
+            "description": ""
+        },
+		{
+            "url": "https://sourcegraph.com/blog/switching-from-angularjs-to-server-side-html",
+            "title": "5 surprisingly painful things about client-side JS",
+            "description": ""
+        },
+		{
+            "url": "http://blog.falafel.com/Blogs/j-tower/2013/12/02/get-compile-time-view-errors-in-asp-net-mvc",
+            "title": "Get Compile-Time View Errors in ASP.NET MVC",
+            "description": ""
+        },
+		{
+            "url": "http://www.brentozar.com/archive/2014/02/count-number-rows-table-sql-server/",
+            "title": "How to count the number of rows in a table in SQL Server",
+            "description": ""
+        },
+		{
+            "url": "http://www.bennorthrop.com/Essays/2014/the-siren-song-of-automated-testing.php",
+            "title": "The Siren Song of Automated UI Testing",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Load Testing 101: Essential Tips for Testers and Developers",
+		"url": "",
+        "author": "",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www2.smartbear.com/rs/smartbear/images/Load-Testing-101-LUIWP.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Windows Server 2012 R2 Inside Out: Configuration, Storage, & Essentials",
+		"url": "http://shop.oreilly.com/product/0790145395665.do",
+        "author": "William R. Stanek"
+    }
+}
+);

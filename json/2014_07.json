@@ -1,0 +1,79 @@
+data_2014_07(
+{
+    "issue": 76,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://timkadlec.com/2014/01/fast-enough/",
+            "title": "Fast Enough",
+            "description": ""
+        },
+		{
+            "url": "http://blog.usabilla.com/pagination-theres-life-webs-old-dog-yet/",
+            "title": "Pagination: Why there's life in the web's old dog yet",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/windowsazure/archive/2014/02/10/best-practices-windows-azure-websites-waws.aspx",
+            "title": "Best Practices: Windows Azure Websites (WAWS)",
+            "description": ""
+        },
+		{
+            "url": "http://www.joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/",
+            "title": "Stop writing For loops. Start using underscore.",
+            "description": ""
+        },
+		{
+            "url": "http://www.devbridge.com/articles/entity-framework-6-vs-nhibernate-4/",
+            "title": "Entity Framework 6 vs NHibernate 4",
+            "description": ""
+        },
+		{
+            "url": "http://blog.functionalfun.net/2014/02/real-world-signalr.html",
+            "title": "Getting Started with SignalR - and not a Chat room in sight!",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/ChecklistWhatNOTToDoInASPNET.aspx",
+            "title": "Checklist: What NOT to do in ASP.NET",
+            "description": ""
+        },
+		{
+            "url": "http://www.diaryofaninja.com/blog/2014/01/29/htmlantiforgerytoken-ndash-balancing-security-with-usability",
+            "title": "Html.AntiForgeryToken - Balancing Security with Usability",
+            "description": ""
+        },
+		{
+            "url": "http://weblogs.asp.net/scottgu/archive/2014/01/16/windows-azure-staging-publishing-support-for-web-sites-monitoring-improvements-hyper-v-recovery-manager-ga-and-pci-compliance.aspx",
+            "title": "Windows Azure: Staging Publishing Support for Web Sites, Monitoring Improvements, Hyper-V Recovery Manager GA, and PCI Compliance",
+            "description": ""
+        },
+		{
+            "url": "http://www.slideshare.net/PeterLeeson/intelligent-evolution-sepg-europe-2013",
+            "title": "Intelligent evolution",
+            "description": "Reducing the cost of Quality through Process improvement, Information management and Teamwork"
+        },
+		{
+            "url": "http://www.forbes.com/sites/amyanderson/2014/02/07/if-you-want-to-improve-stop-defending-and-start-listening/",
+            "title": "If You Want To Improve, Stop Defending And Start Listening",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Domain Driven Design Quickly",
+		"url": "http://www.infoq.com/minibooks/domain-driven-design-quickly",
+        "author": "Abel Avram, Floyd Marinescu",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "https://ddd-cqrs-base-project.googlecode.com/files/DomainDrivenDesignQuicklyOnline.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Agile Principles, Patterns, and Practices in C#",
+		"url": "http://www.amazon.com/Agile-Principles-Patterns-Practices-C-ebook/dp/B0051TM4GI/",
+        "author": "Micah Martin, Robert C. Martin"
+    }
+}
+);

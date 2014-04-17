@@ -1,0 +1,67 @@
+data_2013_26(
+{
+    "issue": 43,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://developers.google.com/chrome-developer-tools/docs/tips-and-tricks",
+            "title": "69 tips and tricks for using Chrome’s DevTools more effectively",
+            "description": ""
+        },
+		{
+            "url": "http://tylerneylon.com/a/learn-lua/",
+            "title": "Learn Lua in 15 Minutes",
+            "description": ""
+        },
+		{
+            "url": "http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding",
+            "title": "What every web developer must know about URL encoding",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+            "title": "A huge list of frontend development resources",
+            "description": ""
+        },
+		{
+            "url": "http://www.gethourglass.com/blog/sites-to-help-launch-your-freelancing-career.html",
+            "title": "7 Sites To Help Launch Your Freelancing Career",
+            "description": ""
+        },
+		{
+            "url": "http://blog.maxscheiber.com/2013/06/functional-design-patterns/",
+            "title": "Functional design patterns",
+            "description": ""
+        },
+		{
+            "url": "http://prog21.dadgum.com/177.html",
+            "title": "Organizational Skills Beat Algorithmic Wizardry",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Using Windows Azure Mobile Services to Cloud-Enable your iOS Apps",
+		"url": "",
+        "author": "",
+        "links": [
+            {
+                "name": "epub",
+                "url": "http://ligman.me/18Wayav"
+            },
+			{
+                "name": "mobi",
+                "url": "http://ligman.me/13Ye8Kd"
+            },
+			{
+                "name": "pdf",
+                "url": "http://ligman.me/18WaF5Q"
+            }
+        ]
+    },
+    "book": {
+        "title": "The Business of iPhone App Development",
+		"url": "http://www.apress.com/mobile/iphone-ipad/9781430227335",
+        "author": "Dave Wooldridge , Michael Schneider"
+    }
+}
+);

@@ -1,0 +1,68 @@
+data_2014_12(
+{
+    "issue": 81,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://wintellect.com/blogs/jlane/five-reasons-asp.net-developers-should-care-about-node.js",
+            "title": "Five Reasons ASP.NET Developers Should Care About Node.js",
+            "description": ""
+        },
+		{
+            "url": "http://marcofranssen.nl/automate-your-development-tasks-using-grunt/",
+            "title": "Automate your development tasks using Grunt",
+            "description": ""
+        },
+		{
+            "url": "http://www.troyhunt.com/2014/03/the-worlds-greatest-azure-demo.html",
+            "title": "The World's Greatest Azure Demo",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/articles/an-introduction-to-app-marketing--cms-19775",
+            "title": "An Introduction to App Marketing",
+            "description": ""
+        },
+		{
+            "url": "http://mobile.smashingmagazine.com/2014/03/17/ios7-new-dynamic-app-interactions/",
+            "title": "Getting Your App Ready For iOS 7's New Dynamic Interactions",
+            "description": ""
+        },
+		{
+            "url": "http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise",
+            "title": "Why Node.js is becoming the go-to technology in the enterprise",
+            "description": ""
+        },
+		{
+            "url": "http://amasad.me/2014/03/09/lesser-known-javascript-debugging-techniques/",
+            "title": "Lesser-Known JavaScript Debugging Techniques",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/p/db854689243",
+            "title": "The Evolution of a Software Engineer",
+            "description": ""
+        },
+		{
+            "url": "https://tldrlegal.com/",
+            "title": "Software Licenses in Plain English",
+            "description": "Lookup popular software licenses summarized at-a-glance"
+        },
+		{
+            "url": "https://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx",
+            "title": "Writing the perfect question",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Building the Infrastructure for Cloud Security",
+		"url": "http://www.apress.com/9781430261452",
+        "author": "Raghuram Yeluri, Enrique Castro-Leon"
+    },
+    "book": {
+        "title": "Getting Started with Intel Galileo",
+		"url": "http://shop.oreilly.com/product/0636920032014.do",
+        "author": "Matt Richardson"
+    }
+}
+);

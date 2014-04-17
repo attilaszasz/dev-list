@@ -1,0 +1,82 @@
+data_2014_06(
+{
+    "issue": 75,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.tipue.com/blog/center-a-div/",
+            "title": "The complete guide to centering a div",
+            "description": ""
+        },
+		{
+            "url": "http://bugroll.com/how-to-write-good-error-messages.html",
+            "title": "How to Write Good Error Messages",
+            "description": ""
+        },
+		{
+            "url": "http://www.techchattr.com/benchmarking-web-applications-alternatives",
+            "title": "Benchmark web applications alternatives",
+            "description": ""
+        },
+		{
+            "url": "http://blog.filipekberg.se/2014/01/30/test-automation-web-applications/",
+            "title": "Test Automation for Web Applications",
+            "description": ""
+        },
+		{
+            "url": "http://www.lucemorker.com/blog/beginners-guide-to-popular-design-patterns-for-web-developers",
+            "title": "Beginners Guide to Popular Design Patterns for Web Developers",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/DeployingTWOWebsitesToWindowsAzureFromOneGitRepository.aspx",
+            "title": "Deploying TWO websites to Windows Azure from one Git Repository",
+            "description": ""
+        },
+		{
+            "url": "http://blog.amitapple.com/post/38418009331/azurewebsitecustomdeploymentpart2/",
+            "title": "Windows Azure Websites - Custom Deployment Scripts Generator",
+            "description": ""
+        },
+		{
+            "url": "http://www.daedtech.com/intro-to-unit-testing-10-the-business-value-of-unit-tests",
+            "title": "The Business Value of Unit Tests",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/HTTPPUTOrDELETENotAllowedUseXHTTPMethodOverrideForYourRESTServiceWithASPNETWebAPI.aspx",
+            "title": "HTTP PUT or DELETE not allowed? Use X-HTTP-Method-Override for your REST Service with ASP.NET Web API",
+            "description": ""
+        },
+		{
+            "url": "http://weblogs.asp.net/jgalloway/archive/2014/01/28/looking-at-asp-net-mvc-5-1-and-web-api-2-1-part-3-bootstrap-and-javascript-enhancements.aspx",
+            "title": "Looking at ASP.NET MVC 5.1 and Web API 2.1 - Bootstrap and JavaScript enhancements",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Developing Backbone.js Applications",
+		"url": "http://addyosmani.github.io/backbone-fundamentals/",
+        "author": "Addy Osmani",
+        "links": [
+            {
+                "name": "epub",
+                "url": "https://raw.github.com/addyosmani/backbone-fundamentals/gh-pages/backbone-fundamentals.epub"
+            },
+			{
+                "name": "mobi",
+                "url": "https://github.com/addyosmani/backbone-fundamentals/raw/gh-pages/backbone-fundamentals.mobi"
+            },
+			{
+                "name": "pdf",
+                "url": "https://github.com/addyosmani/backbone-fundamentals/raw/gh-pages/backbone-fundamentals.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Objective-C Recipes",
+		"url": "http://www.apress.com/9781430243717",
+        "author": "Matthew Campbell"
+    }
+}
+);

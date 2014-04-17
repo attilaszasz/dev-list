@@ -1,0 +1,43 @@
+data_2013_04(
+{
+    "issue": 21,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://coding.smashingmagazine.com/2013/01/18/the-importance-of-sections/",
+            "title": "The Importance Of HTML5 Sectioning Elements",
+            "description": ""
+        },
+		{
+            "url": "http://www.masterzen.fr/2013/01/13/the-10-commandments-of-logging/",
+            "title": "The 10 Commandments of Logging",
+            "description": ""
+        },
+		{
+            "url": "http://www.danielpradilla.info/blog/en/nterface-design/",
+            "title": "Stop punishing your users and learn some design",
+            "description": ""
+        },
+		{
+            "url": "http://unix4lyfe.org/time/?v=1",
+            "title": "What every programmer should know about time",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/blog/1381-a-whole-new-code-search",
+            "title": "A Whole New Code Search",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Handbook of Applied Cryptography",
+		"url": "http://cacr.uwaterloo.ca/hac/index.html",
+        "author": "Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone"
+    },
+    "book": {
+        "title": "The Software Test Engineer's Handbook",
+		"url": "http://shop.oreilly.com/product/9781933952246.do",
+        "author": "Graham Bath, Judy McKay"
+    }
+}
+);

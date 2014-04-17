@@ -1,0 +1,58 @@
+data_2013_31(
+{
+    "issue": 48,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.modern.ie/en-us",
+            "title": "modern.IE",
+            "description": "A new set of tools to help you support modern and older versions of Internet Explorer"
+        },
+		{
+            "url": "http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat",
+            "title": "Your app makes me fat",
+            "description": ""
+        },
+		{
+            "url": "http://queues.io/",
+            "title": "Queues",
+            "description": "Job queues, message queues and other queues. Almost all of them"
+        },
+		{
+            "url": "http://www.javacodegeeks.com/2013/07/5-coding-hacks-to-reduce-gc-overhead.html",
+            "title": "5 Coding Hacks to Reduce GC Overhead",
+            "description": ""
+        },
+		{
+            "url": "http://opensignal.com/reports/fragmentation-2013/",
+            "title": "Android Fragmentation Visualized",
+            "description": ""
+        },
+		{
+            "url": "http://opensignal.com/blog/2013/07/30/40-developer-tips-for-android-optimization/",
+            "title": "40 Developer Tips for Android Optimization",
+            "description": ""
+        },
+		{
+            "url": "http://corner.squareup.com/2013/07/reversing-bits-on-arm.html",
+            "title": "Reversing Bits in C",
+            "description": ""
+        },
+		{
+            "url": "http://thecodist.com/article/things_in_it_you_never_want_to_hear_i_39_ve_actually_heard",
+            "title": "Things in IT You Never Want To Hear I've Actually Heard ",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Rethinking Enterprise Storage: A Hybrid Cloud Model",
+		"url": "http://shop.oreilly.com/product/0790145385437.do",
+        "author": "Marc Farley"
+    },
+    "book": {
+        "title": "Microsoft ADO.NET Entity Framework Step by Step",
+		"url": "http://shop.oreilly.com/product/0790145339164.do",
+        "author": "John Paul Mueller"
+    }
+}
+);

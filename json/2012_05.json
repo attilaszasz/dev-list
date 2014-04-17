@@ -1,0 +1,69 @@
+data_2012_05(
+{
+    "issue": 5,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://blog.stackoverflow.com/2012/09/apptivate-ms-a-windows-8-app-development-contest/?cb=1",
+            "title": "Apptivate.ms: A Windows 8 App Development Contest ($5,000 Cash Grand Prize)",
+            "description": ""
+        },
+        {
+            "url": "https://github.com/kaisellgren/Concurrency-concepts",
+            "title": "Concurrency, multi-threading and parallel programming concepts",
+            "description": ""
+        },
+        {
+            "url": "http://cacm.acm.org/magazines/2012/10/155530-where-is-the-science-in-computer-science/fulltext",
+            "title": "Where is the Science in Computer Science? - Vint Cerf",
+            "description": ""
+        },
+        {
+            "url": "http://jetstrap.com/",
+            "title": "Jetstrap - Interface-building tool for Bootstrap",
+            "description": ""
+        },
+        {
+            "url": "http://svg-edit.googlecode.com/svn/trunk/editor/svg-editor.html",
+            "title": "Web based SVG editor",
+            "description": ""
+        },
+        {
+            "url": "http://highscalability.com/blog/2012/9/24/google-spanners-most-surprising-revelation-nosql-is-out-and.html",
+            "title": "Google Spanner's Most Surprising Revelation: NoSQL is Out and NewSQL is In",
+            "description": ""
+        },
+        {
+            "url": "https://github.com/cbrandolino/local-audio-visualizer",
+            "title": "HTML5 local audio player + visualizer (demo and tutorial-ish documentation showcasing some neat new HTML5 features and APIs)",
+            "description": ""
+        },
+        {
+            "url": "http://lucumr.pocoo.org/2012/9/24/websockets-101/",
+            "title": "Websockets 101 - Quick introduction into the final specification of websockets",
+            "description": ""
+        },
+        {
+            "url": "http://wiki.lessthandot.com/index.php/Category:Microsoft_SQL_Server",
+            "title": "MS SQL Server Examples and Best known hacks with real time scenarios.",
+            "description": ""
+        },
+        {
+            "url": "http://www.thesimplelogic.com/2012/09/24/you-say-you-want-an-education/",
+            "title": "You Say You Want An Education? A 4-year university computer science curriculum entirely on Coursera",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "ASP.NET MVC 4 Mobile Websites Succinctly",
+		"url": "",
+        "author": "Lyle Luppes",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/aspnetmvc4_Succinctly.pdf"
+            }
+        ]
+    }
+}
+);

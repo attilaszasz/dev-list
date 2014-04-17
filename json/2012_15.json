@@ -1,0 +1,53 @@
+data_2012_15(
+{
+    "issue": 15,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://twistedoakstudios.com/blog/Post1295_publish-your-net-library-as-a-nuget-package",
+            "title": "Publish your .Net library as a NuGet package",
+            "description": ""
+        },
+        {
+            "url": "http://eng.wealthfront.com/2012/12/jquerydeferred-is-most-important-client.html",
+            "title": "jQuery.Deferred is the most important client-side tool you have",
+            "description": ""
+        },
+        {
+            "url": "http://blog.selfassembled.org/posts/events_and_promises.html",
+            "title": "$.Deferred is for lovers",
+            "description": ""
+        },
+        {
+            "url": "http://gamasutra.com/blogs/PhilChu/20121212/183405/Seven_Habits_of_Highly_Effective_Programmers.php",
+            "title": "Seven Habits of Highly Effective Programmers",
+            "description": ""
+        },
+        {
+            "url": "http://henrikwarne.com/2012/12/12/working-as-a-software-developer/",
+            "title": "Working as a Software Developer",
+            "description": ""
+        },
+        {
+            "url": "http://www.hanselman.com/blog/ASPNETAndWebTools20122ReleaseCandidate.aspx",
+            "title": "ASP.NET and Web Tools 2012.2 (Release Candidate)",
+            "description": ""
+        },
+        {
+            "url": "http://michaelochurch.wordpress.com/2012/12/06/functional-programs-rarely-rot/",
+            "title": "program imperatively when needed, and functionally when possible",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Django Book",
+		"url": "http://www.djangobook.com/en/2.0/index.html",
+        "author": "Adrian Holovaty, Jacob Kaplan-Moss"
+    },
+    "book": {
+        "title": "Microsoft SQL Server 2012 T-SQL Fundamentals",
+		"url": "http://www.amazon.com/Microsoft-Server-2012-T-SQL-Fundamentals/dp/0735658145/",
+        "author": "Itzik Ben-Gan"
+    }
+}
+);

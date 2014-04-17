@@ -1,0 +1,73 @@
+data_2013_28(
+{
+    "issue": 45,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.rapitasystems.com/blog/what-really-happened-to-the-software-on-the-mars-pathfinder-spacecraft",
+            "title": "What really happened to the software on the Mars Pathfinder spacecraft?",
+            "description": ""
+        },
+		{
+            "url": "http://www.schneier.com/blog/archives/2007/11/the_strange_sto.html",
+            "title": "How the NSA put a backdoor in basic random number generation: The Strange Story of Dual_EC_DRBG (2007)",
+            "description": ""
+        },
+		{
+            "url": "http://www.peterlundgren.com/blog/on-gits-shortcomings/",
+            "title": "On Git's Shortcomings",
+            "description": ""
+        },
+		{
+            "url": "http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/",
+            "title": "Why mobile web apps are slow",
+            "description": ""
+        },
+		{
+            "url": "http://holowczak.com/database-normalization/3/#.Udz7FW3SzPt",
+            "title": "Normalization explained",
+            "description": ""
+        },
+		{
+            "url": "http://www.devalot.com/articles/2013/07/why-haskell.html",
+            "title": "Why the world needs Haskell",
+            "description": ""
+        },
+		{
+            "url": "http://curtisb.posthaven.com/what-are-futures-and-why-shoul",
+            "title": "What are futures, and why should you care?",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html",
+            "title": "The Architecture Twitter Uses to Deal with 150M Active Users, 300K QPS, a 22 MB/S Firehose, and Send Tweets in Under 5 Seconds",
+            "description": ""
+        },
+		{
+            "url": "http://www.wintellect.com/blogs/jlikness/30-years-of-hello-world",
+            "title": "30 Years of Hello, World",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Unit Testing Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/unittesting",
+        "author": "Marc Clifton",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/UnitTesting_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/UnitTesting_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "HTML5 and CSS3 Responsive Web Design Cookbook",
+		"url": "http://www.packtpub.com/html5-and-css3-responsive-web-design-cookbook/book",
+        "author": "Benjamin LaGrone"
+    }
+}
+);

@@ -1,0 +1,68 @@
+data_2013_41(
+{
+    "issue": 58,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://blog.thijsalkema.de/blog/2013/10/08/piercing-through-whatsapp-s-encryption/",
+            "title": "Piercing Through WhatsApp’s Encryption",
+            "description": ""
+        },
+		{
+            "url": "http://tech.shift.com/post/63517228381/migrating-databases-with-zero-downtime",
+            "title": "Migrating Databases With Zero Downtime",
+            "description": ""
+        },
+		{
+            "url": "http://www.philipreames.com/Blog/things-every-practicing-software-engineer-should-aim-to-know/",
+            "title": "Things every practicing software engineer should aim to know",
+            "description": ""
+        },
+		{
+            "url": "http://www.bitnative.com/2013/10/07/writing-code-know-your-boundaries/",
+            "title": "Writing Code? Know Your Boundaries",
+            "description": ""
+        },
+		{
+            "url": "http://prog21.dadgum.com/132.html?1",
+            "title": "This is Why You Spent All that Time Learning to Program",
+            "description": ""
+        },
+		{
+            "url": "http://zarkonnen.com/why_php_persists",
+            "title": "Why PHP persists",
+            "description": ""
+        },
+		{
+            "url": "http://www.drdobbs.com/architecture-and-design/continuous-delivery-the-first-steps/240161356",
+            "title": "Continuous Delivery: The First Steps",
+            "description": ""
+        },
+		{
+            "url": "http://www.rishabhsoft.com/blog/importance-of-certifications-in-the-technology-industry",
+            "title": "Importance Of Certifications In The Technology Industry",
+            "description": ""
+        },
+		{
+            "url": "https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html",
+            "title": "You Must Try, and then You Must Ask",
+            "description": ""
+        },
+		{
+            "url": "http://chodounsky.net/2013/10/09/why-you-should-be-able-to-work-from-home/",
+            "title": "Why You Should Be Able to Work from Home",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Data Access for Highly-Scalable Solutions: Using SQL, NoSQL, and Polyglot Persistence",
+		"url": "http://www.microsoft.com/en-us/download/details.aspx?id=40327",
+        "author": "Douglas McMurtry, Andrew Oakley, John Sharp, Mani Subramanian, Hanz Zhang"
+    },
+    "book": {
+        "title": "Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications",
+		"url": "http://shop.oreilly.com/product/0790145374820.do",
+        "author": "William Penberthy"
+    }
+}
+);

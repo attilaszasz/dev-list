@@ -1,0 +1,44 @@
+data_2012_08(
+{
+    "issue": 8,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://www.jayway.com/2012/10/07/asyncawait-in-c-a-disaster-waiting-to-happen/",
+            "title": "async/await in C# - a disaster waiting to happen?",
+            "description": ""
+        },
+        {
+            "url": "http://arstechnica.com/features/2012/10/windows-8-and-winrt-everything-old-is-new-again/",
+            "title": "Turning to the past to power Windows' future: An in-depth look at WinRT",
+            "description": ""
+        },
+        {
+            "url": "http://blog.redfin.com/devblog/2010/05/how_and_why_twitter_uses_scala.html",
+            "title": "Engineer-to-Engineer Talk: How and Why Twitter Uses Scala",
+            "description": ""
+        },
+        {
+            "url": "http://www.kendoui.com/blogs/teamblog/posts/12-10-22/icenium_kendo_ui_awesome.aspx",
+            "title": "Icenium + Kendo UI = Awesome",
+            "description": ""
+        },
+        {
+            "url": "https://crypto.stanford.edu/~dabo/pubs/abstracts/ssl-client-bugs.html",
+            "title": "The most dangerous code in the world: validating SSL certificates in non-browser software",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Introducing Windows 8: An Overview for IT Professionals",
+		"url": "",
+        "author": "Jerry Honeycutt",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://go.microsoft.com/FWLink/?Linkid=268295"
+            }
+        ]
+    }
+}
+);

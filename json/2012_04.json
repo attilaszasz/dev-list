@@ -1,0 +1,58 @@
+data_2012_04(
+{
+    "issue": 4,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://burakkanber.com/blog/machine-learning-genetic-algorithms-in-javascript-part-2/",
+            "title": "Machine Learning: Genetic Algorithms in Javascript Part 2",
+            "description": ""
+        },
+        {
+            "url": "http://www.hanselman.com/blog/EverythingsBrokenAndNobodysUpset.aspx",
+            "title": "Everything's broken and nobody's upset",
+            "description": ""
+        },
+        {
+            "url": "http://www.infoq.com/articles/Error-Reporting",
+            "title": "Automated Error Reporting: The Gateway to Better Quality",
+            "description": ""
+        },
+        {
+            "url": "http://www.joshharness.com/2012/09/how-the-bystander-effect-is-ruining-your-code.html",
+            "title": "How the Bystander Effect is Ruining Your Code ",
+            "description": ""
+        },
+        {
+            "url": "http://highlyscalable.wordpress.com/2012/09/18/distributed-algorithms-in-nosql-databases/",
+            "title": "Distributed Algorithms in NoSQL Databases",
+            "description": ""
+        },
+        {
+            "url": "http://leadinganswers.typepad.com/leading_answers/resources.html",
+            "title": "Intresting resources about Project Management",
+            "description": ""
+        },
+        {
+            "url": "http://www.drdobbs.com/joltawards/jolt-awards-the-best-books/240007480",
+            "title": "Jolt Awards: The Best Books",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Programming Windows 8 Apps with HTML, CSS, and JavaScript.",
+		"url": "",
+        "author": "Kraig Brockschmidt",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://download.microsoft.com/download/6/D/D/6DD55B7A-7F27-4A2B-985A-082C10D1E6C5/Microsoft_Press_eBook_Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript_Second_Preview_PDF.pdf"
+            },
+            {
+                "name": "companion content",
+                "url": "http://download.microsoft.com/download/3/8/A/38A3C627-3462-4C74-876C-C4C1DF512AEF/Microsoft_Press_eBook_Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript_Second_Preview_Companion_Content.zip"
+            }
+        ]
+    }
+}
+);

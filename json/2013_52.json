@@ -1,0 +1,78 @@
+data_2013_52(
+{
+    "issue": 69,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blogs.msdn.com/b/cdndevs/archive/2013/12/23/c-async-and-await-a-deeper-dive.aspx",
+            "title": "C# async and await: A Deeper Dive",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx",
+            "title": "Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows",
+            "description": ""
+        },
+		{
+            "url": "http://lostechies.com/jimmybogard/2013/12/20/proper-sessiondbcontext-lifecycle-management/",
+            "title": "Proper Session/DbContext lifecycle management",
+            "description": ""
+        },
+		{
+            "url": "http://channel9.msdn.com/coding4fun/blog/Unity-Game-Templates-for-the-absolute-beginners-from-Petri-Wilhelmsen",
+            "title": "Unity Game Templates for the absolute beginners from Petri Wilhelmsen",
+            "description": ""
+        },
+		{
+            "url": "http://merrigrove.blogspot.ro/2013/12/what-heck-is-relation-from-tables-to.html?m=1",
+            "title": "What the Heck is a Relation? From Tables to Cartesian Products to Logic",
+            "description": ""
+        },
+		{
+            "url": "http://joelgrus.com/2013/12/24/why-programming-language-x-is-unambiguously-better-than-programming-language-y/",
+            "title": "Why [Programming Language X] Is Unambiguously Better than [Programming Language Y]",
+            "description": ""
+        },
+		{
+            "url": "http://braythwayt.com/2013/12/22/wrong.html",
+            "title": "Was Alan Kay wrong? And why does that matter?",
+            "description": ""
+        },
+		{
+            "url": "http://www.alleywatch.com/2013/12/13-ways-to-improve-email-unsubscribe/",
+            "title": "13 Ways to Improve Email Unsubscribe",
+            "description": ""
+        },
+		{
+            "url": "http://www.100percentjs.com/backbone-or-angular-or-ember-here-is-my-choice-and-why/",
+            "title": "Backbone or Angular or Ember?",
+            "description": ""
+        },
+		{
+            "url": "http://www.pencilscoop.com/2013/12/50-awesome-free-tools-for-web-developers/",
+            "title": "50+ Awesome Free Tools For Web Developers",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "ASP.NET Web API Succinctly",
+		"url": "",
+        "author": "Emanuele DelBono",
+        "links": [
+            {
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/ASP.NET_Web_API_Succinctly.mobi"
+            },
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/ASP.NET_Web_API_Succinctly.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Pro jQuery 2.0",
+		"url": "http://www.apress.com/9781430263883",
+        "author": "Adam Freeman"
+    }
+}
+);

@@ -1,0 +1,67 @@
+data_2013_51(
+{
+    "issue": 68,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://arstechnica.com/business/2013/11/half-an-operating-system-the-triumph-and-tragedy-of-os2/",
+            "title": "Half an operating system: The triumph and tragedy of OS/2",
+            "description": ""
+        },
+		{
+            "url": "http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away",
+            "title": "300ms tap delay, gone away",
+            "description": ""
+        },
+		{
+            "url": "http://stackoverflow.com/questions/5226055/truly-understanding-the-difference-between-procedural-and-functional/5280719#5280719",
+            "title": "This is the best explanation of functional programming that I've read",
+            "description": ""
+        },
+		{
+            "url": "http://www.appneta.com/blog/bootstrap-pagespeed/",
+            "title": "The Right Stuff: Breaking the PageSpeed Barrier with Bootstrap",
+            "description": ""
+        },
+		{
+            "url": "http://james.padolsey.com/general/the-value-of-testing/",
+            "title": "The Value of Testing",
+            "description": ""
+        },
+		{
+            "url": "http://calendar.perfplanet.com/2013/the-runtime-performance-checklist/",
+            "title": "The Runtime Performance Checklist",
+            "description": ""
+        },
+		{
+            "url": "http://www.muppetlabs.com/~breadbox/txt/rsa.html",
+            "title": "Prime Number Hide-and-Seek: How the RSA Cipher Works",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Better Unit Testing with Microsoft Fakes",
+		"url": "",
+        "author": "Visual Studio ALM Rangers",
+        "links": [
+            {
+                "name": "epub",
+                "url": "http://ligman.me/11loqpz"
+            },
+			{
+                "name": "mobi",
+                "url": "http://ligman.me/18VWcH8"
+            },
+			{
+                "name": "pdf",
+                "url": "http://ligman.me/11vyEQM"
+            }
+        ]
+    },
+    "book": {
+        "title": "Raspberry Pi Cookbook",
+		"url": "http://shop.oreilly.com/product/0636920029595.do",
+        "author": "Simon Monk"
+    }
+}
+);

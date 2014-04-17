@@ -1,0 +1,84 @@
+data_2013_49(
+{
+    "issue": 66,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.interact-sw.co.uk/iangblog/2013/11/29/async-yield-return",
+            "title": "Async, await, and yield return",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/webdev/archive/2013/11/30/instant-azure-caching-with-mvc.aspx",
+            "title": "Instant Azure Caching with MVC",
+            "description": ""
+        },
+		{
+            "url": "http://www.johnpapa.net/pageinspa/",
+            "title": "SPA and the Single Page Myth",
+            "description": ""
+        },
+		{
+            "url": "http://alistapart.com/blog/post/organize-that-sass",
+            "title": "Organize that Sass!",
+            "description": ""
+        },
+		{
+            "url": "http://odetocode.com/blogs/scott/archive/2013/11/25/asp-net-core-identity.aspx",
+            "title": "ASP.NET Core Identity",
+            "description": ""
+        },
+		{
+            "url": "http://gauravmantri.com/2013/12/01/windows-azure-storage-and-cors-lets-have-some-fun/",
+            "title": "Windows Azure Storage and Cross-Origin Resource Sharing (CORS) - Lets Have Some Fun",
+            "description": ""
+        },
+		{
+            "url": "http://www.html5rocks.com/en/tutorials/developertools/mobile/",
+            "title": "Chrome DevTools for Mobile: Screencast and Emulation",
+            "description": ""
+        },
+		{
+            "url": "http://codegeekz.com/wireframing-tools/",
+            "title": "21 Handy Wireframing Tools for Designers",
+            "description": ""
+        },
+		{
+            "url": "http://docforge.com/wiki/Web_application/Caching",
+            "title": "Web application/Caching",
+            "description": ""
+        },
+		{
+            "url": "http://blog.programmableweb.com/2013/12/02/google-cloud-platform-eases-mobile-back-end-development/",
+            "title": "Google Cloud Platform Simplifies Mobile Back-end Development",
+            "description": ""
+        },
+		{
+            "url": "http://lea.verou.me/2013/11/cleanest-css-spinner-ever/",
+            "title": "Cleanest CSS spinner, ever",
+            "description": ""
+        },
+		{
+            "url": "http://volgarev.me/blog/re-discovering-microsoft-web-api",
+            "title": "Re-discovering Microsoft Web API",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "AngularJS in 60 Minutes",
+		"url": "http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx",
+        "author": "Dan Wahlin",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Lean Customer Development",
+		"url": "http://shop.oreilly.com/product/0636920028253.do",
+        "author": "Cindy Alvarez"
+    }
+}
+);

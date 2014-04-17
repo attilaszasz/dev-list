@@ -1,0 +1,84 @@
+data_2013_50(
+{
+    "issue": 67,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.troyhunt.com/2013/12/working-with-154-million-records-on.html",
+            "title": "Working with 154 million records on Azure Table Storage",
+            "description": "the story of 'Have I been pwned?'"
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/692092/A-free-Export-to-Excel-Csharp-class-using-OpenXML",
+            "title": "A free 'Export to Excel' C# class, using OpenXML",
+            "description": "Friends don't let friends use Office InterOp..."
+        },
+		{
+            "url": "https://telepathwords.research.microsoft.com/",
+            "title": "Telepathwords",
+            "description": "Preventing weak passwords by reading your mind"
+        },
+		{
+            "url": "http://geekswithblogs.net/nabuk/archive/2013/12/01/slicing-for-.net.aspx",
+            "title": "Slicing for .NET",
+            "description": ""
+        },
+		{
+            "url": "https://www.simple-talk.com/sql/sql-tools/sql-server-tablediff-utility/",
+            "title": "SQL Server tablediff utility",
+            "description": ""
+        },
+		{
+            "url": "http://www.davidhayden.me/blog/asp-net-mvc-5-attribute-routing",
+            "title": "ASP.NET MVC 5 Attribute Routing",
+            "description": ""
+        },
+		{
+            "url": "http://java.dzone.com/articles/focusing-right-things-your",
+            "title": "Focusing on the Right Things in Your Daily Scrum",
+            "description": ""
+        },
+		{
+            "url": "http://alexandrebrisebois.wordpress.com/2013/12/07/the-truth-about-windows-azure-powershell/",
+            "title": "The Truth About Windows Azure PowerShell",
+            "description": ""
+        },
+		{
+            "url": "http://mobile.smashingmagazine.com/2013/12/04/speed-up-your-mobile-website-with-varnish/",
+            "title": "Speed Up Your Mobile Website With Varnish",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/john_daskalakis/archive/2013/12/09/how-to-do-a-quick-sql-server-healthcheck.aspx",
+            "title": "How to do a quick SQL Server healthcheck",
+            "description": ""
+        },
+		{
+            "url": "http://www.celinio.net/techblog/wp-content/uploads/2009/09/designpatterns1.jpg",
+            "title": "Design Pattern Cheat Sheet",
+            "description": ""
+        },
+		{
+            "url": "http://visualstudiomagazine.com/articles/2013/07/23/async-actions-in-aspnet-mvc-4.aspx",
+            "title": "Async Actions in ASP.NET MVC 4",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Regular Expressions",
+		"url": "",
+        "author": "Callum Macrae",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://cdn.dzone.com/sites/all/files/refcardz/rc196-010d-regex_1.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Microsoft SQL Server 2012 Internals",
+		"url": "http://www.amazon.com/Microsoft-SQL-Server-2012-Internals-ebook/dp/B00GT3K7XM/",
+        "author": "Kalen Delaney, Bob Beauchemin, Conor Cunningham, Jonathan Kehayias, Paul S. Randal"
+    }
+}
+);

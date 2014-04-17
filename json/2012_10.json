@@ -1,0 +1,48 @@
+data_2012_10(
+{
+    "issue": 10,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://beust.com/weblog/2006/06/22/why-code-reviews-are-good-for-you/",
+            "title": "Why code reviews are good for you",
+            "description": ""
+        },
+        {
+            "url": "http://tfs.visualstudio.com/",
+            "title": "Free TFS cloud hosting from Microsoft goes live.",
+            "description": ""
+        },
+        {
+            "url": "http://channel9.msdn.com/events/build/2012",
+            "title": "Microsoft Build 2012 event videos",
+            "description": ""
+        },
+        {
+            "url": "http://tech.blinemedical.com/the-importance-of-clarity-in-communication/",
+            "title": "The Importance of Clarity in Communication",
+            "description": ""
+        },
+        {
+            "url": "http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/",
+            "title": "Writing Fast, Memory-Efficient JavaScript",
+            "description": ""
+        },
+        {
+            "url": "http://obfuscateplease.com/",
+            "title": "Neat tool for obfuscating email addresses",
+            "description": ""
+        },
+        {
+            "url": "http://rsmith.co/2012/11/05/mongodb-gotchas-and-how-to-avoid-them/",
+            "title": "MongoDB Gotchas & How To Avoid Them",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Real World Haskell",
+		"url": "http://book.realworldhaskell.org/read/",
+        "author": ""
+    }
+}
+);

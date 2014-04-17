@@ -1,0 +1,73 @@
+data_2013_38(
+{
+    "issue": 55,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.windowsazure.com/en-us/documentation/infographics/",
+            "title": "Windows Azure Infographics",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/library/vstudio/hh765980%28v=vs.120%29.aspx",
+            "title": "Building and Managing the Product Backlog",
+            "description": ""
+        },
+		{
+            "url": "http://jabsoft.io/2013/08/29/why-c-still-matters-in-2013-a-simple-example/",
+            "title": "Why C still matters in 2013: a simple example",
+            "description": ""
+        },
+		{
+            "url": "http://www.jeremymorgan.com/blog/programming/common-code-smells/",
+            "title": "Common Code Smells",
+            "description": ""
+        },
+		{
+            "url": "http://www.content-loop.com/why-silicon-valleys-work-culture-is-killing-us/",
+            "title": "Why Silicon Valley’s Work Culture Is Killing Us",
+            "description": ""
+        },
+		{
+            "url": "http://www.restlessprogrammer.com/2013/09/hacking-coding-interview.html",
+            "title": "Hacking the coding interview",
+            "description": ""
+        },
+		{
+            "url": "http://joezack.com/2013/09/03/username-verification-without-information-disclosure/",
+            "title": "Username Verification Without Information Disclosure",
+            "description": ""
+        },
+		{
+            "url": "http://blog.modulus.io/absolute-beginners-guide-to-nodejs",
+            "title": "An Absolute Beginners Guide to Node.JS",
+            "description": ""
+        },
+		{
+            "url": "http://blog.jessitron.com/2013/08/idempotence-in-math-and-computing.html",
+            "title": "Idempotence in math and computing",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Data Structures Succinctly Part 2",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2",
+        "author": "Robert Horvick",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Data%20Structures%20Succinctly%20Part%202.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Data%20Structures%20Succinctly%20Part%202.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "Practical ASP.NET Web API",
+		"url": "http://www.apress.com/9781430261759",
+        "author": "Badrinarayanan Lakshmiraghavan"
+    }
+}
+);

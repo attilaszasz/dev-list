@@ -1,0 +1,73 @@
+data_2013_12(
+{
+    "issue": 29,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://fulmicoton.com/posts/bayesian_rating/",
+            "title": "Of Bayesian average and star ratings",
+            "description": ""
+        },
+		{
+            "url": "http://internations.github.com/antwort/",
+            "title": "Antwort: Responsive Layouts for Email",
+            "description": ""
+        },
+		{
+            "url": "http://airbnb.github.com/chronos/",
+            "title": "Chronos - cron replacement",
+            "description": ""
+        },
+		{
+            "url": "http://nicolasgallagher.com/pure-css-speech-bubbles/demo/",
+            "title": "Pure CSS speech bubbles",
+            "description": ""
+        },
+		{
+            "url": "https://coderwall.com/p/lkcaag",
+            "title": "Pagination: You're (Probably) Doing It Wrong",
+            "description": ""
+        },
+		{
+            "url": "http://googledevelopers.blogspot.com/2013/03/build-collaborative-apps-with-google.html",
+            "title": "Build collaborative apps with Google Drive Realtime API",
+            "description": ""
+        },
+		{
+            "url": "http://caniuse.com/",
+            "title": "Can I use...",
+            "description": "Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers."
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/555252/Surviving-the-Zombie-Apocalypse-with-HTML5-and-SVG",
+            "title": "Surviving the Zombie Apocalypse with HTML5 and SVG",
+            "description": ""
+        },
+		{
+            "url": "http://bilaw.al/2013/03/17/hacking-the-a-tag-in-100-characters.html",
+            "title": "Hacking the <a> tag in 100 characters",
+            "description": ""
+        },
+		{
+            "url": "http://mhalligan.com/benefits-matter-or-why-i-wont-work-for-your-y",
+            "title": "Benefits matter, or why I won't work for your YCombinator start-up",
+            "description": ""
+        },
+		{
+            "url": "http://tech.onefinestay.com/post/45746129401/dont-trust-your-bug-reports-aka-how-to-crash-ie9",
+            "title": "Don’t trust your bug reports, aka how to crash IE9",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Best Kept Secrets of Peer Code Review",
+		"url": "http://smartbear.com/SmartBear/media/pdfs/best-kept-secrets-of-peer-code-review.pdf",
+        "author": "Jason Cohen, Steven Teleki, Eric Brown"
+    },
+    "book": {
+        "title": "JavaScript Patterns",
+		"url": "http://shop.oreilly.com/product/9780596806767.do",
+        "author": "Stoyan Stefanov"
+    }
+}
+);

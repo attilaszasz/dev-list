@@ -1,0 +1,48 @@
+data_2012_09(
+{
+    "issue": 9,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://tympanus.net/codrops/2012/10/25/kick-start-your-project-a-collection-of-handy-css-snippets/",
+            "title": "Kick-Start Your Project: A Collection of Handy CSS Snippets",
+            "description": ""
+        },
+        {
+            "url": "http://blog.jeremymartin.name/2008/02/building-your-first-jquery-plugin-that.html",
+            "title": "Building Your First jQuery Plugin",
+            "description": ""
+        },
+        {
+            "url": "http://killdream.github.com/blog/2011/10/understanding-javascript-oop/",
+            "title": "Understanding JavaScript OOP",
+            "description": ""
+        },
+        {
+            "url": "http://tech.blinemedical.com/run-with-real-data/",
+            "title": "The difficulties of choosing a good test data set",
+            "description": ""
+        },
+        {
+            "url": "http://www.bluebytesoftware.com/blog/2012/10/31/BewareTheString.aspx",
+            "title": ".Net: Beware the string",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Best of Smashing Magazine - Anniversary eBook",
+		"url": "",
+        "author": "",
+        "links": [
+            {
+                "name": "zip",
+                "url": "http://anniversary.smashingmagazine.com/best-of-smashing-magazine.zip"
+            },
+			{
+                "name": "iTunes",
+                "url": "http://itunes.apple.com/book/best-of-smashing-magazine/id456595375?mt=11"
+            }
+        ]
+    }
+}
+);

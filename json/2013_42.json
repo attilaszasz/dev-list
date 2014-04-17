@@ -1,0 +1,78 @@
+data_2013_42(
+{
+    "issue": 59,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://addyosmani.com/blog/making-a-site-jank-free/",
+            "title": "Gone In 60fps - Making A Site Jank-Free",
+            "description": ""
+        },
+		{
+            "url": "http://qkview.com/techbrij/aspnet-mvc-4",
+            "title": "ASP.NET MVC 4 Cheat sheet",
+            "description": ""
+        },
+		{
+            "url": "http://thedailywtf.com/Articles/FrontAhead-Design.aspx?0",
+            "title": "Front-Ahead Design",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/tilovell/archive/2013/10/15/grokking-iqueryable.aspx",
+            "title": "Grokking IQueryable",
+            "description": ""
+        },
+		{
+            "url": "http://freelanceswitch.com/industry-tips/bootstrap-your-business/",
+            "title": "How to Bootstrap Your Business and Turn Ideas Into Action",
+            "description": ""
+        },
+		{
+            "url": "http://css-tricks.com/interview-questions-css/",
+            "title": "Interview Questions and Exercises About CSS",
+            "description": ""
+        },
+		{
+            "url": "http://www.novanet.no/blog/hallstein-brotan/dates/2013/10/creating-multilingual-support-using-angularjs/",
+            "title": "Creating multilingual support using AngularJS",
+            "description": ""
+        },
+		{
+            "url": "http://sharpfellows.com/post/Getting-started-with-Redis-on-Windows-and-a-look-at-performance-for-logging.aspx",
+            "title": "Getting started with Redis on Windows",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/maintainable-automated-ui-tests/",
+            "title": "Maintainable Automated UI Tests",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/tools-and-tips/tips-to-avoid-brittle-ui-tests/",
+            "title": "Tips to Avoid Brittle UI Tests",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Postgres Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/postgres",
+        "author": "Peter Shaw",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Postgres_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Postgres_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "iOS 7 Programming Cookbook",
+		"url": "http://shop.oreilly.com/product/0636920031031.do",
+        "author": "Vandad Nahavandipoor"
+    }
+}
+);

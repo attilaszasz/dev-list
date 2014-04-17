@@ -1,0 +1,48 @@
+data_2013_07(
+{
+    "issue": 24,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://maxburstein.com/blog/introduction-to-graph-theory-finding-shortest-path/",
+            "title": "Introduction to Graph Theory: Finding The Shortest Path",
+            "description": ""
+        },
+		{
+            "url": "https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/",
+            "title": "Writing Testable Frontend Javascript Part 1 – Anti-patterns and their fixes",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/thoughtbot/guides/tree/master/code-review",
+            "title": "A guide for reviewing code and having your code reviewed.",
+            "description": ""
+        },
+		{
+            "url": "http://blog.smartbear.com/software-quality/bid/167059/Fabrice-Bellard-Portrait-of-a-Superproductive-Programmer",
+            "title": "Fabrice Bellard: Portrait of a Super-Productive Programmer",
+            "description": ""
+        },
+		{
+            "url": "http://www.zemanta.com/blog/i-bet-you-over-engineered-your-startup/#comment-685047168",
+            "title": "Web Development: A Crazy World",
+            "description": ""
+        },
+		{
+            "url": "http://blog.jeff-nelson.com/2012/11/on-inventing-chromebook.html",
+            "title": "Inventing Chromebook",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Symfony2: The Book",
+		"url": "http://symfony.com/doc/current/book/index.html",
+        "author": ""
+    },
+    "book": {
+        "title": "Querying Microsoft® SQL Server® 2012",
+		"url": "http://oreilly.com/shop/product/0790145345059.html?bB=g&code=MSDEAL",
+        "author": "Itzik Ben-Gan, Dejan Sarka, Ron Talmage"
+    }
+}
+);

@@ -1,0 +1,68 @@
+data_2013_08(
+{
+    "issue": 25,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://stackoverflow.com/questions/2684364/why-arent-programs-written-in-assembly-more-often/2685541#2685541",
+            "title": "Hellо, I am a compiler.",
+            "description": ""
+        },
+		{
+            "url": "http://android-developers.blogspot.com/2013/02/using-cryptography-to-store-credentials.html",
+            "title": "Android: Using Cryptography to Store Credentials Safely",
+            "description": ""
+        },
+		{
+            "url": "http://www.davepaquette.com/archive/2013/02/05/writing-efficient-queries-with-entity-framework-code-first-part-1.aspx",
+            "title": "Writing efficient queries with Entity Framework Code First (Part 1)",
+            "description": ""
+        },
+		{
+            "url": "http://www.davepaquette.com/archive/2013/02/09/writing-efficient-queries-with-entity-framework-code-first-part-2.aspx",
+            "title": "Writing efficient queries with Entity Framework Code First (Part 2)",
+            "description": ""
+        },
+		{
+            "url": "http://www.davepaquette.com/archive/2013/02/18/writing-efficient-queries-with-entity-framework-code-first-part-3.aspx",
+            "title": "Writing efficient queries with Entity Framework Code First (Part 3)",
+            "description": ""
+        },
+		{
+            "url": "http://codeincomplete.com/posts/2012/6/22/javascript_racer/",
+            "title": "How to build a (javascript) racing game",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeofhonor.com/blog/the-starcraft-path-finding-hack",
+            "title": "The StarCraft path-finding hack",
+            "description": ""
+        },
+		{
+            "url": "http://fabiensanglard.net/duke3d/index.php",
+            "title": "Duke Nukem 3D Code Review",
+            "description": ""
+        },
+		{
+            "url": "http://homakov.blogspot.ro/2013/02/hacking-facebook-with-oauth2-and-chrome.html",
+            "title": "How we hacked Facebook with OAuth2 and Chrome bugs",
+            "description": ""
+        },
+		{
+            "url": "http://www.codingconfessional.com/",
+            "title": "Coding Confessional",
+            "description": "Anonymous Confessions from Programmers."
+        }
+    ],
+    "freebook": {
+        "title": "Learning JavaScript Design Patterns",
+		"url": "http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/",
+        "author": "Addy Osmani"
+    },
+    "book": {
+        "title": "Programming Entity Framework: Code First",
+		"url": "http://shop.oreilly.com/product/0636920022220.do",
+        "author": "Julia Lerman, Rowan Miller"
+    }
+}
+);

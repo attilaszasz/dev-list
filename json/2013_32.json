@@ -1,0 +1,68 @@
+data_2013_32(
+{
+    "issue": 49,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://thombergs.wordpress.com/2013/08/04/accessible-web-forms/",
+            "title": "5 Steps Towards an Accessible Web Form",
+            "description": ""
+        },
+		{
+            "url": "http://google.github.io/tracing-framework/",
+            "title": "Web Tracing Framework",
+            "description": ""
+        },
+		{
+            "url": "https://github.com/NYTimes/objective-c-style-guide",
+            "title": "NYTimes Objective-C Style Guide",
+            "description": ""
+        },
+		{
+            "url": "http://buildregex.com/",
+            "title": "Build RegEx",
+            "description": ""
+        },
+		{
+            "url": "http://www.techempower.com/benchmarks/",
+            "title": "Web Framework Benchmarks",
+            "description": ""
+        },
+		{
+            "url": "http://techcrunch.com/2013/08/06/facebook-story-bumping/",
+            "title": "Facebook To Publicize News Feed Algorithm Changes, Starting With New “Story Bumping”",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/oldnewthing/archive/2013/08/06/10439573.aspx",
+            "title": "The mysterious ways of the params keyword in C#",
+            "description": ""
+        },
+		{
+            "url": "http://www.javacodegeeks.com/2011/11/principles-for-creating-maintainable.html",
+            "title": "Principles for Creating Maintainable and Evolvable Tests",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/tutorials/understanding-cross-site-request-forgery-in-net/",
+            "title": "Understanding Cross-Site Request Forgery in .NET",
+            "description": ""
+        },
+		{
+            "url": "http://net.tutsplus.com/articles/web-assets-tips-for-better-organization-and-performance/",
+            "title": "Web Assets – Tips for Better Organization and Performance",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Big Data, Analytics, and the Future of Marketing & Sales",
+		"url": "http://cmsoforum.mckinsey.com/article/ebook-big-data-analytics-and-the-future-of-marketing-sales",
+        "author": "McKinsey Chief Marketing & Sales Officer Forum"
+    },
+    "book": {
+        "title": "Learning jQuery Fourth Edition",
+		"url": "http://shop.oreilly.com/product/9781782163145.do",
+        "author": "Jonathan Chaffer, Karl Swedberg"
+    }
+}
+);

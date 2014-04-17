@@ -1,0 +1,67 @@
+data_2013_44(
+{
+    "issue": 61,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blogs.clariusconsulting.net/kzu/high-level-overview-of-visual-studio-extensibility-apis/",
+            "title": "High level overview of Visual Studio Extensibility APIs",
+            "description": ""
+        },
+		{
+            "url": "http://jesseliberty.com/2013/10/25/two-dozen-insanely-essential-programmer-utilities",
+            "title": "Two Dozen Insanely Essential Programmer Utilities",
+            "description": ""
+        },
+		{
+            "url": "http://lhorie.blogspot.ca/2013/09/things-that-suck-in-angularjs.html",
+            "title": "Things that suck in AngularJS",
+            "description": ""
+        },
+		{
+            "url": "https://www.atlassian.com/git",
+            "title": "Git Tutorials",
+            "description": ""
+        },
+		{
+            "url": "http://arstechnica.com/information-technology/2013/10/the-seven-deadly-sins-of-healthcare-gov/",
+            "title": "The seven deadly sins of HealthCare.gov",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/674760/Code-First-Migration-and-Extending-Identity-Accoun",
+            "title": "Code-First Migration and Extending Identity Accounts in ASP.NET MVC 5 and Visual Studio 2013",
+            "description": ""
+        },
+		{
+            "url": "http://haacked.com/archive/2013/10/28/code-review-like-you-mean-it.aspx",
+            "title": "Code Review Like You Mean It",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Install Team Foundation Server 2012: the ultimate guide for installing TFS",
+		"url": "https://www.smashwords.com/extreader/read/307722",
+        "author": "Tim Elhajj",
+        "links": [
+            {
+                "name": "epub",
+                "url": "https://www.smashwords.com/books/download/307722/8/latest/0/0/install-team-foundation-server-2012-the-ultimate-guide-for-installing-tfs.epub"
+            },
+            {
+                "name": "mobi",
+                "url": "https://www.smashwords.com/books/download/307722/4/latest/0/0/install-team-foundation-server-2012-the-ultimate-guide-for-installing-tfs.mobi"
+            },
+            {
+                "name": "pdf",
+                "url": "https://www.smashwords.com/books/download/307722/1/latest/0/0/install-team-foundation-server-2012-the-ultimate-guide-for-installing-tfs.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "SignalR: Real-time Application Development",
+		"url": "http://shop.oreilly.com/product/9781782164241.do",
+        "author": "Einar Ingebrigtsen"
+    }
+}
+);

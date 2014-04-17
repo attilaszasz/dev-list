@@ -1,0 +1,58 @@
+data_2014_16(
+{
+    "issue": 85,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://businesscraftsmanship.tumblr.com/post/81775716704/scrum-a-5-step-guide-for-managers",
+            "title": "Scrum: a 5-step guide for managers",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/601117/jQuery-attach-remove-an-event-handler-function",
+            "title": "jQuery - .bind(), .live(), .delegate(), .on() ( and also .unbind(), .die(), .undelegate(), .off() )",
+            "description": ""
+        },
+		{
+            "url": "http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel",
+            "title": "Kernel 101 - Let's write a Kernel",
+            "description": ""
+        },
+		{
+            "url": "http://creditcardjs.com/credit-card-type-detection",
+            "title": "How to Correctly Detect Credit Card Type",
+            "description": ""
+        },
+		{
+            "url": "http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/",
+            "title": "Debugging Asynchronous JavaScript with Chrome DevTools",
+            "description": ""
+        },
+		{
+            "url": "http://thesociablegeek.com/games-2/creating-a-character-for-your-game-using-inkscape/",
+            "title": "Creating a Character for your Game Using Inkscape",
+            "description": "If you have never used Inkscape or think you cant draw, then this is for you."
+        }
+    ],
+    "freebook": {
+        "title": "AngularJS Succinctly",
+		"url": "",
+        "author": "Frederik Dietz",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/AngularJS_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/AngularJS_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "iOS Game Development Cookbook",
+		"url": "http://shop.oreilly.com/product/0636920030454.do",
+        "author": "Jonathon Manning, Paris Buttfield-Addison"
+    }
+}
+);

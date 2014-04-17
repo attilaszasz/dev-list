@@ -1,0 +1,48 @@
+data_2013_10(
+{
+    "issue": 27,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://blog.mojotech.com/post/44224044723/more-features-wont-save-your-product",
+            "title": "More Features Won’t Save Your Product",
+            "description": ""
+        },
+		{
+            "url": "http://feross.org/fill-disk/",
+            "title": "Introducing the HTML5 Hard Disk Filler™ API",
+            "description": ""
+        },
+		{
+            "url": "http://oscargodson.com/posts/what-i-learned-at-yammer.html",
+            "title": "What I Learned At Yammer",
+            "description": ""
+        },
+		{
+            "url": "http://thecodist.com/article/yes_i_still_want_to_be_doing_this_at_56",
+            "title": "Yes I Still Want To Be Doing This at 56 ",
+            "description": ""
+        },
+		{
+            "url": "http://stackoverflow.com/questions/15182496/why-does-this-code-print-hello-world",
+            "title": "Why does this code print “hello world”?",
+            "description": ""
+        },
+		{
+            "url": "http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown",
+            "title": "Breaking down Amazon’s mega dropdown",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Little Manual of API Design",
+		"url": "http://www4.in.tum.de/~blanchet/api-design.pdf",
+        "author": "Jasmin Blanchette"
+    },
+    "book": {
+        "title": "Lean UX",
+		"url": "http://shop.oreilly.com/product/0636920021827.do",
+        "author": "Jeff Gothelf"
+    }
+}
+);

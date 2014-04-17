@@ -1,0 +1,65 @@
+data_2013_34(
+{
+    "issue": 51,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.codeproject.com/Articles/636730/Distributed-caching-using-Redis-server-with-Net-Cs",
+            "title": "Distributed caching using Redis server with .Net/C# client",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/data_otaku/archive/2013/08/14/hadoop-for-net-developers.aspx",
+            "title": "Hadoop for .NET Developers",
+            "description": ""
+        },
+		{
+            "url": "https://www.simple-talk.com/sql/database-administration/eight-steps-to-effective-sql-server-monitoring/",
+            "title": "Eight Steps to Effective SQL Server Monitoring",
+            "description": ""
+        },
+		{
+            "url": "https://ramcloud.stanford.edu/wiki/display/ramcloud/Software+Design+Philosophy",
+            "title": "Software Design Philosophy",
+            "description": ""
+        },
+		{
+            "url": "http://philipwalton.com/articles/decoupling-html-css-and-javascript/",
+            "title": "Decoupling Your HTML, CSS, and JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://sealedabstract.com/rants/why-software-projects-are-terrible-and-how-not-to-fix-them/",
+            "title": "Why Software Projects are Terrible and How Not To Fix Them",
+            "description": ""
+        },
+		{
+            "url": "http://lucb1e.com/rp/cookielesscookies/",
+            "title": "Cookieless cookies",
+            "description": ""
+        },
+		{
+            "url": "http://firstround.com/article/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP",
+            "title": "The anatomy of the perfect technical interview from a former Amazon VP",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "SQL Server Backup and Restore",
+		"url": "http://www.red-gate.com/community/books/sql-server-backup-and-restore",
+        "author": "Shawn McGehee",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://assets.red-gate.com/community/books/assets/sql-server-backup-restore.pdf"
+            }
+        ]
+
+    },
+    "book": {
+        "title": "Performance Testing with JMeter 2.9",
+		"url": "http://www.packtpub.com/performance-testing-with-jmeter-2-9/book",
+        "author": "Bayo Erinle"
+    }
+}
+);

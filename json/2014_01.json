@@ -1,0 +1,64 @@
+data_2014_01(
+{
+    "issue": 70,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://hadihariri.com/2013/12/29/jvm-minimal-survival-guide-for-the-dotnet-developer/",
+            "title": "JVM Minimal Survival Guide for the .NET Developer",
+            "description": ""
+        },
+		{
+            "url": "http://www.brentozar.com/archive/2013/12/top-10-signs-your-sql-server-is-neglected/",
+            "title": "Top 10 Signs Your SQL Server is Neglected",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/703244/Continuous-Integration-Delivery-For-GitHub-With-Te",
+            "title": "Continuous Integration & Delivery For GitHub With TeamCity",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2013/12/17/imageoptim-cli-batch-compression-tool/",
+            "title": "How Optimized Are Your Images? Meet ImageOptim-CLI, a Batch Compression Tool",
+            "description": ""
+        },
+		{
+            "url": "http://codeplanet.io/principles-good-restful-api-design/",
+            "title": "Principles of good RESTful API Design",
+            "description": ""
+        },
+		{
+            "url": "http://blog.sourcing.io/interview-questions",
+            "title": "Interviewing a front-end developer",
+            "description": ""
+        },
+		{
+            "url": "http://www.drdobbs.com/lock-free-data-structures/184401865",
+            "title": "Lock-Free Data Structures",
+            "description": ""
+        },
+		{
+            "url": "http://dinbror.dk/blog/blazy/",
+            "title": "bLazy.js - A lazy load image script",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Pointers and Memory",
+		"url": "http://cslibrary.stanford.edu/102/",
+        "author": "Nick Parlante",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://cslibrary.stanford.edu/102/PointersAndMemory.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Beginning Sensor Networks with Arduino and Raspberry Pi",
+		"url": "http://www.apress.com/9781430258247",
+        "author": "Charles Bell"
+    }
+}
+);

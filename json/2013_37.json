@@ -1,0 +1,68 @@
+data_2013_37(
+{
+    "issue": 54,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://msdn.microsoft.com/en-us/library/vstudio/hh765983%28v=vs.120%29.aspx",
+            "title": "Done and Undone",
+            "description": ""
+        },
+		{
+            "url": "http://weblogs.asp.net/ricardoperes/archive/2013/08/27/entity-framework-pitfalls-validation-does-not-load-lazy-properties.aspx",
+            "title": "Entity Framework Pitfalls – Validation Does Not Load Lazy Properties",
+            "description": ""
+        },
+		{
+            "url": "http://www.infoq.com/news/2013/08/solid-principles-revisited",
+            "title": "SOLID Design Principles and Other Patterns Revisited For .NET",
+            "description": ""
+        },
+		{
+            "url": "http://www.aaronstannard.com/post/2013/08/27/Being-Right-is-Always-the-Wrong-Choice.aspx",
+            "title": "Being Right is Always the Wrong Choice",
+            "description": ""
+        },
+		{
+            "url": "http://www.hanselman.com/blog/TheMagicOfUsingAsynchronousMethodsInASPNET45PlusAnImportantGotcha.aspx",
+            "title": "The Magic of using Asynchronous Methods in ASP.NET 4.5 plus an important gotcha",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn423697.aspx",
+            "title": "HTML5 Video and History",
+            "description": "Features Users Can Really See"
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn342880.aspx",
+            "title": "The Decade of UX",
+            "description": ""
+        },
+		{
+            "url": "http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html",
+            "title": "The First Few Milliseconds of an HTTPS Connection",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Git Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/git",
+        "author": "Ryan Hodson",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Git_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Git_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "101 Design Ingredients to Solve Big Tech Problems",
+		"url": "http://shop.oreilly.com/product/9781937785321.do",
+        "author": "Eewei Chen"
+    }
+}
+);

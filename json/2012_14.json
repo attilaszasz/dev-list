@@ -1,0 +1,48 @@
+data_2012_14(
+{
+    "issue": 14,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://vpalos.com/1194/js-classes-for-the-masses/",
+            "title": "JS classes-for-the-masses",
+            "description": ""
+        },
+        {
+            "url": "http://jeremyckahn.github.com/blog/2012/12/01/screenshot-absolutely-everything/",
+            "title": "Screenshot Absolutely Everything",
+            "description": ""
+        },
+        {
+            "url": "http://tech.blinemedical.com/async-producerconsumer-the-easy-way/",
+            "title": "Async producer/consumer the easy way",
+            "description": ""
+        },
+        {
+            "url": "http://codeartists.com/post/36892733572/how-to-directly-upload-files-to-amazon-s3-from-your",
+            "title": "How to directly upload files to Amazon S3 from your client side web app",
+            "description": ""
+        },
+        {
+            "url": "http://craigkerstiens.com/2012/11/30/sharding-your-database/",
+            "title": "Sharding your database - A high level overview",
+            "description": ""
+        },
+        {
+            "url": "http://news.slashdot.org/story/12/11/28/1950230/swedish-stock-exchange-hit-by-programming-snafu",
+            "title": "Swedish Stock Exchange Hit By Programming Snafu",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "10 PRINT CHR$(205.5+RND(1)); : GOTO 10",
+		"url": "http://trope-tank.mit.edu/10_PRINT_121114.pdf",
+        "author": ""
+    },
+    "book": {
+        "title": "Programming Windows, 6th Edition",
+		"url": "http://shop.oreilly.com/product/0790145369079.do",
+        "author": "Charles Petzold"
+    }
+}
+);

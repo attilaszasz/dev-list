@@ -1,0 +1,69 @@
+data_2013_27(
+{
+    "issue": 44,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://googletesting.blogspot.ro/2013/06/testing-on-toilet-fake-your-way-to.html",
+            "title": "Fake Your Way to Better Tests",
+            "description": ""
+        },
+		{
+            "url": "http://swreflections.blogspot.ro/2013/05/7-agile-best-practices-that-you-dont.html",
+            "title": "7 Agile Best Practices that You Don’t Need to Follow",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/oldnewthing/archive/2013/06/28/10429807.aspx",
+            "title": "It's the address space, stupid",
+            "description": ""
+        },
+		{
+            "url": "http://www.webpop.com/blog/2013/06/29/mobile-first-design-with-foundation-4",
+            "title": "Mobile First Design with Foundation 4",
+            "description": ""
+        },
+		{
+            "url": "https://oauth.io/#/home",
+            "title": "70+ Oauth providers into one API",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn296507.aspx",
+            "title": "Creating Mobile-Optimized Views in ASP.NET MVC 4",
+            "description": ""
+        },
+		{
+            "url": "http://limi.net/checkboxes-that-kill/",
+            "title": "Checkboxes that kill your product",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/jaredpar/archive/2013/07/02/immutable-isn-t-just-for-parallel-code.aspx",
+            "title": "Immutable isn’t just for parallel code",
+            "description": ""
+        },
+		{
+            "url": "http://www.f5debug.net/post/2012/09/17/350-Interview-Questions-and-Answers-on-Net-Framework-OOPS-ASPNet-CNet-SQL-Server-WCF-in-one-place.aspx",
+            "title": "350 Interview Questions and Answers on .Net Framework, OOPS, ASP.Net, C#.Net, SQL Server, WCF in one place",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "25 Secrets for Faster ASP.NET Applications",
+		"url": "http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/entrypage/faster-asp-net-apps",
+        "author": "",
+        "links": [
+            {
+                "name": "zip",
+                "url": "http://assets.red-gate.com/offerings/25-tips-for-faster-asp-net-apps.zip"
+            }
+        ]
+    },
+    "book": {
+        "title": "Visual Studio 2012 and .NET 4.5 Expert Development Cookbook",
+		"url": "http://www.packtpub.com/visual-studio-11-and-dotnet-4-5-expert-development-cookbook/book",
+        "author": "Abhishek Sur"
+    }
+}
+);

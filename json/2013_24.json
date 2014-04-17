@@ -1,0 +1,58 @@
+data_2013_24(
+{
+    "issue": 41,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.itworld.com/print/359398",
+            "title": "Why your users hate Agile development",
+            "description": "What developers see as iterative and flexible, users see as disorganized and never-ending. Here’s how some experienced developers have changed that perception."
+        },
+		{
+            "url": "http://x8.io/blog/2013/05/database-replication-explained/",
+            "title": "Database replication explained",
+            "description": ""
+        },
+		{
+            "url": "https://rawgithub.com/",
+            "title": "rawgithub.com",
+            "description": ""
+        },
+		{
+            "url": "http://math-blog.com/2013/06/04/programming-is-not-a-super-power/",
+            "title": "Programming is not a Super-Power",
+            "description": ""
+        },
+		{
+            "url": "http://www.html5rocks.com/en/tutorials/speed/script-loading/",
+            "title": "Deep dive into the murky waters of script loading",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.hbr.org/cs/2013/05/the_rise_of_the_mobile-only_us.html",
+            "title": "The Rise of the Mobile-Only User",
+            "description": ""
+        },
+		{
+            "url": "http://al3x.net/2013/05/23/letter-to-a-young-programmer.html",
+            "title": "Letter To A Young Programmer Considering A Startup",
+            "description": ""
+        },
+		{
+            "url": "http://blog.samaltman.com/premature-optimization",
+            "title": "Premature optimization",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Bayesian Methods for Hackers",
+		"url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+        "author": "Cam Davidson-Pilon"
+    },
+    "book": {
+        "title": "The Healthy Programmer - Get Fit, Feel Better, and Keep Coding",
+		"url": "http://shop.oreilly.com/product/9781937785314.do",
+        "author": "Joe Kutner"
+    }
+}
+);

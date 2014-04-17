@@ -1,0 +1,62 @@
+data_2012_11(
+{
+    "issue": 11,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://swizec.com/blog/single-page-web-apps-the-worst-of-both-worlds/swizec/5538",
+            "title": "Single page web apps: the worst of both worlds",
+            "description": ""
+        },
+        {
+            "url": "http://kunststube.net/encoding/",
+            "title": "What every programmer absolutely, positively needs to know about encodings and character sets to work with text",
+            "description": ""
+        },
+        {
+            "url": "http://www.fastcompany.com/3002810/aha-moments-made-paul-grahams-y-combinator-possible",
+            "title": "The Aha! Moments That Made Paul Graham's Y Combinator Possible",
+            "description": ""
+        },
+        {
+            "url": "http://www.codeproject.com/Articles/485747/The-Complete-Guide-to-Building-HTML5-games-with-Ca",
+            "title": "The Complete Guide to Building HTML5 games with Canvas & SVG",
+            "description": ""
+        },
+        {
+            "url": "http://www.peterkrantz.com/2011/software-engineering-in-1968/",
+            "title": "These quotes are from the proceedings of the Nato Software Engineering conference in 1968.",
+            "description": "Sometimes we forget that other people have faced the same problems we face today in software development."
+        },
+        {
+            "url": "http://blog.gomiso.com/2012/11/15/asynchronous-processing-in-web-applications-part-1-a-database-is-not-a-queue/",
+            "title": "Asynchronous Processing in Web Applications, Part 1: A Database Is Not a Queue",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Pro Git",
+		"url": "",
+        "author": "Scott Chacon",
+        "links": [
+            {
+                "name": "pdf",
+                "url": "https://github.s3.amazonaws.com/media/progit.en.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "https://github.s3.amazonaws.com/media/pro-git.en.mobi"
+            },
+			{
+                "name": "ePub",
+                "url": "https://github.s3.amazonaws.com/media/progit.epub"
+            }
+        ]
+    },
+    "book": {
+        "title": "Professional ASP.NET MVC 4",
+		"url": "http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-MVC-4.productCd-1118424328.html",
+        "author": "Jon Galloway, Phil Haack, Brad Wilson, K. Scott Allen"
+    }
+}
+);

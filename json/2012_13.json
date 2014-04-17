@@ -1,0 +1,43 @@
+data_2012_13(
+{
+    "issue": 13,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/",
+            "title": "How Browsers Work",
+            "description": "Behind the scenes of modern web browsers"
+        },
+        {
+            "url": "http://ashtonkemerling.com/2012/11/27/the-myth-of-the-lone-hacker/",
+            "title": "The Myth of the Lone Hacker",
+            "description": ""
+        },
+        {
+            "url": "http://antirez.com/news/43",
+            "title": "Redis crashes",
+            "description": "A small rant about software reliability"
+        },
+        {
+            "url": "http://rodrigosasaki.com/2012/11/24/tail-recursion/",
+            "title": "Tail Recursion",
+            "description": ""
+        },
+        {
+            "url": "http://pashasadri.com/2012/11/26/why-software-engineers-are-vastly-undervalued/",
+            "title": "Why Software Engineers are (Vastly) Undervalued",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Getting real",
+		"url": "http://gettingreal.37signals.com/toc.php",
+        "author": "37signals"
+    },
+    "book": {
+        "title": "Visual Studio 2012 Cookbook",
+		"url": "http://www.amazon.com/Visual-Studio-2012-Cookbook-ebook/dp/B0096LUIQ0/ref=tmm_kin_title_0",
+        "author": "Richard Banks"
+    }
+}
+);

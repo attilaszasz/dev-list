@@ -1,0 +1,58 @@
+data_2012_02(
+{
+    "issue": 2,
+    "year": 2012,
+    "links": [
+        {
+            "url": "http://www.ericsink.com/entries/html5_vs_native_apps.html",
+            "title": "Mobile Apps: HTML5 vs Native",
+            "description": ""
+        },
+        {
+            "url": "http://googleonlinesecurity.blogspot.com/2012/08/content-hosting-for-modern-web.html",
+            "title": "Google Talks About the Dangers of User Content",
+            "description": ""
+        },
+        {
+            "url": "https://tindie.com/",
+            "title": "Buy & sell homemade gadgets, kits, & parts. Raspberry Pi, Arduino, 3dprinting, and more!",
+            "description": ""
+        },
+        {
+            "url": "http://www.uta.edu/faculty/rcli/TopTen/topten.pdf",
+            "title": "Best Algorithms of the 20th Century [PDF]",
+            "description": ""
+        },
+        {
+            "url": "http://burakkanber.com/blog/machine-learning-genetic-algorithms-part-1-javascript/",
+            "title": "Machine Learning: Genetic Algorithms Part 1 (Javascript)",
+            "description": ""
+        },
+        {
+            "url": "http://www.west-wind.com/weblog/posts/2012/Sep/04/ASPNET-Frameworks-and-Raw-Throughput-Performance",
+            "title": "ASP.NET Frameworks and Raw Throughput Performance",
+            "description": ""
+        },
+        {
+            "url": "http://framework.zend.com/blog/zend-framework-2-0-0-stable-released.html",
+            "title": "Zend Framework 2.0.0 STABLE Released!",
+            "description": ""
+        },
+        {
+            "url": "http://www.wired.co.uk/news/archive/2012-09/04/luca-redwood",
+            "title": "How a bedroom developer's 'ugly little game' became an App Store hit",
+            "description": ""
+        },
+        {
+            "url": "http://www.vmware.com/support/player50/doc/player-50-release-notes.html",
+            "title": "VMware Player 5.0 Released",
+            "description": ""
+        },
+        {
+            "url": "http://www.microsoft.com/en-us/server-cloud/windows-server/",
+            "title": "Windows Server 2012 released",
+            "description": ""
+        }
+    ]
+}
+);

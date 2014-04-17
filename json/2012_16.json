@@ -1,0 +1,48 @@
+data_2012_16(
+{
+    "issue": 16,
+    "year": 2012,
+    "links": [
+        {
+            "url": "https://tech.dropbox.com/2012/08/some-love-for-javascript-applications-2/",
+            "title": "Dropbox: Some love for JavaScript applications",
+            "description": ""
+        },
+        {
+            "url": "http://tersesystems.com/2012/12/16/problems-scala-fixes",
+            "title": "Problems Scala Fixes",
+            "description": ""
+        },
+        {
+            "url": "http://twistedoakstudios.com/blog/Post1585_linq-to-collections-beyond-ienumerablet",
+            "title": "Linq to Collections: Beyond IEnumerable<T>",
+            "description": ""
+        },
+        {
+            "url": "http://blog.kramerapps.com/post/38090565883/integrate-cloud-print-ios",
+            "title": "Integrating Google Cloud Print into iOS",
+            "description": ""
+        },
+        {
+            "url": "http://zef.me/4235/pick-your-battles",
+            "title": "Pick Your Battles",
+            "description": "Go and build amazing applications. Build them with the most boring technology you can find."
+        },
+        {
+            "url": "http://www.ibm.com/developerworks/library/wa-jsmemory/index.html",
+            "title": "Understand memory leaks in JavaScript applications",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Nature of Code",
+		"url": "http://natureofcode.com/book/introduction/",
+        "author": "Daniel Shiffman"
+    },
+    "book": {
+        "title": "iPhone and iPad Apps Marketing",
+		"url": "http://www.amazon.com/iPhone-iPad-Apps-Marketing-Biz-Tech/dp/0789744279",
+        "author": "Jeffrey Hughes"
+    }
+}
+);

@@ -1,0 +1,48 @@
+data_2013_01(
+{
+    "issue": 18,
+    "year": 2013,
+    "links": [
+        {
+            "url": "http://www.regexper.com/",
+            "title": "Regexper - Regular expression visualizer",
+            "description": ""
+        },
+        {
+            "url": "https://github.com/pocorall/scaloid",
+            "title": "Less painful Android development with Scala",
+            "description": ""
+        },
+        {
+            "url": "http://pragprog.com/magazines/2013-01/functional-programming-basics",
+            "title": "Functional Programming Basics",
+            "description": ""
+        },
+        {
+            "url": "http://37signals.com/svn/posts/3384-winning-is-the-worst-thing-that-can-happen-in-vegas",
+            "title": "The road to programming hell is paved with “best practices” applied too early. ",
+            "description": ""
+        },
+        {
+            "url": "http://www.computer.org/cms/Computer.org/ComputingNow/homepage/2011/1111/W_SW_AllLateProjectsAretheSame.pdf",
+            "title": "All Late Projects Are the Same",
+            "description": ""
+        },
+        {
+            "url": "http://blog.shreyaschand.com/2013/01/03/google-autocomplete-api/",
+            "title": "Google Autocomplete “API” Explained",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "97 Things Every Programmer Should Know",
+		"url": "http://programmer.97things.oreilly.com/wiki/index.php/Contributions_Appearing_in_the_Book",
+        "author": ""
+    },
+    "book": {
+        "title": "Pro SQL Server 2012 Practices",
+		"url": "http://www.apress.com/9781430247708",
+        "author": ""
+    }
+}
+);

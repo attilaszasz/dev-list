@@ -1,0 +1,53 @@
+data_2013_14(
+{
+    "issue": 31,
+    "year": 2013,
+    "links": [
+        {
+            "url": "https://github.com/thomasdavis/best-practices",
+            "title": "Programming Best Practices Tidbits",
+            "description": "A Collection of quotes and paraphrases for developers from around the web."
+        },
+		{
+            "url": "http://blog.aaroniba.net/2011/07/06/a-lesson-from-my-ios-users-they-dont-teach-at-mit/",
+            "title": "Users of my iOS Game Teach Me a Lesson MIT Didn’t",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/541834/How-to-execute-multiple-long-running-SQL-Statement",
+            "title": "How to execute multiple long running SQL Statements Asynchronously in small chunks",
+            "description": ""
+        },
+		{
+            "url": "http://www.roguelynn.com/words/explain-like-im-5-kerberos/",
+            "title": "Explain like I’m 5: Kerberos",
+            "description": ""
+        },
+		{
+            "url": "http://blog.iangclifton.com/2013/03/30/the-negative-impact-of-ios-on-android/",
+            "title": "The Negative Impact Of iOS On Android",
+            "description": ""
+        },
+		{
+            "url": "http://ejohn.org/blog/asmjs-javascript-compile-target/",
+            "title": "Asm.js: The JavaScript Compile Target",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn166925.aspx",
+            "title": "Essential Facebook Programming: Widgets and Timeline",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The RESTful CookBook",
+		"url": "http://restcookbook.com/",
+        "author": "Joshua Thijssen"
+    },
+    "book": {
+        "title": "Secrets of the JavaScript Ninja",
+		"url": "http://www.manning.com/resig/",
+        "author": "John Resig and Bear Bibeault"
+    }
+}
+);
