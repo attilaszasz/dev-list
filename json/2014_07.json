@@ -1,4 +1,3 @@
-data_2014_07(
 {
     "issue": 76,
     "year": 2014,
@@ -76,4 +75,3 @@ data_2014_07(
         "author": "Micah Martin, Robert C. Martin"
     }
 }
-);

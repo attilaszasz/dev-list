@@ -1,4 +1,3 @@
-data_2012_11(
 {
     "issue": 11,
     "year": 2012,
@@ -59,4 +58,3 @@ data_2012_11(
         "author": "Jon Galloway, Phil Haack, Brad Wilson, K. Scott Allen"
     }
 }
-);
