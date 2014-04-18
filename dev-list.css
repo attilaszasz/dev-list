@@ -19,3 +19,8 @@ ul#link-list li.list-group-item {
 .download-link {
     margin: 5px 0 0 30px;
 }
+
+.dropdown-menu {
+    max-height: 460px;
+    overflow-y: auto;
+}

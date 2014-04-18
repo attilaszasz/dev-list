@@ -16,7 +16,7 @@ var DevList = {
 
 DevList.App._Router = Backbone.Router.extend({
     routes: {
-        "read/:year/:edition": "read",
+        ":year/:edition": "read",
     },
     read: function(year, edition) {
         console.log('year: ' + year + ', edition: ' + edition);
@@ -29,6 +29,9 @@ DevList.App._Router = Backbone.Router.extend({
     },
 });
 
+DevList.App._Models.Pager = Backbone.Model.extend({
+});
+
 DevList.App._Models.Edition = Backbone.Model.extend({
     initialize: function (props) {
         this.url = props.url;
@@ -39,13 +42,73 @@ DevList.App._Models.Edition = Backbone.Model.extend({
     },
 });
 
+DevList.App._Views.Pager = Backbone.View.extend({
+    initialize: function () {
+        _.bindAll(this, 'render');
+        _.bindAll(this, 'pagerClick');
+        this.model.bind("change", this.render);
+    },
+    render: function () {
+        this.$el.html(DevList.Templates.Pager.render(this.model.toJSON()));
+        return this;
+    },
+    events: {
+        'click a': 'pagerClick'
+    },
+    pagerClick: function (event) {
+        var fileName = $(event.target).data('file-name');
+        var title = $(event.target).data('title');
+        var fileNameNoExtension = fileName.split('.')[0];
+        var year = fileNameNoExtension.split('_')[0];
+        var edition = fileNameNoExtension.split('_')[1];
+        DevList.Views.MainMenu.setCurrentEdition(fileName, title);
+        DevList.Models.CurrentEdition.fetch();
+    }
+});
+
+
 DevList.App._Views.Edition = Backbone.View.extend({
     initialize: function () {
         _.bindAll(this, 'render');
-        this.model.bind("change reset", this.render);
+        this.model.bind("change:links", this.render);
     },
     render: function () {
+        var fileName = this.model.url.split('/')[2];
+        var fileNameNoExtension = fileName.split('.')[0];
+        var year = fileNameNoExtension.split('_')[0];
+        var edition = fileNameNoExtension.split('_')[1];
+
         this.$el.html(DevList.Templates.Edition.render({ edition: this.model.toJSON() }));
+
+        var currentEdition = _.find(DevList.Data.Editions, function (e) {
+            return e.year == year && e.index == edition;
+        });
+        var currentIndex = _.indexOf(DevList.Data.Editions, currentEdition);
+        console.log(currentIndex);
+        var prevDisabled = currentIndex == 0;
+        var nextDisabled = (currentIndex + 1) == DevList.Data.Editions.length;
+
+        var prevEdition;
+        var nextEdition;
+        var prevUrl = '';
+        var nextUrl = '';
+        var prevTitle = '';
+        var nextTitle = '';
+
+        if (!prevDisabled) {
+            prevEdition = DevList.Data.Editions[currentIndex - 1];
+            prevUrl = prevEdition.url;
+            prevTitle = prevEdition.title;
+        }
+
+        if (!nextDisabled) {
+            nextEdition = DevList.Data.Editions[currentIndex + 1];
+            nextUrl = nextEdition.url;
+            nextTitle = nextEdition.title;
+        }
+        DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
+
+        DevList.Router.navigate(year + '/' + edition);
         return this;
     },
 });
@@ -67,7 +130,7 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
     },
     menuLoaded: function (model, options) {
         this.render();
-        console.log(model.changed);
+       // console.log(model.changed);
         _.each(model.changed.years, function(year, index, years) {
             _.each(year.editions, function(edition, idx, list) {
                 DevList.Data.Editions.push({ title: edition.title, year: year.year, index: idx + 1, url:edition.url });
@@ -91,11 +154,11 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
         'click a.main-menu-link': 'mainMenuClick'
     },
     setCurrentEdition: function (fileName, title) {
-        console.log('SetCurrentEdition - fileName: ' + fileName + ', title: ' + title);
+      //  console.log('SetCurrentEdition - fileName: ' + fileName + ', title: ' + title);
         if (DevList.Models.CurrentEdition) {
-            DevList.Models.CurrentEdition.clear();
-            DevList.Models.CurrentEdition.url = '/json/' + fileName;
-            DevList.Models.CurrentEdition.set("title", title);
+            DevList.Models.CurrentEdition.set("title", title).url = '/json/' + fileName;
+            //DevList.Models.CurrentEdition.url = '/json/' + fileName;
+            //DevList.Models.CurrentEdition.set("title", title);
         } else {
             DevList.Models.CurrentEdition = new DevList.App._Models.Edition({ url: '/json/' + fileName, title: title });
         }
@@ -107,18 +170,25 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
         var edition = fileNameNoExtension.split('_')[1];
         this.setCurrentEdition(fileName, $(event.target).text());
         DevList.Models.CurrentEdition.fetch();
-        DevList.Router.navigate('read/' + year + '/' + edition);
-        console.log(Backbone.history.fragment);
+        //window.location.replace('/#' + year + '/' + edition);
+        //console.log(year + '/' + edition);
+        //console.log(Backbone.history.fragment);
     }
 });
 
 $(function () {
     DevList.Templates.MainMenu = Hogan.compile($('#main-menu-template').text());
     DevList.Templates.Edition = Hogan.compile($('#edition-template').text());
+    DevList.Templates.Pager = Hogan.compile($('#pager-template').text());
 
     DevList.Router = new DevList.App._Router();
 
     DevList.Models.Years = new DevList.App._Models.Years();
     DevList.Views.MainMenu = new DevList.App._Views.MainMenu({ model: DevList.Models.Years, el: '#main-menu' });
+
+    DevList.Models.Pager = new DevList.App._Models.Pager({ prev_url: '', next_url: '', prev_title: '', next_title: '' });
+
+    DevList.Views.Pager = new DevList.App._Views.Pager({ model: DevList.Models.Pager, el: '#pager' });
+
     DevList.Models.Years.fetch();
 });

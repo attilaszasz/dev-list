@@ -38,11 +38,23 @@
     </div>
 
     <div class="container">
-        <div id="edition" class="row">
-        </div>
+        <div id="edition" class="row"></div>
+        <div id="pager" class="row"></div>
         <hr>
     </div> <!-- /container -->
     <!-- Templates -->
+    <script id="pager-template" type="text/html">
+        <div class="col-sm-8">
+            <ul class="pager">
+                {{#prev_url}}
+                <li class="previous"><a href="#" data-file-name="{{prev_url}}" data-title="{{prev_title}}">&larr; Older</a></li>
+                {{/prev_url}}
+                {{#next_url}}
+                <li class="next"><a href="#" data-file-name="{{next_url}}" data-title="{{next_title}}">Newer &rarr;</a></li>
+                {{/next_url}}
+            </ul>
+        </div>
+    </script>
     <script id="main-menu-template" type="text/html">
         {{#years.years}}
         <li class="dropdown">
