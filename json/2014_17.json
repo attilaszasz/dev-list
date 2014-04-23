@@ -1,0 +1,51 @@
+{
+    "issue": 86,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.smashingmagazine.com/2014/04/10/a-guide-to-validating-product-ideas-with-quick-and-simple-experiments-2/",
+            "title": "A Guide To Validating Product Ideas With Quick And Simple Experiments",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/tutorials/common-entry-points-for-android-applications--cms-19857",
+            "title": "Common Entry Points for Android Applications",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/tutorials/routing-overview-basics-in-symfony-2--cms-20754",
+            "title": "Routing Overview & Basics in Symfony 2",
+            "description": ""
+        },
+		{
+            "url": "http://www.theresistornetwork.com/2014/04/2048-embedded.html",
+            "title": "2048, Embedded",
+            "description": ""
+        },
+		{
+            "url": "http://www.tocker.ca/2014/04/22/five-reasons-why-vertical-scalability-matters.html",
+            "title": "Five reasons why vertical scalability matters",
+            "description": ""
+        },
+		{
+            "url": "http://www.codelord.net/2014/04/22/what-i-wish-i-knew-writing-my-first-billing-system/",
+            "title": "What I Wish I Knew Writing My First Billing System",
+            "description": ""
+        },
+		{
+            "url": "http://tech.pro/tutorial/2024/a-pattern-for-writing-css-to-scale",
+            "title": "A Pattern for Writing CSS to Scale",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "The Magic Of CSS",
+		"url": "http://adamschwartz.co/magic-of-css/",
+        "author": "Adam Schwartz"
+    },
+    "book": {
+        "title": "Build iOS Games with Sprite Kit",
+		"url": "http://shop.oreilly.com/product/9781941222102.do",
+        "author": "Jonathan Penn, Josh Smith"
+    }
+}
