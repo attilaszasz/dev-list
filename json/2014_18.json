@@ -1,0 +1,56 @@
+{
+    "issue": 87,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.lizengland.com/blog/2014/04/the-door-problem/",
+            "title": "The Door Problem",
+            "description": "So what does a game designer do? Are you an artist? Do you design characters and write the story? Or no, wait, you’re a programmer?"
+        },
+		{
+            "url": "http://blog.hedges.net/2014/04/08/4-symptoms-of-dysfunction-in-software-teams/",
+            "title": "4 Symptoms of Dysfunction in Software Teams",
+            "description": ""
+        },
+		{
+            "url": "http://www.davejsaunders.com/2014/03/01/is-your-code-easy-to-work-on.html",
+            "title": "Is your code easy to work on?",
+            "description": ""
+        },
+		{
+            "url": "http://www.html5rocks.com/en/tutorials/webperformance/usertiming/",
+            "title": "User Timing API",
+            "description": ""
+        },
+		{
+            "url": "http://www.silota.com/site-search-blog/must-have-api-client/",
+            "title": "Your REST API should come with a client",
+            "description": ""
+        },
+		{
+            "url": "http://blog.teamtreehouse.com/perceived-performance",
+            "title": "An Introduction to Perceived Performance",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Node.js Succinctly",
+		"url": "",
+        "author": "Agus Kurniawan",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Nodejs_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Nodejs_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "RabbitMQ Cookbook",
+		"url": "http://shop.oreilly.com/product/9781849516501.do",
+        "author": "Sigismondo Boschi, Gabriele Santomaggio"
+    }
+}
