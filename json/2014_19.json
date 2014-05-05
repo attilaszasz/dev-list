@@ -1,0 +1,61 @@
+{
+    "issue": 88,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://code.tutsplus.com/tutorials/gulp-as-a-development-web-server--cms-20903",
+            "title": "Gulp as a Development Web Server",
+            "description": ""
+        },
+		{
+            "url": "http://blog.8thlight.com/uncle-bob/2014/04/30/When-tdd-does-not-work.html",
+            "title": "When TDD doesn't work",
+            "description": ""
+        },
+		{
+            "url": "http://geekswithblogs.net/TarunArora/archive/2014/04/29/wcf-performance-tuning-ndash-the-low-hanging-fruits.aspx",
+            "title": "WCF Performance Tuning - The Low Hanging Fruits",
+            "description": ""
+        },
+		{
+            "url": "http://www.toptal.com/c-sharp/top-10-mistakes-that-c-sharp-programmers-make",
+            "title": "Top 10 Mistakes that C# Programmers Make",
+            "description": ""
+        },
+		{
+            "url": "http://stilldrinking.org/programming-sucks",
+            "title": "Programming Sucks",
+            "description": ""
+        },
+		{
+            "url": "http://blog.samstokes.co.uk/blog/2014/05/01/what-programming-is-like/",
+            "title": "What Programming Is Like",
+            "description": ""
+        },
+		{
+            "url": "http://knowitbasic.blogspot.ro/2014/02/t-sql-ssis-ssrs-interview-questions-and.html",
+            "title": "T- SQL Interview Questions and Answer",
+            "description": ""
+        },
+		{
+            "url": "http://msdn.microsoft.com/en-us/magazine/dn683797.aspx",
+            "title": "Dangers of Violating SOLID Principles in C#",
+            "description": ""
+        },
+		{
+            "url": "http://tapoueh.org/blog/2013/08/20-Window-Functions",
+            "title": "SQL - Understanding Window Functions",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Prism 5.0 for WPF",
+		"url": "http://www.microsoft.com/en-us/download/details.aspx?id=42572",
+        "author": ""
+    },
+    "book": {
+        "title": "Designing and Developing for Google Glass",
+		"url": "http://shop.oreilly.com/product/0636920032564.do",
+        "author": "Jason Salas, Allen Firstenberg"
+    }
+}
