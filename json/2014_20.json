@@ -1,0 +1,72 @@
+{
+    "issue": 89,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://gabrielecirulli.com/articles/2048-success-and-me",
+            "title": "2048, success and me",
+            "description": ""
+        },
+		{
+            "url": "http://www.theprojectspot.com/tutorial-post/applying-a-genetic-algorithm-to-the-travelling-salesman-problem/5?_=1",
+            "title": "Applying a genetic algorithm to the traveling salesman problem",
+            "description": ""
+        },
+		{
+            "url": "http://alexandrebrisebois.wordpress.com/2014/01/21/why-is-software-architecture-important/",
+            "title": "Why is Software Architecture Important?",
+            "description": ""
+        },
+		{
+            "url": "https://gist.github.com/aemkei/1672254",
+            "title": "Binary Tetris - 140byt.es",
+            "description": ""
+        },
+		{
+            "url": "http://ericlippert.com/2014/05/12/what-are-the-fundamental-rules-of-pointers/",
+            "title": "What are the fundamental rules of pointers?",
+            "description": ""
+        },
+		{
+            "url": "http://jvns.ca/blog/2014/05/12/computers-are-fast/",
+            "title": "Computers are *fast*!",
+            "description": ""
+        },
+		{
+            "url": "http://www.programcreek.com/2013/09/top-10-faqs-of-java-strings/",
+            "title": "Top 10 questions of Java Strings",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/768052/Golden-Rules-Of-Good-OOP",
+            "title": "10 Golden Rules Of Good OOP",
+            "description": ""
+        },
+		{
+            "url": "http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works",
+            "title": "The Subtle Magic Behind Why the Bootstrap 3 Grid Works",
+            "description": ""
+        },
+		{
+            "url": "http://pressupinc.com/blog/2014/05/make-404-page-more-useful/",
+            "title": "One Simple Trick That Will Make Your 404 Pages Much More Useful",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Under the Hood of .NET Memory Management",
+		"url": "https://www.simple-talk.com/books/.net-books/under-the-hood-of-.net-memory-management/",
+        "author": "Chris Farrell",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.simple-talk.com/redgatebooks/ChrisFarrell/Under_the_Hood_of_NET_Management.pdf"
+            }
+        ]
+    },
+    "book": {
+        "title": "Pro SQL Database for Windows Azure SQL Server in the Cloud",
+		"url": "http://www.apress.com/9781430243953",
+        "author": "Scott Klein , Herve Roggero"
+    }
+}
