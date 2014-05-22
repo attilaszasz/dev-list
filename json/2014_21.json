@@ -1,0 +1,66 @@
+{
+    "issue": 90,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://channel9.msdn.com/Events/TechEd/NorthAmerica/2014",
+            "title": "The presentations at this year's TechEd",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2014/5/19/a-short-on-how-the-wayback-machine-stores-more-pages-than-st.html",
+            "title": "The Wayback Machine Stores More Pages Than Stars In The Milky Way",
+            "description": ""
+        },
+		{
+            "url": "http://jeremydmiller.com/2014/05/19/software-development-horror-stories-and-scar-tissue/",
+            "title": "Software Development Horror Stories and Scar Tissue",
+            "description": ""
+        },
+		{
+            "url": "http://weblogs.asp.net/jeff/archive/2014/05/18/the-ugly-evolution-of-running-a-background-operation-in-the-context-of-an-asp-net-app.aspx",
+            "title": "The ugly evolution of running a background operation in the context of an ASP.NET app",
+            "description": ""
+        },
+		{
+            "url": "http://blog.jetbrains.com/webstorm/2014/05/guide-to-node-js-development-with-webstorm/",
+            "title": "Guide to Node.js Development with WebStorm",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/thecolorofazure/archive/2014/05/13/azure-implementation-guidelines.aspx",
+            "title": "Azure Implementation Guidelines",
+            "description": ""
+        },
+		{
+            "url": "http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background/15012542#15012542",
+            "title": "How do I 'think in AngularJS' if I have a jQuery background?",
+            "description": ""
+        },
+		{
+            "url": "http://venkateshcm.com/2014/05/Caching-To-Scale-Web-Applications/",
+            "title": "Caching To Scale Web Applications",
+            "description": ""
+        },
+		{
+            "url": "http://ianfeather.co.uk/a-maintainable-style-guide/",
+            "title": "A Maintainable Style Guide",
+            "description": ""
+        },
+		{
+            "url": "http://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/",
+            "title": "The greatest bug I never fixed",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "A Programmer's Guide to Data Mining",
+		"url": "http://guidetodatamining.com/",
+        "author": "Ron Zacharski"
+    },
+    "book": {
+        "title": "Testing in Scrum",
+		"url": "http://shop.oreilly.com/product/9781937538392.do",
+        "author": "Tilo Linz"
+    }
+}
