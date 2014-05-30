@@ -1,0 +1,51 @@
+{
+    "issue": 92,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.smashingmagazine.com/2014/05/07/6-common-problems-ux-process-6-solutions/",
+            "title": "Six Common Problems With The UX Process, And Six Solutions!",
+            "description": ""
+        },
+		{
+            "url": "http://marksands.github.io/2014/05/27/how-apple-cheats.html",
+            "title": "How Apple Cheats",
+            "description": ""
+        },
+		{
+            "url": "http://nerds.airbnb.com/experiments-at-airbnb/",
+            "title": "Experiments at Airbnb",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/message/81e5f33a24e1",
+            "title": "The ugly evolution of running a background operation in the context of an ASP.NET app",
+            "description": ""
+        },
+		{
+            "url": "http://wildlyinaccurate.com/a-hackers-guide-to-git",
+            "title": "A Hacker's Guide to Git",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/05/26/10528351.aspx",
+            "title": "Find the index of the smallest element in a JavaScript array",
+            "description": ""
+        },
+		{
+            "url": "http://www.montulli.org/theoriginofthe%3Cblink%3Etag",
+            "title": "The Origins of the <Blink> Tag",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Learning Java",
+		"url": "http://chimera.labs.oreilly.com/books/1234000001805/index.html",
+        "author": "Patrick Niemeyer, Daniel Leuck"
+    },
+    "book": {
+        "title": "Redis: The Definitive Guide",
+		"url": "http://shop.oreilly.com/product/0636920014294.do",
+        "author": "Jay A. Kreibich"
+    }
+}

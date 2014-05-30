@@ -1,0 +1,57 @@
+{
+    "issue": 91,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://nikf.org/blog/the-state-of-the-ecosystem",
+            "title": "The State of the Apple Developer Ecosystem",
+            "description": ""
+        },
+		{
+            "url": "http://demosthenes.info/blog/878/Slash-Page-Load-Times-With-CSS-Font-Subsetting",
+            "title": "Slash Page Load Times With CSS Font Subsetting",
+            "description": ""
+        },
+		{
+            "url": "http://compressor.io/",
+            "title": "Compressor.io Shrinks Image File Size Without Quality Loss",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/message/81e5f33a24e1",
+            "title": "The ugly evolution of running a background operation in the context of an ASP.NET app",
+            "description": ""
+        },
+		{
+            "url": "http://wildlyinaccurate.com/a-hackers-guide-to-git",
+            "title": "A Hacker's Guide to Git",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/05/26/10528351.aspx",
+            "title": "Find the index of the smallest element in a JavaScript array",
+            "description": ""
+        },
+		{
+            "url": "http://www.montulli.org/theoriginofthe%3Cblink%3Etag",
+            "title": "The Origins of the <Blink> Tag",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Fundamentals of ADO.Net",
+		"url": "",
+        "author": "Paul D. Sheriff",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.pdsa.com/Main/GetBinaryContent.aspx?ID=150"
+            }
+        ]
+    },
+    "book": {
+        "title": "Redis: The Definitive Guide",
+		"url": "http://shop.oreilly.com/product/0636920014294.do",
+        "author": "Jay A. Kreibich"
+    }
+}
