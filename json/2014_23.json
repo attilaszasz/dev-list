@@ -18,23 +18,33 @@
             "description": ""
         },
 		{
-            "url": "https://medium.com/message/81e5f33a24e1",
-            "title": "The ugly evolution of running a background operation in the context of an ASP.NET app",
+            "url": "http://code.tutsplus.com/tutorials/using-new-relic-to-monitor-your-servers--cms-21303",
+            "title": "Using New Relic to Monitor Your Servers",
             "description": ""
         },
 		{
-            "url": "http://wildlyinaccurate.com/a-hackers-guide-to-git",
-            "title": "A Hacker's Guide to Git",
+            "url": "https://www.linkedin.com/today/post/article/20140530075430-11756056-dev-recruiting-101-10-ways-not-to-interview-a-candidate",
+            "title": "10 Ways NOT to Interview a Candidate",
             "description": ""
         },
 		{
-            "url": "http://blogs.msdn.com/b/oldnewthing/archive/2014/05/26/10528351.aspx",
-            "title": "Find the index of the smallest element in a JavaScript array",
+            "url": "http://quickbase.intuit.com/blog/2014/06/02/a-measure-of-your-teams-health-how-you-treat-your-idiot/",
+            "title": "A Measure of Your Team's Health: How You Treat Your 'Idiot'",
             "description": ""
         },
 		{
-            "url": "http://www.montulli.org/theoriginofthe%3Cblink%3Etag",
-            "title": "The Origins of the <Blink> Tag",
+            "url": "http://www.kenneth-truyers.net/2014/06/02/simplify-code-by-using-composition/",
+            "title": "Simplify code by using composition",
+            "description": ""
+        },
+		{
+            "url": "http://www.ryanfrantz.com/posts/sleep-driven-development/",
+            "title": "Sleep-driven Development",
+            "description": ""
+        },
+		{
+            "url": "http://code.tutsplus.com/tutorials/setting-up-firebase-for-your-next-project--cms-21290",
+            "title": "Setting Up Firebase for Your Next Project",
             "description": ""
         }
     ],
@@ -44,8 +54,8 @@
         "author": "Patrick Niemeyer, Daniel Leuck"
     },
     "book": {
-        "title": "Redis: The Definitive Guide",
-		"url": "http://shop.oreilly.com/product/0636920014294.do",
-        "author": "Jay A. Kreibich"
+        "title": "Lean Customer Development",
+		"url": "http://shop.oreilly.com/product/0636920028253.do",
+        "author": "Cindy Alvarez"
     }
 }
