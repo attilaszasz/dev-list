@@ -1,0 +1,71 @@
+{
+    "issue": 93,
+    "year": 2014,
+    "links": [
+        {
+            "url": "https://medium.com/@benastontweet/state-of-play-24786cfedcc5",
+            "title": "How you ended up using AngularJS",
+            "description": ""
+        },
+		{
+            "url": "http://i.imgur.com/M5wl14r.png",
+            "title": "What a Developer says and what he thinks",
+            "description": ""
+        },
+		{
+            "url": "http://www.microsoft.com/en-us/download/details.aspx?id=43119&WT.mc_id=rss_alldownloads_all",
+            "title": ".NET Framework Regular Expressions - Quick Reference",
+            "description": ""
+        },
+		{
+            "url": "http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html?printerFriendly=true",
+            "title": "Microservices - Not a free lunch!",
+            "description": ""
+        },
+		{
+            "url": "http://pietschsoft.com/post/2014/06/07/Basic-Comparison-of-C-and-Apple-Swift-Programming-Language-Syntax",
+            "title": "Basic Comparison of C# and Apple Swift Programming Language Syntax",
+            "description": ""
+        },
+		{
+            "url": "http://ronwhitman.com/it-doesnt-work-and-the-art-of-bug-reports/",
+            "title": "'It Doesn’t Work' and the Art of Reporting Bugs",
+            "description": ""
+        },
+		{
+            "url": "http://www.infoq.com/articles/N-Plus-1",
+            "title": "Web APIs and the n+1 Problem",
+            "description": ""
+        },
+		{
+            "url": "https://raygun.io/blog/2014/05/10-costly-software-errors-history/",
+            "title": "10 of the most costly software errors in history",
+            "description": ""
+        },
+		{
+            "url": "http://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api",
+            "title": "5 Golden Rules for Designing a Great Web API",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Neural Networks Using C# Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/neuralnetworks",
+        "author": "James McCaffrey",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Neural_Networks_Using_C_Sharp_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Neural_Networks_Using_C_Sharp_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "The Art of Application Performance Testing",
+		"url": "http://shop.oreilly.com/product/0636920033233.do",
+        "author": "Ian Molyneaux"
+    }
+}
