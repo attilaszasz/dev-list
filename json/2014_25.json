@@ -1,0 +1,61 @@
+{
+    "issue": 94,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://flukeout.github.io/",
+            "title": "CSS Dinner",
+            "description": ""
+        },
+		{
+            "url": "http://drewbarontini.com/articles/single-responsibility/",
+            "title": "Single Responsibility Principle in CSS",
+            "description": ""
+        },
+		{
+            "url": "http://blog.adrianroselli.com/2014/05/so-you-think-you-built-good-infinite.html",
+            "title": "So You Think You've Built a Good Infinite Scroll",
+            "description": ""
+        },
+		{
+            "url": "http://ericlippert.com/2014/06/16/real-world-asyncawait-defects/",
+            "title": "Real world async/await defects",
+            "description": ""
+        },
+		{
+            "url": "http://putrats.com/comics/10",
+            "title": "What Responsive Grids are Getting Wrong",
+            "description": ""
+        },
+		{
+            "url": "http://www.itwriting.com/blog/8498-resilience-is-not-backup-how-codespaces-com-lost-its-data-and-its-business.html",
+            "title": "Resilience is not backup: how Codespaces.com lost its data and its business",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/webdev/archive/2014/06/17/dependency-injection-in-asp-net-vnext.aspx",
+            "title": "Dependency Injection in ASP.NET vNext",
+            "description": ""
+        },
+		{
+            "url": "http://monkeyandcrow.com/blog/estimation_bargaining/",
+            "title": "Defense Against the Dark Art of Estimation Bargaining",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/@benastontweet/an-intervention-4535d835e836",
+            "title": "An intervention",
+            "description": "Why AngularJS is worse than a new ASP.NET WebForms"
+        }
+    ],
+    "freebook": {
+        "title": "Practical PostgreSQL",
+		"url": "http://www.commandprompt.com/ppbook/",
+        "author": "Joshua Drake"
+    },
+    "book": {
+        "title": "Less Web Development Essentials",
+		"url": "http://www.packtpub.com/less-web-development-essentials/book",
+        "author": "Bass Jobsen"
+    }
+}
