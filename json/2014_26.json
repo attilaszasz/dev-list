@@ -1,0 +1,71 @@
+{
+    "issue": 95,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://hackflow.com/blog/2014/06/22/why-every-language-needs-its-underscore/",
+            "title": "Why Every Language Needs Its Underscore",
+            "description": ""
+        },
+		{
+            "url": "http://www.reddit.com/r/userexperience/comments/284dvz/im_a_ui_designer_how_do_i_design_experiences_not/ci7gxux",
+            "title": "I'm a UI designer. How do I design experiences, not just interfaces?",
+            "description": ""
+        },
+		{
+            "url": "http://codebetter.com/johnvpetersen/2014/06/19/exceptions-exist-for-a-reason-use-them/",
+            "title": "Exceptions exist for a reason - use them!",
+            "description": ""
+        },
+		{
+            "url": "http://palmstroem.blogspot.ro/2012/05/lambda-calculus-for-absolute-dummies.html",
+            "title": "Lambda Calculus for Absolute Dummies",
+            "description": ""
+        },
+		{
+            "url": "http://willyouhack.me/",
+            "title": "Will You Hack Me?",
+            "description": ""
+        },
+		{
+            "url": "https://medium.com/@vijayp/of-taxis-and-rainbows-f6bc289679a1",
+            "title": "On Taxis and Rainbows",
+            "description": "Lessons from NYC's improperly anonymized taxi logs"
+        },
+		{
+            "url": "http://www.viva64.com/en/b/0260/print/",
+            "title": "The Last Line Effect",
+            "description": ""
+        },
+		{
+            "url": "http://tonsky.me/blog/reinventing-git-interface/",
+            "title": "Reinventing Git interface",
+            "description": ""
+        },
+		{
+            "url": "http://www.androidinterview.com/",
+            "title": "Android interview QA",
+            "description": ""
+        },
+		{
+            "url": "http://www.philcrissman.com/2014/06/23/making-huge-mistakes/",
+            "title": "Make Better Mistakes",
+            "description": ""
+        },
+		{
+            "url": "http://visualstudiomagazine.com/articles/2014/06/01/automating-iis-7.aspx",
+            "title": "How to Automate IIS 7 Configuration with .NET",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "C# Tips - Write Better C#",
+		"url": "https://leanpub.com/cstips",
+        "author": "Jason Roberts"
+    },
+    "book": {
+        "title": "Building Web Apps with WordPress",
+		"url": "http://shop.oreilly.com/product/0636920029380.do",
+        "author": "Brian Messenlehner, Jason Coleman"
+    }
+}
