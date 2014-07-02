@@ -1,0 +1,91 @@
+{
+    "issue": 96,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://www.smashingmagazine.com/2014/06/27/communicating-effectively-in-projects/",
+            "title": "How To Communicate Effectively In IT Projects",
+            "description": ""
+        },
+		{
+            "url": "http://visualstudiomagazine.com/articles/2014/06/01/test-driven-development.aspx",
+            "title": "Test-Driven Development with Entity Framework 6",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/bethmassi/archive/2014/06/24/net-compiler-platform-quot-roslyn-quot-for-the-rest-of-us.aspx",
+            "title": ".NET Compiler Platform (Roslyn) for the Rest of Us",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/790720/ASP-NET-Identity-Customizing-Users-and-Roles",
+            "title": "ASP.NET Identity 2.0: Customizing Users and Roles",
+            "description": ""
+        },
+		{
+            "url": "https://peerj.com/articles/289/",
+            "title": "Happy software developers solve problems better",
+            "description": "Psychological measurements in empirical software engineering"
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/07/01/server-side-device-detection-with-javascript/",
+            "title": "Server-Side Device Detection With JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://ejenk.com/blog/why-dependently-typed-programming-will-one-day-rock-your-world.html",
+            "title": "Why Dependently Typed Programming Will (One Day) Rock Your World",
+            "description": ""
+        },
+		{
+            "url": "http://www.informit.com/articles/article.aspx?p=2221790",
+            "title": "The Art of Computer Programming: Random Numbers",
+            "description": ""
+        },
+		{
+            "url": "http://www.infoq.com/presentations/regex",
+            "title": "Understanding and Using Regular Expressions",
+            "description": ""
+        },
+		{
+            "url": "http://www.toptal.com/php/10-most-common-mistakes-php-programmers-make",
+            "title": "10 Most Common Mistakes PHP Programmers Make",
+            "description": ""
+        },
+		{
+            "url": "http://c0de517e.blogspot.de/2014/06/stuff-that-every-programmer-should-know.html",
+            "title": "Stuff that every programmer should know: Data Visualization",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.msdn.com/b/benjaminperkins/archive/2014/07/01/using-traffic-manager-as-a-failover-solution-for-azure-web-sites.aspx",
+            "title": "Using Traffic Manager as a FAILOVER solution for Azure Web Sites",
+            "description": ""
+        },
+		{
+            "url": "http://rwhitmire.com/2014/06/29/entity-framework-basics/",
+            "title": "Entity Framework Basics",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Entity Framework Code First Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/entityframework",
+        "author": "Ricardo Peres",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Entity_Framework_Code_First_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/Content/downloads/ebook/Entity_Framework_Code_First_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "User Story Mapping",
+		"url": "http://shop.oreilly.com/product/0636920033851.do?code=DEAL",
+        "author": "Jeff Patton"
+    }
+}
