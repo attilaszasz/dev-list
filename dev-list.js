@@ -17,6 +17,7 @@ var DevList = {
 DevList.App._Router = Backbone.Router.extend({
     routes: {
         ":year/:edition": "read",
+		"search=:query": "search"
     },
     read: function(year, edition) {
         var ed = _.find(DevList.Data.Editions, function (e) {
@@ -26,6 +27,9 @@ DevList.App._Router = Backbone.Router.extend({
         DevList.Views.MainMenu.setCurrentEdition(ed.url, ed.title);
         DevList.Models.CurrentEdition.fetch();
     },
+	search: function(query){
+		
+	}
 });
 
 DevList.App._Models.Pager = Backbone.Model.extend({
@@ -165,10 +169,34 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
     }
 });
 
+DevList.App._Models.Search = Backbone.Model.extend({
+    
+});
+
+DevList.App._Views.Search = Backbone.View.extend({
+    initialize: function () {
+        _.bindAll(this, 'render');
+        _.bindAll(this, 'searchClick');
+        this.model.bind("change", this.render);
+    },
+    render: function () {
+        this.$el.html(DevList.Templates.Search.render(this.model.toJSON()));
+        return this;
+    },
+    events: {
+        'click button': 'searchClick'
+    },
+    searchClick: function (event) {
+        console.log('searched for: ' + $(event.target.form[0]).val());
+		DevList.Router.navigate('search=' + $(event.target.form[0]).val());
+    }
+});
+
 $(function () {
     DevList.Templates.MainMenu = Hogan.compile($('#main-menu-template').text());
     DevList.Templates.Edition = Hogan.compile($('#edition-template').text());
     DevList.Templates.Pager = Hogan.compile($('#pager-template').text());
+    DevList.Templates.Search = Hogan.compile($('#search-template').text());
 
     DevList.Router = new DevList.App._Router();
 
@@ -177,6 +205,11 @@ $(function () {
 
     DevList.Models.Pager = new DevList.App._Models.Pager({ prev_url: '', next_url: '', prev_title: '', next_title: '' });
     DevList.Views.Pager = new DevList.App._Views.Pager({ model: DevList.Models.Pager, el: '#pager' });
+	
+	DevList.Models.Search = new DevList.App._Models.Search({query: 'aaa'});
+	DevList.Views.Search = new DevList.App._Views.Search({ model: DevList.Models.Search, el: '#search-form' });
 
+	DevList.Views.Search.render();
+	
     DevList.Models.Years.fetch();
 });
