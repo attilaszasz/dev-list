@@ -1,0 +1,51 @@
+{
+    "issue": 100,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://blogs.msdn.com/b/jmeier/archive/2014/07/17/agile-and-the-definition-of-quality.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+jmeier+%28J.D.+Meier%27s+Blog%29",
+            "title": "Agile and the Definition of Quality",
+            "description": ""
+        },
+		{
+            "url": "http://blog.codinghorror.com/the-just-in-time-theory/",
+            "title": "The 'Just In Time' Theory of User Behavior",
+            "description": ""
+        },
+		{
+            "url": "http://www.infoq.com/articles/what-are-self-organising-teams?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "title": "What Are Self-Organising Teams?",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/07/21/how-do-you-design-interaction/",
+            "title": "How Do You Design Interaction?",
+            "description": ""
+        },
+		{
+            "url": "http://blog.sei.cmu.edu/post.cfm/four-principles-engineering-big-data-systems-195",
+            "title": "Four Principles of Engineering Scalable, Big Data Software Systems",
+            "description": ""
+        },
+		{
+            "url": "http://rmurphey.com/blog/2014/07/13/unit-tests/",
+            "title": "Writing Unit Tests for Existing JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/07/11/roadmap-to-becoming-an-a-b-testing-expert/",
+            "title": "A Roadmap To Becoming An A/B Testing Expert",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Usability for Nerds",
+		"url": "http://en.wikibooks.org/wiki/Usability_for_Nerds",
+        "author": ""
+    },
+    "book": {
+        "title": "Microsoft SQL Server 2012 Bible",
+		"url": "http://shop.oreilly.com/product/9781118106877.do",
+        "author": "Adam Jorgensen, Jorge Segarra, Patrick LeBlanc, Jose Chinchilla, Aaron Nelson"
+    }
+}

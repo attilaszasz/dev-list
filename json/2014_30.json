@@ -1,0 +1,51 @@
+{
+    "issue": 99,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://blogs.msdn.com/b/jmeier/archive/2014/07/17/agile-and-the-definition-of-quality.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+jmeier+%28J.D.+Meier%27s+Blog%29",
+            "title": "Agile and the Definition of Quality",
+            "description": ""
+        },
+		{
+            "url": "http://blog.codinghorror.com/the-just-in-time-theory/",
+            "title": "The 'Just In Time' Theory of User Behavior",
+            "description": ""
+        },
+		{
+            "url": "http://www.infoq.com/articles/what-are-self-organising-teams?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+            "title": "What Are Self-Organising Teams?",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/07/21/how-do-you-design-interaction/",
+            "title": "How Do You Design Interaction?",
+            "description": ""
+        },
+		{
+            "url": "https://markwillcollins.silvrback.com/7-things-i-wish-i-knew-about-angularjs",
+            "title": "8 Things I wish I knew about AngularJs",
+            "description": ""
+        },
+		{
+            "url": "http://www.thoughtworks.com/insights/blog/write-better-tests-5-steps",
+            "title": "Write Better Tests in 5 Steps",
+            "description": ""
+        },
+		{
+            "url": "http://blog.kateo.pl/Article/How-to-query-Google-Analytics-in-CSharp",
+            "title": "How to query Google Analytics in C#",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "ØMQ - The Guide",
+		"url": "http://zguide.zeromq.org/page:all",
+        "author": "Pieter Hintjens"
+    },
+    "book": {
+        "title": "Build iOS Games with Sprite Kit",
+		"url": "http://shop.oreilly.com/product/9781941222102.do",
+        "author": "Jonathan Penn, Josh Smith"
+    }
+}
