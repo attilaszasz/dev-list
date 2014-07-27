@@ -16,19 +16,23 @@ var DevList = {
 
 DevList.App._Router = Backbone.Router.extend({
     routes: {
-        ":year/:edition": "read",
-		"search=:query": "search"
+        ':year/:edition': 'read',
+		'*path': 'defaultRoute'
     },
     read: function(year, edition) {
         var ed = _.find(DevList.Data.Editions, function (e) {
                 return e.year == year && e.index == edition;
             });
-
         DevList.Views.MainMenu.setCurrentEdition(ed.url, ed.title);
         DevList.Models.CurrentEdition.fetch();
     },
-	search: function(query){
-		
+	defaultRoute: function (path){
+	    console.log(DevList.Models.CurrentEdition.url);
+		if (!DevList.Models.CurrentEdition.url){
+			var edition = _.last(DevList.Data.Editions);
+			DevList.Views.MainMenu.setCurrentEdition(edition.url, edition.title);
+			DevList.Models.CurrentEdition.fetch();
+		}
 	}
 });
 
@@ -87,7 +91,7 @@ DevList.App._Views.Edition = Backbone.View.extend({
             return e.year == year && e.index == edition;
         });
         var currentIndex = _.indexOf(DevList.Data.Editions, currentEdition);
-
+		DevList.Data.Editions[currentIndex].links = this.model.attributes.links;
         var prevDisabled = currentIndex == 0;
         var nextDisabled = (currentIndex + 1) == DevList.Data.Editions.length;
 
@@ -110,10 +114,10 @@ DevList.App._Views.Edition = Backbone.View.extend({
             nextTitle = nextEdition.title;
         }
         DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
-
+		DevList.Models.Search.query  = '';
         DevList.Router.navigate(year + '/' + edition);
         return this;
-    },
+    }
 });
 
 DevList.App._Models.Years = Backbone.Model.extend({
@@ -133,23 +137,13 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
     },
     menuLoaded: function (model, options) {
         this.render();
-        _.each(model.changed.years, function(year, index, years) {
+		_.each(model.changed.years, function(year, index, years) {
             _.each(year.editions, function(edition, idx, list) {
                 DevList.Data.Editions.push({ title: edition.title, year: year.year, index: idx + 1, url:edition.url });
             });
         });
-        var edition;
-        if (Backbone.history.fragment) {
-            edition = _.find(DevList.Data.Editions, function (e) {
-                return e.year == Backbone.history.fragment.split('/')[1] && e.index == Backbone.history.fragment.split('/')[2];
-            });
-        } else {
-            edition = _.last(DevList.Data.Editions);
-        }
-        this.setCurrentEdition(edition.url, edition.title);
-        DevList.Views.Edition = new DevList.App._Views.Edition({ model: DevList.Models.CurrentEdition, el: '#edition' });
-        DevList.Models.CurrentEdition.fetch();
-        Backbone.history.start();
+		Backbone.history.start();
+		this.executeAsync(this.loadLinks);
         return this;
     },
     events: {
@@ -166,11 +160,24 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
         var fileName = $(event.target).data('file-name');
         this.setCurrentEdition(fileName, $(event.target).text());
         DevList.Models.CurrentEdition.fetch();
-    }
+    },
+	executeAsync: function(func) {
+		setTimeout(func, 100);
+	},
+	loadLinks: function() {
+		_.each(DevList.Data.Editions, function(edition, index, editions) {
+			if (!edition.links){
+				$.getJSON( '/json/' + edition.url )
+				  .done(function( data ) {
+					edition.links = data.links;
+				  });
+			}
+		});
+	}
 });
 
 DevList.App._Models.Search = Backbone.Model.extend({
-    
+    query:''
 });
 
 DevList.App._Views.Search = Backbone.View.extend({
@@ -187,29 +194,42 @@ DevList.App._Views.Search = Backbone.View.extend({
         'click button': 'searchClick'
     },
     searchClick: function (event) {
-        console.log('searched for: ' + $(event.target.form[0]).val());
-		DevList.Router.navigate('search=' + $(event.target.form[0]).val());
+		
+		var query = $(event.target.form[0]).val();
+		if (!query) return;
+		var searchResults = [];
+		_.each(DevList.Data.Editions, function(ed, index, editions) {
+			if (ed.links){
+				_.each(ed.links, function(link, index, links) {
+					if (link.title.toLowerCase().indexOf(query.toLowerCase()) > -1)
+						searchResults.push(link);
+				});	
+			}
+		});
+		DevList.Models.CurrentEdition.set({ issue: 0, url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
+		DevList.Models.Search.query = query;
     }
 });
 
 $(function () {
     DevList.Templates.MainMenu = Hogan.compile($('#main-menu-template').text());
-    DevList.Templates.Edition = Hogan.compile($('#edition-template').text());
+	DevList.Templates.Edition = Hogan.compile($('#edition-template').text());
     DevList.Templates.Pager = Hogan.compile($('#pager-template').text());
     DevList.Templates.Search = Hogan.compile($('#search-template').text());
-
-    DevList.Router = new DevList.App._Router();
-
-    DevList.Models.Years = new DevList.App._Models.Years();
-    DevList.Views.MainMenu = new DevList.App._Views.MainMenu({ model: DevList.Models.Years, el: '#main-menu' });
-
-    DevList.Models.Pager = new DevList.App._Models.Pager({ prev_url: '', next_url: '', prev_title: '', next_title: '' });
-    DevList.Views.Pager = new DevList.App._Views.Pager({ model: DevList.Models.Pager, el: '#pager' });
 	
-	DevList.Models.Search = new DevList.App._Models.Search({query: 'aaa'});
+	DevList.Models.Years = new DevList.App._Models.Years();
+	DevList.Models.Pager = new DevList.App._Models.Pager({ prev_url: '', next_url: '', prev_title: '', next_title: '' });
+	DevList.Models.CurrentEdition = new DevList.App._Models.Edition({ url: '', title: '' });
+	DevList.Models.Search = new DevList.App._Models.Search({query: ''});
+	
+	DevList.Views.MainMenu = new DevList.App._Views.MainMenu({ model: DevList.Models.Years, el: '#main-menu' });
+	DevList.Views.Edition = new DevList.App._Views.Edition({ model: DevList.Models.CurrentEdition, el: '#edition' });
+    DevList.Views.Pager = new DevList.App._Views.Pager({ model: DevList.Models.Pager, el: '#pager' });
 	DevList.Views.Search = new DevList.App._Views.Search({ model: DevList.Models.Search, el: '#search-form' });
-
-	DevList.Views.Search.render();
+	
+	DevList.Router = new DevList.App._Router();
+ 
+ 	DevList.Views.Search.render();
 	
     DevList.Models.Years.fetch();
 });
