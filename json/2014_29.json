@@ -1,0 +1,51 @@
+{
+    "issue": 98,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://rustyshelf.org/2014/07/08/the-android-screen-fragmentation-myth/",
+            "title": "The Android Screen Fragmentation Myth",
+            "description": ""
+        },
+		{
+            "url": "http://blog.jetbrains.com/dotnet/2014/07/10/unusual-ways-of-boosting-up-app-performance-boxing-and-collections/",
+            "title": "Unusual Ways of Boosting Up App Performance. Boxing and Collections",
+            "description": ""
+        },
+		{
+            "url": "http://blog.mojotech.com/why-you-should-write-living-documentation/",
+            "title": "Why You Should Write Living Documentation",
+            "description": "Weeks of programming can save you hours of planning!"
+        },
+		{
+            "url": "http://blog.arkency.com/2014/07/code-style-matters/",
+            "title": "Code style matters",
+            "description": ""
+        },
+		{
+            "url": "http://blog.sei.cmu.edu/post.cfm/four-principles-engineering-big-data-systems-195",
+            "title": "Four Principles of Engineering Scalable, Big Data Software Systems",
+            "description": ""
+        },
+		{
+            "url": "http://rmurphey.com/blog/2014/07/13/unit-tests/",
+            "title": "Writing Unit Tests for Existing JavaScript",
+            "description": ""
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/07/11/roadmap-to-becoming-an-a-b-testing-expert/",
+            "title": "A Roadmap To Becoming An A/B Testing Expert",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Prism for the Windows Runtime for Windows 8.1",
+		"url": "http://www.microsoft.com/en-us/download/details.aspx?id=39042",
+        "author": "David Britch, Colin Campbell, Francis Cheung, Diego Antonio Poza, Rohit Sharma, Mariano Vazquez, Blaine Wastell"
+    },
+    "book": {
+        "title": "Microsoft SQL Server 2012 Bible",
+		"url": "http://shop.oreilly.com/product/9781118106877.do",
+        "author": "Adam Jorgensen, Jorge Segarra, Patrick LeBlanc, Jose Chinchilla, Aaron Nelson"
+    }
+}

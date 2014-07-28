@@ -1,0 +1,56 @@
+{
+    "issue": 97,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://paullou.com/2014/07/03/a-design-pattern-for-caching-two-tier-caching-with-strong-consistency-between-servers-2/",
+            "title": "A design pattern for caching – two tier caching with strong consistency between servers",
+            "description": ""
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/792524/DOCTYPE-Explored",
+            "title": "DOCTYPE Explored",
+            "description": ""
+        },
+		{
+            "url": "http://blog.falafel.com/Blogs/stevesmith/steve-smith/2014/07/01/domain-driven-design-with-asp-net-mvc",
+            "title": "Domain-Driven Design with ASP.NET MVC",
+            "description": ""
+        },
+		{
+            "url": "http://blogs.lessthandot.com/index.php/desktopdev/mstech/csharp/threadsafe-incrementing-in-c/",
+            "title": "Threadsafe Incrementing in C#",
+            "description": ""
+        },
+		{
+            "url": "http://blog.iannelson.systems/back-to-basics-on-the-use-and-abuse-of-the-humble-boolean/",
+            "title": "Back To Basics: On The Use And Abuse Of The Humble Boolean",
+            "description": ""
+        },
+		{
+            "url": "http://aerotwist.com/blog/pixels-are-expensive/",
+            "title": "Pixels are expensive",
+            "description": "How pixels get onto your users' screens is something you should know about. Not for the sake of knowing, but because in order to be effective as a modern web developer you're going to need to optimize for it."
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/768052/Golden-Rules-Of-Good-OOP",
+            "title": "10 Golden Rules Of Good OOP",
+            "description": ""
+        },
+		{
+            "url": "http://users.ece.utexas.edu/~adnan/pike.html",
+            "title": "Rob Pike's 5 Rules of Programming",
+            "description": ""
+        }
+    ],
+    "freebook": {
+        "title": "Sensor Technologies - Healthcare, Wellness and Environmental Applications",
+		"url": "http://www.apress.com/apressopen/9781430260134",
+        "author": "Michael J. McGrath"
+    },
+    "book": {
+        "title": "Pro CSS3 Layout Techniques",
+		"url": "http://www.apress.com/9781430265023",
+        "author": "Sam Hampton-Smith"
+    }
+}
