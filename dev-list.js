@@ -115,6 +115,7 @@ DevList.App._Views.Edition = Backbone.View.extend({
 			DevList.Models.Search.query  = '';
 			DevList.Router.navigate(year + '/' + edition);
 			ga('send', 'pageview', year + '/' + edition);
+			document.title = 'Dev List - ' + currentEdition.title;
 		}
         DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
         return this;
@@ -210,6 +211,7 @@ DevList.App._Views.Search = Backbone.View.extend({
 			}
 		});
 		DevList.Models.CurrentEdition.set({ issue: '*', url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
+		document.title = 'Dev List search: ' + query;
     },
     searchType: function (event) {
 		var query = $(event.target).val();
@@ -226,6 +228,7 @@ DevList.App._Views.Search = Backbone.View.extend({
 			}
 		});
 		DevList.Models.CurrentEdition.set({ issue: '*', url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
+		document.title = 'Dev List search: ' + query;
     }
 
 });
