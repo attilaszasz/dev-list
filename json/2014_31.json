@@ -3,8 +3,8 @@
     "year": 2014,
     "links": [
         {
-            "url": "http://blogs.msdn.com/b/jmeier/archive/2014/07/17/agile-and-the-definition-of-quality.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+jmeier+%28J.D.+Meier%27s+Blog%29",
-            "title": "Agile and the Definition of Quality",
+            "url": "http://code.tutsplus.com/tutorials/preventing-xss-in-aspnet--cms-21801",
+            "title": "Preventing XSS in ASP.NET",
             "description": ""
         },
 		{
@@ -44,8 +44,8 @@
         "author": ""
     },
     "book": {
-        "title": "Microsoft SQL Server 2012 Bible",
-		"url": "http://shop.oreilly.com/product/9781118106877.do",
-        "author": "Adam Jorgensen, Jorge Segarra, Patrick LeBlanc, Jose Chinchilla, Aaron Nelson"
+        "title": "Full Stack Web Development with Backbone.js",
+		"url": "http://shop.oreilly.com/product/0636920030799.do?code=DEAL",
+        "author": "Patrick Mulder"
     }
 }

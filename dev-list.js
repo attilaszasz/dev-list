@@ -27,8 +27,7 @@ DevList.App._Router = Backbone.Router.extend({
         DevList.Models.CurrentEdition.fetch();
     },
 	defaultRoute: function (path){
-	    console.log(DevList.Models.CurrentEdition.url);
-		if (!DevList.Models.CurrentEdition.url){
+		if (!DevList.Models.CurrentEdition.attributes.url){
 			var edition = _.last(DevList.Data.Editions);
 			DevList.Views.MainMenu.setCurrentEdition(edition.url, edition.title);
 			DevList.Models.CurrentEdition.fetch();
@@ -77,45 +76,46 @@ DevList.App._Views.Pager = Backbone.View.extend({
 DevList.App._Views.Edition = Backbone.View.extend({
     initialize: function () {
         _.bindAll(this, 'render');
-        this.model.bind("change:links", this.render);
+        this.model.bind("change:links change:title", this.render);
     },
     render: function () {
-        var fileName = this.model.url.split('/')[2];
-        var fileNameNoExtension = fileName.split('.')[0];
-        var year = fileNameNoExtension.split('_')[0];
-        var edition = fileNameNoExtension.split('_')[1];
-
         this.$el.html(DevList.Templates.Edition.render({ edition: this.model.toJSON() }));
-
-        var currentEdition = _.find(DevList.Data.Editions, function (e) {
-            return e.year == year && e.index == edition;
-        });
-        var currentIndex = _.indexOf(DevList.Data.Editions, currentEdition);
-		DevList.Data.Editions[currentIndex].links = this.model.attributes.links;
-        var prevDisabled = currentIndex == 0;
-        var nextDisabled = (currentIndex + 1) == DevList.Data.Editions.length;
-
-        var prevEdition;
-        var nextEdition;
         var prevUrl = '';
         var nextUrl = '';
         var prevTitle = '';
         var nextTitle = '';
 
-        if (!prevDisabled) {
-            prevEdition = DevList.Data.Editions[currentIndex - 1];
-            prevUrl = prevEdition.url;
-            prevTitle = prevEdition.title;
-        }
+		if (this.model.attributes.url) {
+			var fileName = this.model.attributes.url.split('/')[2];
+			var fileNameNoExtension = fileName.split('.')[0];
+			var year = fileNameNoExtension.split('_')[0];
+			var edition = fileNameNoExtension.split('_')[1];
+			
+			var currentEdition = _.find(DevList.Data.Editions, function (e) {
+				return e.year == year && e.index == edition;
+			});
+			var currentIndex = _.indexOf(DevList.Data.Editions, currentEdition);
+			var prevDisabled = currentIndex == 0;
+			var nextDisabled = (currentIndex + 1) == DevList.Data.Editions.length;
 
-        if (!nextDisabled) {
-            nextEdition = DevList.Data.Editions[currentIndex + 1];
-            nextUrl = nextEdition.url;
-            nextTitle = nextEdition.title;
-        }
+			var prevEdition;
+			var nextEdition;
+
+			if (!prevDisabled) {
+				prevEdition = DevList.Data.Editions[currentIndex - 1];
+				prevUrl = prevEdition.url;
+				prevTitle = prevEdition.title;
+			}
+
+			if (!nextDisabled) {
+				nextEdition = DevList.Data.Editions[currentIndex + 1];
+				nextUrl = nextEdition.url;
+				nextTitle = nextEdition.title;
+			}
+			DevList.Models.Search.query  = '';
+			DevList.Router.navigate(year + '/' + edition);
+		}
         DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
-		DevList.Models.Search.query  = '';
-        DevList.Router.navigate(year + '/' + edition);
         return this;
     }
 });
@@ -151,7 +151,7 @@ DevList.App._Views.MainMenu = Backbone.View.extend({
     },
     setCurrentEdition: function (fileName, title) {
         if (DevList.Models.CurrentEdition) {
-            DevList.Models.CurrentEdition.set("title", title).url = '/json/' + fileName;
+            DevList.Models.CurrentEdition.set({ title: title, url: '/json/' + fileName }).url = '/json/' + fileName;
         } else {
             DevList.Models.CurrentEdition = new DevList.App._Models.Edition({ url: '/json/' + fileName, title: title });
         }
@@ -191,24 +191,42 @@ DevList.App._Views.Search = Backbone.View.extend({
         return this;
     },
     events: {
-        'click button': 'searchClick'
+        'click button': 'searchClick',
+		'keyup #search-box': 'searchType'
     },
     searchClick: function (event) {
 		
-		var query = $(event.target.form[0]).val();
-		if (!query) return;
+		var query = $(event.target).parent().find('input').val();
+		if (!query) return this;
 		var searchResults = [];
 		_.each(DevList.Data.Editions, function(ed, index, editions) {
 			if (ed.links){
 				_.each(ed.links, function(link, index, links) {
-					if (link.title.toLowerCase().indexOf(query.toLowerCase()) > -1)
+					if (link.title.toLowerCase().indexOf(query.toLowerCase()) > -1 || link.description.toLowerCase().indexOf(query.toLowerCase()) > -1){
 						searchResults.push(link);
+					}
 				});	
 			}
 		});
-		DevList.Models.CurrentEdition.set({ issue: 0, url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
-		DevList.Models.Search.query = query;
+		DevList.Models.CurrentEdition.set({ issue: '*', url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
+    },
+    searchType: function (event) {
+		var query = $(event.target).val();
+		if (!query) return this;
+		if (query.length < 3) return this;
+		var searchResults = [];
+		_.each(DevList.Data.Editions, function(ed, index, editions) {
+			if (ed.links){
+				_.each(ed.links, function(link, index, links) {
+					if (link.title.toLowerCase().indexOf(query.toLowerCase()) > -1 || link.description.toLowerCase().indexOf(query.toLowerCase()) > -1){
+						searchResults.push(link);
+					}
+				});	
+			}
+		});
+		DevList.Models.CurrentEdition.set({ issue: '*', url: '', title: 'Search results (' + query + ')', links: searchResults, book: null, freebook: null });
     }
+
 });
 
 $(function () {
