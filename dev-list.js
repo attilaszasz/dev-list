@@ -114,6 +114,7 @@ DevList.App._Views.Edition = Backbone.View.extend({
 			}
 			DevList.Models.Search.query  = '';
 			DevList.Router.navigate(year + '/' + edition);
+			ga('send', 'pageview', year + '/' + edition);
 		}
         DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
         return this;
