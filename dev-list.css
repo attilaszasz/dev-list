@@ -24,7 +24,7 @@ ul#link-list li.list-group-item {
 }
 
 .dropdown-menu {
-    max-height: 460px;
+    max-height: 452px;
     overflow-y: auto;
 }
 
@@ -47,4 +47,11 @@ div.fb-like {
 	vertical-align:top;
 	zoom:1;
 	*display:inline;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #aaa;
+}
+.navbar-inverse .navbar-nav > li > a {
+	color: #aaa;
 }
