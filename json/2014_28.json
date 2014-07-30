@@ -51,6 +51,7 @@
     "book": {
         "title": "Pro CSS3 Layout Techniques",
 		"url": "http://www.apress.com/9781430265023",
-        "author": "Sam Hampton-Smith"
+        "author": "Sam Hampton-Smith",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430265023-small.png"
     }
 }
