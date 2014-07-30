@@ -42,3 +42,9 @@ div.book-image {
 div#book div.col-book {
 	margin: 0 10px 10px -15px;
 }
+
+div.fb-like {
+	vertical-align:top;
+	zoom:1;
+	*display:inline;
+}
