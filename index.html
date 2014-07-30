@@ -87,7 +87,7 @@
                 <li class="list-group-item">
                     <h4 class="list-group-item-heading"><a href="{{url}}" target="{{title}}">{{title}}</a></h4>
                     {{#description}}
-                    <p class="list-group-item-text text-muted">{{description}}</p>
+                    <small class="text-muted">{{description}}</small>
                     {{/description}}
                 </li>
                 {{/edition.links}}
@@ -121,12 +121,29 @@
             <div id="book" class="col-xs-12">
                 <div class="row">
                     <h4>Recommended book:</h4>
-                    <strong>
-                        <a href="{{edition.book.url}}">{{edition.book.title}}</a>
-                    </strong>
-                    {{#edition.book.author}}
-                    by {{edition.book.author}}
-                    {{/edition.book.author}}
+					{{#edition.book.image}}
+						<div class="col-sm-12 col-md-5 col-lg-4 col-book">
+							<a href="{{edition.book.url}}" >
+								<div class="book-image" style="background-image: url('{{edition.book.image}}');"></div>
+							</a>
+						</div>
+						<div class="col-sm-12 col-md-7 col-lg-8 col-book">
+							<strong>
+								<a href="{{edition.book.url}}">{{edition.book.title}}</a>
+							</strong>
+							{{#edition.book.author}}
+							by {{edition.book.author}}
+							{{/edition.book.author}}
+						</div>
+					{{/edition.book.image}}
+					{{^edition.book.image}}
+						<strong>
+							<a href="{{edition.book.url}}">{{edition.book.title}}</a>
+						</strong>
+						{{#edition.book.author}}
+						by {{edition.book.author}}
+						{{/edition.book.author}}
+					{{/edition.book.image}}
                 </div>
             </div>
             {{/edition.book}}

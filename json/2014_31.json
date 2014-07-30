@@ -5,37 +5,52 @@
         {
             "url": "http://code.tutsplus.com/tutorials/preventing-xss-in-aspnet--cms-21801",
             "title": "Preventing XSS in ASP.NET",
+            "description": "Many website security problems come from trusting the user too much."
+        },
+		{
+            "url": "https://blog.hired.com/what-i-learned-from-reading-8000-recruiting-messages/",
+            "title": "What I learned from reading 8,000 recruiting messages",
+            "description": "If you’ve ever been involved in hiring software engineers, you know how frustrating the process can be."
+        },
+		{
+            "url": "http://setosa.io/blog/2014/07/26/markov-chains/index.html",
+            "title": "Markov Chains - A visual explanation",
+            "description": "Markov chains are mathematical systems that hop from one 'state' (a situation or set of values) to another."
+        },
+		{
+            "url": "http://stephenhaunts.com/2014/07/02/not-limiting-yourself-in-your-career/",
+            "title": "Not Limiting Yourself In Your Programming Career",
             "description": ""
         },
 		{
-            "url": "http://blog.codinghorror.com/the-just-in-time-theory/",
-            "title": "The 'Just In Time' Theory of User Behavior",
+            "url": "http://www.catonmat.net/blog/introduction-to-perl-one-liners/",
+            "title": "Introduction to Perl one-liners",
+            "description": "Perl one-liners are small and awesome Perl programs that fit in a single line of code and they do one thing really well."
+        },
+		{
+            "url": "http://blog.loadimpact.com/2014/06/03/exception-handling-in-an-angularjs-web-application-tutorial/",
+            "title": "Exception Handling in an AngularJS Web Application",
             "description": ""
         },
 		{
-            "url": "http://www.infoq.com/articles/what-are-self-organising-teams?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-            "title": "What Are Self-Organising Teams?",
-            "description": ""
+            "url": "http://orchestrate.io/blog/2014/07/16/how-to-write-a-readme-worth-reading/",
+            "title": "How to Write a Readme Worth Reading",
+            "description": "Readmes are the backbone of a project’s documentation. They’re a visitor’s first impression. How do you make them good? Pretty easily."
         },
 		{
-            "url": "http://www.smashingmagazine.com/2014/07/21/how-do-you-design-interaction/",
-            "title": "How Do You Design Interaction?",
-            "description": ""
+            "url": "https://github.com/ziadoz/awesome-php",
+            "title": "Awesome PHP",
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
         },
 		{
-            "url": "http://blog.sei.cmu.edu/post.cfm/four-principles-engineering-big-data-systems-195",
-            "title": "Four Principles of Engineering Scalable, Big Data Software Systems",
-            "description": ""
+            "url": "https://medium.com/@eric_mobley/the-principals-of-performance-by-design-32d0a5306bbe",
+            "title": "The Principles of Performance by Design",
+            "description": "Because great performance starts with design."
         },
 		{
-            "url": "http://rmurphey.com/blog/2014/07/13/unit-tests/",
-            "title": "Writing Unit Tests for Existing JavaScript",
-            "description": ""
-        },
-		{
-            "url": "http://www.smashingmagazine.com/2014/07/11/roadmap-to-becoming-an-a-b-testing-expert/",
-            "title": "A Roadmap To Becoming An A/B Testing Expert",
-            "description": ""
+            "url": "http://java.dzone.com/articles/backbone-tutorial-part-1",
+            "title": "BackBone Tutorial: Introduction to Backbone.Js",
+            "description": "Backbone.js is a lightweight framework that lets us create single page applications in a structured manner. It is based on the Model-View-Controller (MV*) pattern. It is best suited for creating single page applications using a RESTful service for persisting data."
         }
     ],
     "freebook": {
@@ -46,6 +61,7 @@
     "book": {
         "title": "Full Stack Web Development with Backbone.js",
 		"url": "http://shop.oreilly.com/product/0636920030799.do?code=DEAL",
-        "author": "Patrick Mulder"
+        "author": "Patrick Mulder",
+		"image": "http://akamaicovers.oreilly.com/images/0636920030799/lrg.jpg"
     }
 }

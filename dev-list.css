@@ -12,7 +12,7 @@ ul#link-list {
 
 ul#link-list li.list-group-item {
     border-style: none;
-    padding: 8px 15px;
+    padding: 12px 15px;
 }
 
 #free-book, #book {
@@ -26,4 +26,19 @@ ul#link-list li.list-group-item {
 .dropdown-menu {
     max-height: 460px;
     overflow-y: auto;
+}
+
+div.book-image {
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 130px;
+	width: 100px;
+}
+
+div#book div.col-book {
+	margin: 0 10px 10px -15px;
 }
