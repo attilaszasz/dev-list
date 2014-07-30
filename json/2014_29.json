@@ -46,6 +46,7 @@
     "book": {
         "title": "Microsoft SQL Server 2012 Bible",
 		"url": "http://shop.oreilly.com/product/9781118106877.do",
-        "author": "Adam Jorgensen, Jorge Segarra, Patrick LeBlanc, Jose Chinchilla, Aaron Nelson"
+        "author": "Adam Jorgensen, Jorge Segarra, Patrick LeBlanc, Jose Chinchilla, Aaron Nelson",
+		"image": "http://akamaicovers.oreilly.com/images/9781118106877/lrg.jpg"
     }
 }
