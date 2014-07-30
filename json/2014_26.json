@@ -66,6 +66,7 @@
     "book": {
         "title": "Building Web Apps with WordPress",
 		"url": "http://shop.oreilly.com/product/0636920029380.do",
-        "author": "Brian Messenlehner, Jason Coleman"
+        "author": "Brian Messenlehner, Jason Coleman",
+		"image": "http://akamaicovers.oreilly.com/images/0636920029380/lrg.jpg"
     }
 }
