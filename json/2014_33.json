@@ -1,0 +1,63 @@
+{
+    "issue": 102,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://labs.ideo.com/2014/07/24/tools-we-like-v3/",
+            "title": "Tools We Like v3",
+            "description": "IDEO New York's wildcard developer dishes up the best tech for everything from building mobile apps to testing APIs."
+        },
+		{
+            "url": "http://wozniak.ca/what-orms-have-taught-me-just-learn-sql",
+            "title": "What ORMs have taught me: just learn SQL",
+            "description": "ORMs can be used to nicely augment working with SQL in a program, but they should not replace it"
+        },
+		{
+            "url": "http://www.templatemonster.com/infographics/blue-website-design-keys-infographic.php",
+            "title": "Coolness of Blue in webdesign",
+            "description": "This infographic is for everyone interested in psichology of colors and its role in design."
+        },
+		{
+            "url": "http://www.testingminded.com/2010/04/top-100-software-testing-blogs.html",
+            "title": "Top 100 Software Testing Blogs",
+            "description": "For those who would like to read more on Software Testing and QA."
+        },
+		{
+            "url": "http://www.guru99.com/",
+            "title": "Guru99 is totally new kind of learning experience",
+            "description": "Inside, you will find tons of video tutorials."
+        },
+		{
+            "url": "http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx",
+            "title": "Profile and Time your ASP.NET MVC app all the way to Azure",
+            "description": "You really don't know what needs to be optimized until you measure performance."
+        },
+		{
+            "url": "https://github.com/ziadoz/awesome-php",
+            "title": "Awesome PHP",
+            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+        },
+		{
+            "url": "https://medium.com/@eric_mobley/the-principals-of-performance-by-design-32d0a5306bbe",
+            "title": "The Principles of Performance by Design",
+            "description": "Because great performance starts with design."
+        },
+		{
+            "url": "http://java.dzone.com/articles/backbone-tutorial-part-1",
+            "title": "BackBone Tutorial: Introduction to Backbone.Js",
+            "description": "Backbone.js is a lightweight framework that lets us create single page applications in a structured manner. It is based on the Model-View-Controller (MV*) pattern. It is best suited for creating single page applications using a RESTful service for persisting data."
+        }
+    ],
+    "freebook": {
+        "title": "Eloquent JavaScript",
+		"url": "http://eloquentjavascript.net/",
+        "author": "Marijn Haverbeke",
+		"image": "http://eloquentjavascript.net/img/cover.png"
+    },
+    "book": {
+        "title": "Professional ASP.NET MVC 5",
+		"url": "http://shop.oreilly.com/product/9781118794753.do",
+        "author": "Jon Galloway, Brad Wilson, K. Scott Allen, David Matson",
+		"image": "http://akamaicovers.oreilly.com/images/9781118794753/lrg.jpg"
+    }
+}

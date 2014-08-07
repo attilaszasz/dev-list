@@ -39,7 +39,7 @@ div.book-image {
 	width: 100px;
 }
 
-div#book div.col-book {
+div#book div.col-book, div#free-book div.col-book {
 	margin: 0 10px 10px -15px;
 }
 

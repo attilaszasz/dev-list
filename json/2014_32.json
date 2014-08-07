@@ -1,0 +1,82 @@
+{
+    "issue": 101,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://labs.ideo.com/2014/07/24/tools-we-like-v3/",
+            "title": "Tools We Like v3",
+            "description": "IDEO New York's wildcard developer dishes up the best tech for everything from building mobile apps to testing APIs."
+        },
+		{
+            "url": "http://wozniak.ca/what-orms-have-taught-me-just-learn-sql",
+            "title": "What ORMs have taught me: just learn SQL",
+            "description": "ORMs can be used to nicely augment working with SQL in a program, but they should not replace it"
+        },
+		{
+            "url": "http://www.templatemonster.com/infographics/blue-website-design-keys-infographic.php",
+            "title": "Coolness of Blue in webdesign",
+            "description": "This infographic is for everyone interested in psichology of colors and its role in design."
+        },
+		{
+            "url": "http://www.testingminded.com/2010/04/top-100-software-testing-blogs.html",
+            "title": "Top 100 Software Testing Blogs",
+            "description": "For those who would like to read more on Software Testing and QA."
+        },
+		{
+            "url": "http://www.guru99.com/",
+            "title": "Guru99 is totally new kind of learning experience",
+            "description": "Inside, you will find tons of video tutorials."
+        },
+		{
+            "url": "http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx",
+            "title": "Profile and Time your ASP.NET MVC app all the way to Azure",
+            "description": "You really don't know what needs to be optimized until you measure performance."
+        },
+		{
+            "url": "https://github.com/johnpapa/angularjs-styleguide",
+            "title": "AngularJS Style Guide",
+            "description": "If you are looking for an opinionated style guide for syntax, conventions, and structuring AngularJS applications, then step right in."
+        },
+		{
+            "url": "http://haacked.com/archive/2014/07/28/github-flow-aliases/",
+            "title": "GitHub Flow Like a Pro with these 13 Git Aliases",
+            "description": "An alias is simply a way to add a shorthand for a common Git command or set of Git commands."
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/",
+            "title": "Build A Blog With Jekyll And GitHub Pages",
+            "description": "A fantastic website generator that’s designed for building minimal, static blogs to be hosted on GitHub Pages."
+        },
+		{
+            "url": "http://improveandrepeat.com/2014/08/structured-logging-with-serilog/",
+            "title": "Structured Logging with Serilog",
+            "description": "Serilog is not just another logging framework. Writing JSON to a variety of output providers will enable you to get meaningful objects (and not just strings) that can be used to analyse the state of your application in much more detail."
+        }
+    ],
+    "freebook": {
+        "title": "Building Cloud Apps with Microsoft Azure",
+		"url": "",
+        "author": "Scott Guthrie, Mark Simms, Tom Dykstra, Rick Anderson, Mike Wasson",
+		"image": "http://blogs.msdn.com/cfs-filesystemfile.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-17-44-metablogapi/3617.9780735695658f_5F00_58F7BB03.jpg",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://aka.ms/CloudApps_PDF"
+            },
+			{
+                "name": "epub",
+                "url": "http://aka.ms/CloudApps_EPUB"
+            },
+			{
+                "name": "mobi",
+                "url": "http://aka.ms/CloudApps_MOBI"
+            }
+        ]
+    },
+    "book": {
+        "title": "Professional ASP.NET MVC 5",
+		"url": "http://shop.oreilly.com/product/9781118794753.do",
+        "author": "Jon Galloway, Brad Wilson, K. Scott Allen, David Matson",
+		"image": "http://akamaicovers.oreilly.com/images/9781118794753/lrg.jpg"
+    }
+}

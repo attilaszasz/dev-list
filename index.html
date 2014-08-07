@@ -120,17 +120,43 @@
             <div id="free-book" class="col-xs-12">
                 <div class="row">
                     <h4>Free book of the week:</h4>
-                    <strong>
-                        {{#edition.freebook.url}}
-                        <a href="{{edition.freebook.url}}">{{edition.freebook.title}}</a>
-                        {{/edition.freebook.url}}
-                        {{^edition.freebook.url}}
-                        {{edition.freebook.title}}
-                        {{/edition.freebook.url}}
-                    </strong>
-                    {{#edition.freebook.author}}
-                    by {{edition.freebook.author}}
-                    {{/edition.freebook.author}}
+						{{#edition.freebook.image}}
+						<div class="col-sm-12 col-md-5 col-lg-4 col-book">
+						   {{#edition.freebook.url}}
+							<a href="{{edition.freebook.url}}" >
+						   {{/edition.freebook.url}}
+								<div class="book-image" style="background-image: url('{{edition.freebook.image}}');"></div>
+																{{#edition.freebook.url}}
+							</a>
+															{{/edition.freebook.url}}
+						</div>
+						<div class="col-sm-12 col-md-7 col-lg-8 col-book">
+							<strong>
+								{{#edition.freebook.url}}
+								<a href="{{edition.freebook.url}}">{{edition.freebook.title}}</a>
+								{{/edition.freebook.url}}
+								{{^edition.freebook.url}}
+								{{edition.freebook.title}}
+								{{/edition.freebook.url}}
+							</strong>
+							{{#edition.freebook.author}}
+							by {{edition.freebook.author}}
+							{{/edition.freebook.author}}
+						</div>
+					{{/edition.freebook.image}}
+					{{^edition.freebook.image}}
+						<strong>
+							{{#edition.freebook.url}}
+							<a href="{{edition.freebook.url}}">{{edition.freebook.title}}</a>
+							{{/edition.freebook.url}}
+							{{^edition.freebook.url}}
+							{{edition.freebook.title}}
+							{{/edition.freebook.url}}
+						</strong>
+						{{#edition.freebook.author}}
+						by {{edition.freebook.author}}
+						{{/edition.freebook.author}}
+					{{/edition.freebook.image}}
                 </div>
                 {{#edition.freebook.links}}
                 <div class="row download-link">
