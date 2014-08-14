@@ -56,6 +56,7 @@
     "book": {
         "title": "Less Web Development Essentials",
 		"url": "http://www.packtpub.com/less-web-development-essentials/book",
-        "author": "Bass Jobsen"
+        "author": "Bass Jobsen",
+		"image": "https://www.packtpub.com/sites/default/files/1465OS_LESS%20Web%20Develoment%20Essentials_Mini.jpg"
     }
 }

@@ -3,49 +3,44 @@
     "year": 2014,
     "links": [
         {
-            "url": "http://labs.ideo.com/2014/07/24/tools-we-like-v3/",
-            "title": "Tools We Like v3",
-            "description": "IDEO New York's wildcard developer dishes up the best tech for everything from building mobile apps to testing APIs."
+            "url": "http://firstround.com/article/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business",
+            "title": "How Design Thinking Transformed Airbnb from a Failing Startup to a Billion Dollar Business",
+            "description": ""
         },
 		{
-            "url": "http://wozniak.ca/what-orms-have-taught-me-just-learn-sql",
-            "title": "What ORMs have taught me: just learn SQL",
-            "description": "ORMs can be used to nicely augment working with SQL in a program, but they should not replace it"
+            "url": "http://msdn.microsoft.com/en-gb/magazine/dn759441.aspx",
+            "title": "Developing Your First Game with Unity and C#",
+            "description": "A 2D/3D engine and framework that gives you a system for designing game or app scenes for 2D, 2.5D and 3D. Unity allows you to interact with them via not only code, but also visual components, and export them to every major mobile platform and a whole lot more - for free."
         },
 		{
-            "url": "http://www.templatemonster.com/infographics/blue-website-design-keys-infographic.php",
-            "title": "Coolness of Blue in webdesign",
-            "description": "This infographic is for everyone interested in psichology of colors and its role in design."
+            "url": "http://azure.microsoft.com/blog/2014/06/04/lap-around-azure-redis-cache-preview/",
+            "title": "Lap around Azure Redis Cache (Preview)",
+            "description": "An open source, BSD licensed, advanced key-value store. It is often referred to as a data structure server since keys can contain strings, hashes, lists, sets and sorted sets."
         },
 		{
-            "url": "http://www.testingminded.com/2010/04/top-100-software-testing-blogs.html",
-            "title": "Top 100 Software Testing Blogs",
-            "description": "For those who would like to read more on Software Testing and QA."
+            "url": "https://github.com/ligershark/side-waffle",
+            "title": "SideWaffle for Visual Studio",
+            "description": "A collection of Item Templates for Visual Studio 2012/2013 that makes any web developer's life much easier."
         },
 		{
-            "url": "http://www.guru99.com/",
-            "title": "Guru99 is totally new kind of learning experience",
-            "description": "Inside, you will find tons of video tutorials."
+            "url": "http://www.codeproject.com/Articles/806029/Getting-started-with-AngularJS-and-ASP-NET-MVC-Par",
+            "title": "Getting started with AngularJS and ASP.NET MVC",
+            "description": "This article will show you how to hit the ground running with AngularJS while using a server side MVC framework, ASP.NET MVC."
         },
 		{
-            "url": "http://blogs.msdn.com/b/webdev/archive/2014/07/29/profile-and-time-your-asp-net-mvc-app-all-the-way-to-azure.aspx",
-            "title": "Profile and Time your ASP.NET MVC app all the way to Azure",
-            "description": "You really don't know what needs to be optimized until you measure performance."
+            "url": "http://code.tutsplus.com/tutorials/getting-started-with-xamarinforms-basics--cms-21564",
+            "title": "Getting Started with Xamarin.Forms: Basics",
+            "description": "Xamarin.Forms is a library that contains abstractions of typical UI controls that comprise your app's UI. When these controls are used on the specific platforms, they are mapped to render native UI controls so that you get the look and feel of native components."
         },
 		{
-            "url": "https://github.com/ziadoz/awesome-php",
-            "title": "Awesome PHP",
-            "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things."
+            "url": "http://bootstrapbay.com/blog/free-stock-photos/",
+            "title": "12 Amazing Sites With Breathtaking Free Stock Photos",
+            "description": "Thankfully, there’s been a growing number of websites with beautiful stock photography popping up all over the web. Best of all, they’re free."
         },
 		{
-            "url": "https://medium.com/@eric_mobley/the-principals-of-performance-by-design-32d0a5306bbe",
-            "title": "The Principles of Performance by Design",
-            "description": "Because great performance starts with design."
-        },
-		{
-            "url": "http://java.dzone.com/articles/backbone-tutorial-part-1",
-            "title": "BackBone Tutorial: Introduction to Backbone.Js",
-            "description": "Backbone.js is a lightweight framework that lets us create single page applications in a structured manner. It is based on the Model-View-Controller (MV*) pattern. It is best suited for creating single page applications using a RESTful service for persisting data."
+            "url": "http://rachelappel.com/use-signalr-to-build-real-time-connectivity-into-your-software",
+            "title": "Use SignalR to Build Real-Time Connectivity into Your Software",
+            "description": "SignalR is a set of libraries that facilitate easy development of these kind of real-time websites and apps."
         }
     ],
     "freebook": {
@@ -55,9 +50,9 @@
 		"image": "http://eloquentjavascript.net/img/cover.png"
     },
     "book": {
-        "title": "Professional ASP.NET MVC 5",
-		"url": "http://shop.oreilly.com/product/9781118794753.do",
-        "author": "Jon Galloway, Brad Wilson, K. Scott Allen, David Matson",
-		"image": "http://akamaicovers.oreilly.com/images/9781118794753/lrg.jpg"
+        "title": "Programming Chrome Apps",
+		"url": "http://shop.oreilly.com/product/0636920033776.do",
+        "author": "Marc Rochkind",
+		"image": "http://akamaicovers.oreilly.com/images/0636920033776/rc_lrg.jpg"
     }
 }

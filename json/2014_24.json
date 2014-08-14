@@ -66,6 +66,7 @@
     "book": {
         "title": "The Art of Application Performance Testing",
 		"url": "http://shop.oreilly.com/product/0636920033233.do",
-        "author": "Ian Molyneaux"
+        "author": "Ian Molyneaux",
+		"image": "http://akamaicovers.oreilly.com/images/0636920033233/rc_lrg.jpg"
     }
 }
