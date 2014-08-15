@@ -75,6 +75,7 @@
     "book": {
         "title": "Objective-C Recipes",
 		"url": "http://www.apress.com/9781430243717",
-        "author": "Matthew Campbell"
+        "author": "Matthew Campbell",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430243717-small_5.png"
     }
 }

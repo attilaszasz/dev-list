@@ -47,6 +47,7 @@
     "book": {
         "title": "Entity Framework 6 Recipes",
 		"url": "http://www.apress.com/9781430257882",
-        "author": "Brian Driscoll, Nitin Gupta, Robert Vettor, Zeeshan Hirani, Larry Tenny"
+        "author": "Brian Driscoll, Nitin Gupta, Robert Vettor, Zeeshan Hirani, Larry Tenny",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430257882-small_2.png"
     }
 }

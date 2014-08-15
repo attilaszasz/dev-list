@@ -61,6 +61,7 @@
     "book": {
         "title": "Pro ASP.NET Web API Security",
 		"url": "http://www.apress.com/9781430257820",
-        "author": "Badrinarayanan Lakshmiraghavan"
+        "author": "Badrinarayanan Lakshmiraghavan",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430257820-small_4.png"
     }
 }

@@ -57,6 +57,7 @@
     "book": {
         "title": "Beginning Sensor Networks with Arduino and Raspberry Pi",
 		"url": "http://www.apress.com/9781430258247",
-        "author": "Charles Bell"
+        "author": "Charles Bell",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430258247-small.png"
     }
 }

@@ -71,7 +71,9 @@
     },
     "book": {
         "title": "Hadoop: The Definitive Guide",
-		"url": "http://shop.oreilly.com/product/0636920021773.do",
-        "author": "Tom White"
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920021773.do%3Fcmp%3Daf-strata-books-videos-product_cj_9781449311513_%2525zp&cjsku=9781449311513",
+        "author": "Tom White",
+		"image": "http://akamaicovers.oreilly.com/images/0636920021773/cat.gif",
+		"affiliate": "affiliate"
     }
 }

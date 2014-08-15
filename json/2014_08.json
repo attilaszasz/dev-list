@@ -65,8 +65,10 @@
         ]
     },
     "book": {
-        "title": "Windows Server 2012 R2 Inside Out: Configuration, Storage, & Essentials",
-		"url": "http://shop.oreilly.com/product/0790145395665.do",
-        "author": "William R. Stanek"
+        "title": "Mastering Windows Server 2012 R2",
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781118289426.do%3Fcmp%3Daf-na-books-videos-product_cj_9781492003533_%2525zp&cjsku=9781118289426",
+        "author": "Mark Minasi, Kevin Greene, Christian Booth, Robert Butler, John McCabe, Robert Panek, Michael Rice, Stefan Roth",
+		"image": "http://akamaicovers.oreilly.com/images/9781118289426/cat.gif",
+		"affiliate": "affiliate"
     }
 }
