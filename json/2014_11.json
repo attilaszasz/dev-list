@@ -79,7 +79,9 @@
     },
     "book": {
         "title": "Data Structures and Algorithms with JavaScript",
-		"url": "http://shop.oreilly.com/product/0636920029557.do",
-        "author": "Michael McMillan"
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920029557.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9781449364922_%2525zp&cjsku=9781449364922",
+        "author": "Michael McMillan",
+		"image": "http://akamaicovers.oreilly.com/images/0636920029557/cat.gif",
+		"affiliate": "affiliate"
     }
 }

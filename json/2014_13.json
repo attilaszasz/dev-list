@@ -60,7 +60,9 @@
     },
     "book": {
         "title": "Web Development with Node and Express",
-		"url": "http://shop.oreilly.com/product/0636920032977.do",
-        "author": "Ethan Brown"
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920032977.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9781491949283_%2525zp&cjsku=9781491949283",
+        "author": "Ethan Brown",
+		"image": "http://akamaicovers.oreilly.com/images/0636920032977/cat.gif",
+		"affiliate": "affiliate"
     }
 }
