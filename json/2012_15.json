@@ -45,7 +45,8 @@
     },
     "book": {
         "title": "Microsoft SQL Server 2012 T-SQL Fundamentals",
-		"url": "http://www.amazon.com/Microsoft-Server-2012-T-SQL-Fundamentals/dp/0735658145/",
-        "author": "Itzik Ben-Gan"
+		"url": "https://www.microsoftpressstore.com/store/microsoft-sql-server-2012-t-sql-fundamentals-9780735658141",
+        "author": "Itzik Ben-Gan",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735658141&type=f"
     }
 }

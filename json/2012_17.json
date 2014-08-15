@@ -41,6 +41,7 @@
     "book": {
         "title": "Clean Code",
 		"url": "http://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882",
-        "author": "Robert C. Martin"
+        "author": "Robert C. Martin",
+		"image": "http://pixhst.com/avaxhome/42/21/00232142_medium.jpeg"
     }
 }
