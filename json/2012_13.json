@@ -35,7 +35,9 @@
     },
     "book": {
         "title": "Visual Studio 2012 Cookbook",
-		"url": "http://www.amazon.com/Visual-Studio-2012-Cookbook-ebook/dp/B0096LUIQ0/ref=tmm_kin_title_0",
-        "author": "Richard Banks"
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781849686525.do%3Fcmp%3Daf-na-books-videos-product_cj_9781849686532_%2525zp&cjsku=9781849686525",
+        "author": "Richard Banks",
+		"image": "http://akamaicovers.oreilly.com/images/9781849686525/cat.gif",
+		"affiliate": "affiliate"
     }
 }

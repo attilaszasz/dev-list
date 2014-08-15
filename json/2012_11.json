@@ -54,7 +54,9 @@
     },
     "book": {
         "title": "Professional ASP.NET MVC 4",
-		"url": "http://www.wrox.com/WileyCDA/WroxTitle/Professional-ASP-NET-MVC-4.productCd-1118424328.html",
-        "author": "Jon Galloway, Phil Haack, Brad Wilson, K. Scott Allen"
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781118348468.do%3Fcmp%3Daf-na-books-videos-product_cj_9781457143090_%2525zp&cjsku=9781118348468",
+        "author": "Jon Galloway, Phil Haack, Brad Wilson, K. Scott Allen",
+		"image": "http://akamaicovers.oreilly.com/images/9781118348468/cat.gif",
+		"affiliate": "affiliate"
     }
 }
