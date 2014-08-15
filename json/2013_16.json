@@ -40,7 +40,8 @@
     },
     "book": {
         "title": "Training Guide: Programming in HTML5 with JavaScript and CSS3",
-		"url": "http://shop.oreilly.com/product/0790145371133.do",
-        "author": "Glenn Johnson"
+		"url": "https://www.microsoftpressstore.com/store/programming-in-html5-with-javascript-and-css3-training-9780735674387",
+        "author": "Glenn Johnson",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735674387&type=f"
     }
 }

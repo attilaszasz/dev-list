@@ -39,8 +39,9 @@
         "author": "Josh Lockhart"
     },
     "book": {
-        "title": "Inside Microsoft® SQL Server® 2008: T-SQL Programming",
-		"url": "http://shop.oreilly.com/product/9780735626027.do",
-        "author": "Itzik Ben-Gan, Dejan Sarka, Greg Low, Roger Wolter, Ed Katibah, Isaac Kunen"
+        "title": "Inside Microsoft SQL Server 2008: T-SQL Programming",
+		"url": "https://www.microsoftpressstore.com/store/inside-microsoft-sql-server-2008-t-sql-programming-9780735626027",
+        "author": "Itzik Ben-Gan, Dejan Sarka, Greg Low, Roger Wolter, Ed Katibah, Isaac Kunen",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735626027&type=f"
     }
 }

@@ -56,6 +56,7 @@
     "book": {
         "title": "How to Stop Sucking and Be Awesome Instead",
 		"url": "http://www.hyperink.com/How-To-Stop-Sucking-And-Be-Awesome-Instead-b9A74B5CBA6",
-        "author": "Jeff Atwood"
+        "author": "Jeff Atwood",
+		"image": "https://s3.amazonaws.com/hyperink_covers/9A74B5CBA6_thumb"
     }
 }

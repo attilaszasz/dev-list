@@ -46,6 +46,7 @@
     "book": {
         "title": "Secrets of the JavaScript Ninja",
 		"url": "http://www.manning.com/resig/",
-        "author": "John Resig and Bear Bibeault"
+        "author": "John Resig and Bear Bibeault",
+		"image": "http://www.manning.com/resig/resig_cover150.jpg"
     }
 }
