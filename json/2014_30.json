@@ -45,8 +45,9 @@
     },
     "book": {
         "title": "Build iOS Games with Sprite Kit",
-		"url": "http://shop.oreilly.com/product/9781941222102.do",
+		"url": "http://www.kqzyfj.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781941222102.do%3Fcmp%3Daf-na-books-videos-product_cj_9781941222102_%2525zp&cjsku=9781941222102",
         "author": "Jonathan Penn, Josh Smith",
-		"image": "http://akamaicovers.oreilly.com/images/9781941222102/lrg.jpg"
+		"image": "http://akamaicovers.oreilly.com/images/9781941222102/cat.gif",
+		"affiliate": "affiliate"
     }
 }
