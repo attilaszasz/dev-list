@@ -80,7 +80,9 @@
     },
     "book": {
         "title": "Building Interactive Queries with LINQPad",
-		"url": "http://www.packtpub.com/building-interactive-queries-with-linqpad/book",
-        "author": "Sébastien Finot"
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781782178224.do%3Fcmp%3Daf-na-books-videos-product_cj_9781782178231_%2525zp&cjsku=9781782178224",
+        "author": "Sébastien Finot",
+		"image": "http://akamaicovers.oreilly.com/images/9781782178224/cat.gif",
+		"affiliate": "affiliate"
     }
 }

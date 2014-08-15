@@ -59,8 +59,10 @@
         "author": "Paul Thurrott"
     },
     "book": {
-        "title": "Software Requirements 3",
-		"url": "http://shop.oreilly.com/product/0790145385512.do",
-        "author": "Karl E Wiegers, Joy Beatty"
+        "title": "Requirements Engineering Fundamentals",
+		"url": "http://www.dpbolvw.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781933952819.do%3Fcmp%3Daf-na-books-videos-product_cj_9781933952819_%2525zp&cjsku=9781933952819",
+        "author": "Klaus Pohl, Chris Rupp",
+		"image": "http://akamaicovers.oreilly.com/images/9781933952819/cat.gif",
+		"affiliate": "affiliate"
     }
 }

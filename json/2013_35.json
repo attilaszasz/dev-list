@@ -55,7 +55,9 @@
     },
     "book": {
         "title": "AngularJS",
-		"url": "http://shop.oreilly.com/product/0636920028055.do",
-        "author": "Brad Green, Shyam Seshadri"
+		"url": "http://www.dpbolvw.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920028055.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9781449344849_%2525zp&cjsku=9781449344849",
+        "author": "Brad Green, Shyam Seshadri",
+		"image": "http://akamaicovers.oreilly.com/images/0636920028055/cat.gif",
+		"affiliate": "affiliate"
     }
 }
