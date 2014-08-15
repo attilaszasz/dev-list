@@ -45,7 +45,9 @@
     },
     "book": {
         "title": "JavaScript: The Good Parts",
-		"url": "http://shop.oreilly.com/product/9780596517748.do",
-        "author": "Douglas Crockford"
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9780596517748.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9780596158736_%2525zp&cjsku=9780596158736",
+        "author": "Douglas Crockford",
+		"image": "http://akamaicovers.oreilly.com/images/9780596517748/cat.gif",
+		"affiliate": "affiliate"
     }
 }

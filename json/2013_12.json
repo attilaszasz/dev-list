@@ -65,7 +65,9 @@
     },
     "book": {
         "title": "JavaScript Patterns",
-		"url": "http://shop.oreilly.com/product/9780596806767.do",
-        "author": "Stoyan Stefanov"
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9780596806767.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9780596806774_%2525zp&cjsku=9780596806774",
+        "author": "Stoyan Stefanov",
+		"image": "http://akamaicovers.oreilly.com/images/9780596806767/cat.gif",
+		"affiliate": "affiliate"
     }
 }

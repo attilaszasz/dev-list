@@ -60,7 +60,9 @@
     },
     "book": {
         "title": "Programming Entity Framework: Code First",
-		"url": "http://shop.oreilly.com/product/0636920022220.do",
-        "author": "Julia Lerman, Rowan Miller"
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920022220.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449312930_%2525zp&cjsku=9781449312930",
+        "author": "Julia Lerman, Rowan Miller",
+		"image": "http://akamaicovers.oreilly.com/images/0636920022220/cat.gif",
+		"affiliate": "affiliate"
     }
 }
