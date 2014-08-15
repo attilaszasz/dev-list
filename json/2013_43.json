@@ -71,7 +71,9 @@
     },
     "book": {
         "title": "Regular Expressions Cookbook, 2nd Edition",
-		"url": "http://shop.oreilly.com/product/0636920023630.do",
-        "author": "Jan Goyvaerts, Steven Levithan"
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920023630.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449327477_%2525zp&cjsku=9781449327477",
+        "author": "Jan Goyvaerts, Steven Levithan",
+		"image": "http://akamaicovers.oreilly.com/images/0636920023630/cat.gif",
+		"affiliate": "affiliate"
     }
 }

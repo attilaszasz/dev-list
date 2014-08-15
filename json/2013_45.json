@@ -52,6 +52,7 @@
     "book": {
         "title": "Pro Team Foundation Service",
 		"url": "http://www.apress.com/9781430259954",
-        "author": "Mathias Olausson, Joachim Rossberg, Jakob Ehn, Mattias Sköld"
+        "author": "Mathias Olausson, Joachim Rossberg, Jakob Ehn, Mattias Sköld",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/9/7/9781430259954_2.jpg"
     }
 }

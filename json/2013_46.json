@@ -57,6 +57,7 @@
     "book": {
         "title": "New Perspectives On Web Design",
 		"url": "https://shop.smashingmagazine.com/smashing-book-4-new-perspectives-on-web-design.html",
-        "author": "Smashing Magazine"
+        "author": "Smashing Magazine",
+		"image": "https://shop.smashingmagazine.com/media/catalog/product/cache/2/image/342x365/9df78eab33525d08d6e5fb8d27136e95/s/b/sb4-ipad-opt.png"
     }
 }
