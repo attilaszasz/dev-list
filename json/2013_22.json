@@ -45,7 +45,8 @@
     },
     "book": {
         "title": "Inside the Microsoft® Build Engine, Using MSBuild and Team Foundation Build",
-		"url": "http://shop.oreilly.com/product/0790145301949.do",
-        "author": "Sayed Ibrahim Hashimi, William Bartholomew"
+		"url": "https://www.microsoftpressstore.com/store/inside-the-microsoft-build-engine-using-msbuild-and-9780735645240",
+        "author": "Sayed Ibrahim Hashimi, William Bartholomew",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735645240&type=f"
     }
 }

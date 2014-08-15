@@ -55,7 +55,9 @@
     },
     "book": {
         "title": "Functional JavaScript - Introducing Functional Programming with Underscore.js",
-		"url": "http://shop.oreilly.com/product/0636920028857.do",
-        "author": "Michael Fogus"
+		"url": "http://www.kqzyfj.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920028857.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9781449360771_%2525zp&cjsku=9781449360771",
+        "author": "Michael Fogus",
+		"image": "http://akamaicovers.oreilly.com/images/0636920028857/cat.gif",
+		"affiliate": "affiliate"
     }
 }

@@ -60,6 +60,7 @@
     "book": {
         "title": "The Business of iPhone App Development",
 		"url": "http://www.apress.com/mobile/iphone-ipad/9781430227335",
-        "author": "Dave Wooldridge , Michael Schneider"
+        "author": "Dave Wooldridge , Michael Schneider",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430227335-small_11.png"
     }
 }
