@@ -46,6 +46,7 @@
     "book": {
         "title": "Pro JavaScript Performance : Monitoring and Visualization",
 		"url": "http://www.apress.com/9781430247494",
-        "author": "Tom Barker"
+        "author": "Tom Barker",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430247494-small_3.png"
     }
 }

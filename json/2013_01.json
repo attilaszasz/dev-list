@@ -41,6 +41,7 @@
     "book": {
         "title": "Pro SQL Server 2012 Practices",
 		"url": "http://www.apress.com/9781430247708",
-        "author": ""
+        "author": "Carlos Bossy , Grant Fritchey , Jeremy Lowell , Jesper Johansen , Wendy Pastrick , Kellyn Pot'vin , Mladen Prajdi , Chris Shaw , Gail Shaw , Jason Strate",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430247708-small_3.png"
     }
 }

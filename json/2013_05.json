@@ -40,7 +40,9 @@
     },
     "book": {
         "title": "TeamCity 7 Continuous Integration Essentials",
-		"url": "http://www.amazon.com/TeamCity-Continuous-Integration-Essentials-ebook/dp/B00ATYE3XW/",
-        "author": "Volodymyr Melymuka"
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781849693769.do%3Fcmp%3Daf-na-books-videos-product_cj_9781849693776_%2525zp&cjsku=9781849693769",
+        "author": "Volodymyr Melymuka",
+		"image": "http://akamaicovers.oreilly.com/images/9781849693769/cat.gif",
+		"affiliate": "affiliate"
     }
 }

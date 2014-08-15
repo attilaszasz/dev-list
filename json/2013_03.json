@@ -51,6 +51,7 @@
     "book": {
         "title": "Code Complete",
 		"url": "http://www.amazon.com/Code-Complete-ebook/dp/B004OR1XGK",
-        "author": "Steve McConnell"
+        "author": "Steve McConnell",
+		"image": "http://cache1.bdcdn.net/assets/images/book/medium/9789/3500/9789350041246.jpg"
     }
 }
