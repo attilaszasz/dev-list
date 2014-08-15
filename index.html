@@ -166,18 +166,18 @@
             </div>
             {{/edition.freebook}}
             {{#edition.book}}
-            <div id="book" class="col-xs-12">
+            <div id="book" class="{{edition.book.affiliate}} col-xs-12">
                 <div class="row">
                     <h4>Recommended book:</h4>
 					{{#edition.book.image}}
 						<div class="col-sm-12 col-md-5 col-lg-4 col-book">
-							<a href="{{edition.book.url}}" >
+							<a href="{{edition.book.url}}" target="{{edition.book.title}}" >
 								<div class="book-image" style="background-image: url('{{edition.book.image}}');"></div>
 							</a>
 						</div>
 						<div class="col-sm-12 col-md-7 col-lg-8 col-book">
 							<strong>
-								<a href="{{edition.book.url}}">{{edition.book.title}}</a>
+								<a class="link" href="{{edition.book.url}}" target="{{edition.book.title}}">{{edition.book.title}}</a>
 							</strong>
 							{{#edition.book.author}}
 							by {{edition.book.author}}
@@ -186,7 +186,7 @@
 					{{/edition.book.image}}
 					{{^edition.book.image}}
 						<strong>
-							<a href="{{edition.book.url}}">{{edition.book.title}}</a>
+							<a class="link"  href="{{edition.book.url}}" target="{{edition.book.title}}">{{edition.book.title}}</a>
 						</strong>
 						{{#edition.book.author}}
 						by {{edition.book.author}}

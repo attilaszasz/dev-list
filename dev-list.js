@@ -119,7 +119,13 @@ DevList.App._Views.Edition = Backbone.View.extend({
 		}
         DevList.Models.Pager.set({ prev_url: prevUrl, next_url: nextUrl, prev_title: prevTitle, next_title: nextTitle });
         return this;
-    }
+    },
+	events: {
+        'click div.affiliate a': 'affiliateClick'
+    },
+	affiliateClick : function(e){
+		ga('send', 'event', 'book-affiliate', 'click', $(e.currentTarget.parentElement).parent().find('a.link').text());
+	}
 });
 
 DevList.App._Models.Years = Backbone.Model.extend({
