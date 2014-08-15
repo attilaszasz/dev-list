@@ -59,8 +59,10 @@
         "author": "Douglas McMurtry, Andrew Oakley, John Sharp, Mani Subramanian, Hanz Zhang"
     },
     "book": {
-        "title": "Exam Ref 70-486: Developing ASP.NET MVC 4 Web Applications",
-		"url": "http://shop.oreilly.com/product/0790145374820.do",
-        "author": "William Penberthy"
+        "title": "ASP.NET MVC 4 Mobile App Development",
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781849687362.do%3Fcmp%3Daf-na-books-videos-product_cj_9781849687379_%2525zp&cjsku=9781849687362",
+        "author": "Andy Meadows",
+		"image": "http://akamaicovers.oreilly.com/images/9781849687362/cat.gif",
+		"affiliate": "affiliate"
     }
 }

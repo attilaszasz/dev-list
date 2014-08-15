@@ -66,6 +66,7 @@
     "book": {
         "title": "Practical ASP.NET Web API",
 		"url": "http://www.apress.com/9781430261759",
-        "author": "Badrinarayanan Lakshmiraghavan"
+        "author": "Badrinarayanan Lakshmiraghavan",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430261759-small_1.png"
     }
 }

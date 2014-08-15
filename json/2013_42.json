@@ -69,8 +69,10 @@
         ]
     },
     "book": {
-        "title": "iOS 7 Programming Cookbook",
-		"url": "http://shop.oreilly.com/product/0636920031031.do",
-        "author": "Vandad Nahavandipoor"
+        "title": "PhoneGap Mobile Application Development Cookbook",
+		"url": "http://www.kqzyfj.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781849518581.do%3Fcmp%3Daf-na-books-videos-product_cj_9781849518598_%2525zp&cjsku=9781849518581",
+        "author": "Matt Gifford",
+		"image": "http://akamaicovers.oreilly.com/images/9781849518581/cat.gif",
+		"affiliate": "affiliate"
     }
 }

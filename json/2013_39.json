@@ -56,6 +56,7 @@
     "book": {
         "title": "Beginning Arduino",
 		"url": "http://www.apress.com/9781430250166",
-        "author": "Michael McRoberts"
+        "author": "Michael McRoberts",
+		"image": "http://www.apress.com/media/catalog/product/cache/9/small_image/80x/040ec09b1e35df139433887a97daa66f/A/9/A9781430250166-small.png"
     }
 }
