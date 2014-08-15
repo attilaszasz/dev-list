@@ -50,7 +50,8 @@
     },
     "book": {
         "title": "Microsoft ADO.NET Entity Framework Step by Step",
-		"url": "http://shop.oreilly.com/product/0790145339164.do",
-        "author": "John Paul Mueller"
+		"url": "https://www.microsoftpressstore.com/store/microsoft-ado.net-entity-framework-step-by-step-9780735664166",
+        "author": "John Paul Mueller",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735664166&type=f"
     }
 }
