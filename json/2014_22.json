@@ -50,8 +50,10 @@
         ]
     },
     "book": {
-        "title": "Redis: The Definitive Guide",
-		"url": "http://shop.oreilly.com/product/0636920014294.do",
-        "author": "Jay A. Kreibich"
+        "title": "Redis Cookbook",
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920020127.do%3Fcmp%3Daf-strata-books-videos-product_cj_9781449305031_%2525zp&cjsku=9781449305031",
+        "author": "Tiago Macedo, Fred Oliveira",
+		"image": "http://akamaicovers.oreilly.com/images/0636920020127/cat.gif",
+		"affiliate": "affiliate"
     }
 }
