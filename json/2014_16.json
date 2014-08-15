@@ -50,7 +50,9 @@
     },
     "book": {
         "title": "iOS Game Development Cookbook",
-		"url": "http://shop.oreilly.com/product/0636920030454.do",
-        "author": "Jonathon Manning, Paris Buttfield-Addison"
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920030454.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449368753_%2525zp&cjsku=9781449368753",
+        "author": "Jonathon Manning, Paris Buttfield-Addison",
+		"image": "http://akamaicovers.oreilly.com/images/0636920030454/cat.gif",
+		"affiliate": "affiliate"
     }
 }

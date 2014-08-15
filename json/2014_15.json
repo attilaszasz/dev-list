@@ -63,8 +63,10 @@
         ]
     },
     "book": {
-        "title": "Building Web Apps with WordPress",
-		"url": "http://shop.oreilly.com/product/0636920029380.do",
-        "author": "Brian Messenlehner, Jason Coleman"
+        "title": "Professional WordPress, 2nd Edition",
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781118442272.do%3Fcmp%3Daf-na-books-videos-product_cj_9781457146329_%2525zp&cjsku=9781118442272",
+        "author": "Brad Williams, David Damstra, Hal Stern",
+		"image": "http://akamaicovers.oreilly.com/images/9781118442272/cat.gif",
+		"affiliate": "affiliate"
     }
 }

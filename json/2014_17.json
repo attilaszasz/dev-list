@@ -44,8 +44,10 @@
         "author": "Adam Schwartz"
     },
     "book": {
-        "title": "Build iOS Games with Sprite Kit",
-		"url": "http://shop.oreilly.com/product/9781941222102.do",
-        "author": "Jonathan Penn, Josh Smith"
+        "title": "iOS 7 Programming Cookbook",
+		"url": "http://www.kqzyfj.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920031031.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449372415_%2525zp&cjsku=9781449372415",
+        "author": "Vandad Nahavandipoor",
+		"image": "http://akamaicovers.oreilly.com/images/0636920031031/cat.gif",
+		"affiliate": "affiliate"
     }
 }
