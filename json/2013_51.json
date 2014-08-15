@@ -59,7 +59,9 @@
     },
     "book": {
         "title": "Raspberry Pi Cookbook",
-		"url": "http://shop.oreilly.com/product/0636920029595.do",
-        "author": "Simon Monk"
+		"url": "http://www.dpbolvw.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920029595.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449365219_%2525zp&cjsku=9781449365219",
+        "author": "Simon Monk",
+		"image": "http://akamaicovers.oreilly.com/images/0636920029595/cat.gif",
+		"affiliate": "affiliate"
     }
 }
