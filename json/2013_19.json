@@ -49,8 +49,9 @@
         "author": "Brad Miller and David Ranum"
     },
     "book": {
-        "title": "Professional Scrum Development with Microsoft® Visual Studio® 2012",
-		"url": "http://shop.oreilly.com/product/0790145320902.do?code=MSDEAL",
-        "author": "Richard Hundhausen"
+        "title": "Professional Scrum Development with Microsoft Visual Studio 2012",
+		"url": "http://www.amazon.com/gp/product/073565798X",
+        "author": "Richard Hundhausen",
+		"image": "http://d.gr-assets.com/books/1353573302l/15812663.jpg"
     }
 }

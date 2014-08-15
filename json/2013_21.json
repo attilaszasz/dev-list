@@ -61,6 +61,7 @@
     "book": {
         "title": "Redis in Action",
 		"url": "http://www.manning.com/carlson/",
-        "author": "Josiah L. Carlson"
+        "author": "Josiah L. Carlson",
+		"image": "http://www.manning.com/carlson/carlson_cover150.jpg"
     }
 }

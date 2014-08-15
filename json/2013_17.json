@@ -44,8 +44,9 @@
         "author": "John Worsley, Joshua Drake"
     },
     "book": {
-        "title": "Training Kit (Exam 70-461): Querying Microsoft® SQL Server® 2012",
-		"url": "http://shop.oreilly.com/product/0790145345059.do?code=DEAL",
-        "author": "Itzik Ben-Gan, Dejan Sarka, Ron Talmage"
+        "title": "Training Kit (Exam 70-461): Querying Microsoft SQL Server 2012",
+		"url": "https://www.microsoftpressstore.com/store/training-kit-exam-70-461-querying-microsoft-sql-server-9780735666054",
+        "author": "Itzik Ben-Gan, Dejan Sarka, Ron Talmage",
+		"image": "https://www.microsoftpressstore.com/ShowCover.aspx?isbn=9780735666054&type=f"
     }
 }

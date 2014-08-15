@@ -61,6 +61,7 @@
     "book": {
         "title": "Dependency Injection in .NET",
 		"url": "http://www.manning.com/seemann/",
-        "author": "Mark Seemann"
+        "author": "Mark Seemann",
+		"image": "http://www.manning.com/seemann/seemann_cover150.jpg"
     }
 }

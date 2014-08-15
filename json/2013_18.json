@@ -55,7 +55,9 @@
     },
     "book": {
         "title": "Selectors, Specificity, and the Cascade. Applying CSS3 to Documents",
-		"url": "http://shop.oreilly.com/product/0636920027614.do",
-        "author": "Eric A. Meyer"
+		"url": "http://www.kqzyfj.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920027614.do%3Fcmp%3Daf-webplatform-books-videos-product_cj_9781449342487_%2525zp&cjsku=9781449342487",
+        "author": "Eric A. Meyer",
+		"image": "http://akamaicovers.oreilly.com/images/0636920027614/cat.gif",
+		"affiliate": "affiliate"
     }
 }
