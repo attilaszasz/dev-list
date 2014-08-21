@@ -1,0 +1,74 @@
+{
+    "issue": 103,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://sebastien-gabriel.com/designers-guide-to-dpi/home",
+            "title": "Designer's guide to DPI",
+            "description": "This guide is designed as a 'get started' or introductory read for the starting to intermediate designer who wants to learn or get more knowledge about cross-DPI and cross-platform design from the very beginning. No complex math and un-parsable graph, just straight forward explanations ordered in short sections for you to understand and apply directly to your design process."
+        },
+		{
+            "url": "http://damieng.com/blog/2010/04/26/creating-rss-feeds-in-asp-net-mvc",
+            "title": "Creating RSS feeds in ASP.NET MVC",
+            "description": ".NET has a built in SyndicatedFeed and SyndicatedItem class for content and two classes (Rss20FeedFormatter and Atom10FeedFormatter) to handle XML generation with correct encoding, formatting and optional fields."
+        },
+		{
+            "url": "http://typecastexception.com/post/2014/04/20/ASPNET-MVC-and-Identity-20-Understanding-the-Basics.aspx",
+            "title": "ASP.NET MVC and Identity 2.0: Understanding the Basics",
+            "description": "The new release brings with it some long-awaited new features, and marks a substantial expansion of the security and authorization capabilities available to ASP.NET applications of all types."
+        },
+		{
+            "url": "http://weblog.west-wind.com/posts/2014/Aug/18/The-broken-Promise-of-the-Mobile-Web",
+            "title": "The broken Promise of the Mobile Web",
+            "description": "Here we are in the middle of 2014, nearly 7 years after the first iPhone was released and brought the promise of rich interactive information at your fingertips, and yet we still don’t really have a solid mobile Web platform"
+        },
+		{
+            "url": "http://sourcesofinsight.com/three-factor-theory/",
+            "title": "Three-Factor Theory: Create Enthusiasm in Your Work Environment",
+            "description": "Three-factor theory is based on the premise that workers have basic human needs that managers can and should work to address. Creating an environment in which these needs are met results in not just satisfied employees but also enthusiastic employees."
+        },
+		{
+            "url": "https://github.com/bevacqua/js/",
+            "title": "A quality conscious and organic JavaScript quality guide",
+            "description": "This style guide aims to provide the ground rules for an application's JavaScript code, such that it's highly readable and consistent across different developers on a team. The focus is put on quality and coherence across the different pieces of your application."
+        },
+		{
+            "url": "http://jameschambers.com/2014/06/day-0-boothstrapping-mvc-for-the-next-30-days/",
+            "title": "Bootstrapping Mvc",
+            "description": "A wide range of topics, tips, tricks and the ins-and-outs of working with the Bootstrap library and CSS framework with Asp.Net’s MVC Framework."
+        },
+		{
+            "url": "http://www.codeproject.com/Articles/777733/ASP-NET-Identity-Change-Primary-Key",
+            "title": "ASP.NET Identity 2.0 Change Primary Key from String to Integer",
+            "description": "ASP.NET team released Identity framework 2.0. The new release contain some new features like generic primary key. This article explain how to change primary key from string to integer & use it with MVC5."
+        },
+		{
+            "url": "http://www.gitignore.io/",
+            "title": "gitignore.io",
+            "description": "Create useful .gitignore files for your project"
+        }
+    ],
+    "freebook": {
+        "title": "Localization for .NET Succinctly",
+		"url": "http://www.syncfusion.com/resources/techportal/ebooks/localization",
+        "author": "Jonas Gauffin",
+		"image": "http://d2g29cya9iq7ip.cloudfront.net/content/images/downloads/ebooks/localization.png?v=19082014051045",
+        "links": [
+			{
+                "name": "pdf",
+                "url": "http://www.syncfusion.com/content/downloads/ebook/Localization_Succinctly.pdf"
+            },
+			{
+                "name": "mobi",
+                "url": "http://www.syncfusion.com/content/downloads/ebook/Localization_Succinctly.mobi"
+            }
+        ]
+    },
+    "book": {
+        "title": "Lean Branding",
+		"url": "http://www.anrdoezrs.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920032106.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781491907269_%2525zp&cjsku=0636920032106",
+        "author": "Laura Busche",
+		"image": "http://akamaicovers.oreilly.com/images/0636920032106/cat.gif",
+		"affiliate": "affiliate"
+    }
+}
