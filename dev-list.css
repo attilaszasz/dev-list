@@ -26,6 +26,7 @@ ul#link-list li.list-group-item {
 .dropdown-menu {
     max-height: 452px;
     overflow-y: auto;
+	overflow-x: hidden;
 }
 
 div.book-image {

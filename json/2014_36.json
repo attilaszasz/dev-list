@@ -8,53 +8,51 @@
             "description": "Yii is a free, open-source framework for PHP5 that promotes clean, DRY design, and supports rapid development."
         },
 		{
-            "url": "http://www.barbarianmeetscoding.com/blog/2014/08/20/object-oriented-javascript-for-c-sharp-developers/",
-            "title": "Object-oriented JavaScript for C# Developers",
-            "description": "Ey You C# developer! Wanting to learn you some JavaScript? You’ve come to the right place! In this article you will learn how to map all those OOP C# concepts you have come to know and love to JavaScript, the ever growing language of the web!"
+            "url": "http://allbloggingtips.com/2012/08/27/applying-for-google-adsense-program/",
+            "title": "12 Things to Do Before Applying for Google Adsense",
+            "description": "Google Adsense is world’s larges Ads Network and works at Pay Per Click system. It’s paying rates are better than all of other networks which is the biggest reason it is so popular to all Bloggers and Webmasters. But since everybody is running behind them, they have made the approval system very strict. You make little mistakes and get disapproved every time. So you need a complete guidance and list of thing that you need to do before applying for Google Adsense and supposing that you are ready."
         },
 		{
-            "url": "http://blogs.msdn.com/b/eternalcoding/archive/2014/08/20/simple-inheritance-with-javascript.aspx",
-            "title": "Simple inheritance with JavaScript",
-            "description": "It is a prototype-based language. The concept of prototyping implies that behavior can be reused by cloning existing objects that serve as prototypes. Every object in JavaScript depends from a prototype which defines a set of functions and members that the object can use. There is no class. Just objects. Every object can then be used as prototype for another object."
+            "url": "http://www.entrepreneur.com/article/225379",
+            "title": "5 Deadly Sins of SEO and Online Marketing",
+            "description": "Internet marketing can be a minefield. There's no official textbook on proper strategy or tactics. It's up to business owners, and the marketing and search engine optimization (SEO) professionals they might hire, to figure out what works and what doesn't."
         },
 		{
-            "url": "http://blogs.endjin.com/2014/06/using-git-for-net-development-part-4-resolving-merge-conflicts/",
-            "title": "Using Git for .NET development – resolving merge conflicts",
-            "description": "A merge is an operation carried out between branches. It is the process of pulling the changes made in one branch into another branch."
+            "url": "http://www.smashingmagazine.com/2014/08/22/avoid-overwhelming-users-lessons-from-high-school/",
+            "title": "Ways To Avoid Overwhelming Users: Lessons Learned From My High-School Teachers",
+            "description": "A teacher’s responsibility, like a UX designer’s, is to present content in a format known as instructional design. In other words, teachers and UX designers must both perform an audience analysis to be aware of their population as a whole."
         },
 		{
-            "url": "http://swreflections.blogspot.ro/2014/08/dont-waste-time-on-code-reviews.html",
-            "title": "Don’t waste time on Code Reviews",
-            "description": "Many people still think of code reviews as expensive formal code inspection meetings, with lots of prep work required before a room full of reviewers can slowly walk through the code together around a table with the help of a moderator and a secretary. Lots of hassles and delays and paperwork. But you don’t have to do code reviews this way – and you shouldn’t."
+            "url": "https://www.facebook.com/notes/fan/using-facebook-to-promote-your-website/347171025293915",
+            "title": "Using Facebook to Promote Your Website",
+            "description": "Facebook is one of the best Social Networking sites for website promotion. You can expect a big increase in your website business from the effective use of Facebook. This guide will help you develop your Facebook account to start sending more traffic to your site."
         },
 		{
-            "url": "http://code.tutsplus.com/tutorials/an-introduction-to-android-transitions--cms-21640",
-            "title": "An Introduction to Android Transitions",
-            "description": "The Android transitions framework allows you to configure the appearance of changes in your app's user interface."
+            "url": "http://labs.ft.com/2014/08/not-everything-is-awesome/",
+            "title": "Not everything is awesome",
+            "description": "I am not awesome. I am not a rockstar, superstar, ninja, or guru either. The ‘cult of awesome’ that too frequently crops up in the technology industry is a problem and it breeds a culture of egos and aggrandising that can be self defeating."
         },
 		{
-            "url": "http://preshing.com/20110504/hash-collision-probabilities/",
-            "title": "Hash Collision Probabilities",
-            "description": "A hash function takes an item of a given type and generates an integer hash value within a given range."
+            "url": "http://thedesignpixel.com/best-data-visualization-tools.html",
+            "title": "35+ Best Data Visualization Tools",
+            "description": "Graphics convey the messages a lot better and faster than the plain text. Representation of data in the form of figures, charts, graphs, etc., is known as data representation. We go through a lot of bar graphs, pie charts, etc. In our day-to-day print media and online material, which is all an example of data visualization and how it works."
+        },
+		{
+            "url": "http://samlambert.com/posts/how-we-work-on-queries-at-gitHub/",
+            "title": "How We Work On Queries At GitHub",
+            "description": "With a platform that serves millions of people every day, we have a number of services that need to query MySQL. GitHub.com is a large Rails application with a lot of queries generated though ActiveRecord."
         }
     ],
     "freebook": {
-        "title": "Getting Started with Entity Framework 6 Code First using MVC 5",
-		"url": "http://www.asp.net/mvc/tutorials/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application",
-        "author": "Tom Dykstra",
-		"image": "http://d2g29cya9iq7ip.cloudfront.net/content/images/downloads/ebooks/localization.png?v=19082014051045",
-        "links": [
-			{
-                "name": "pdf",
-                "url": "http://download.microsoft.com/download/0/F/B/0FBFAA46-2BFD-478F-8E56-7BF3C672DF9D/Getting%20Started%20with%20Entity%20Framework%206%20Code%20First%20using%20MVC%205.pdf"
-            }
-        ]
+        "title": "Game Programming Patterns",
+		"url": "http://gameprogrammingpatterns.com/",
+        "author": "Bob Nystrom"
     },
     "book": {
-        "title": "High Performance Python",
-		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920028963.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781449361587_%2525zp&cjsku=9781449361587",
-        "author": "Micha Gorelick, Ian Ozsvald",
-		"image": "http://akamaicovers.oreilly.com/images/0636920028963/cat.gif",
+        "title": "AngularJS Essentials",
+		"url": "http://www.tkqlhce.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F9781783980086.do%3Fcmp%3Daf-na-books-videos-product_cj_9781783980093_%2525zp&cjsku=9781783980086",
+        "author": "Rodrigo Branas",
+		"image": "http://akamaicovers.oreilly.com/images/9781783980086/cat.gif",
 		"affiliate": "affiliate"
     }
 }
