@@ -1,0 +1,62 @@
+{
+    "issue": 106,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://code.tutsplus.com/tutorials/what-is-the-xy-problem-and-why-is-it-bad--cms-21023",
+            "title": "What Is the XY Problem and Why Is It Bad?",
+            "description": "No matter where you seek out help, one of the hurdles to solving problems is asking for support about possible solutions, instead of asking about the underlying problem itself."
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/",
+            "title": "Improving Smashing Magazine’s Performance: A Case Study",
+            "description": ""
+        },
+		{
+            "url": "http://ericlippert.com/2014/09/08/comment-commentary/",
+            "title": "Comment commentary",
+            "description": "Eric Lippert talks Code Comments, and using them to explain the meaning of code, drawing on examples of his code from the Roslyn code base."
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/08/22/avoid-overwhelming-users-lessons-from-high-school/",
+            "title": "Managing Concurrency in Microsoft Azure Storage",
+            "description": "Modern Internet based applications usually have multiple users viewing and updating data simultaneously. This requires application developers to think carefully about how to provide a predictable experience to their end users, particularly for scenarios where multiple users can update the same data."
+        },
+		{
+            "url": "http://mattwarren.org/2014/09/05/stack-overflow-performance-lessons-part-2/",
+            "title": "Stack Overflow – performance lessons",
+            "description": "The main lesson to take-away from Stack Overflow (the team/product) is that they take performance seriously."
+        },
+		{
+            "url": "http://www.tobiahmarks.com/2014/09/intro-git-github-4/",
+            "title": "Intro to Git and GitHub: Merging and Rebasing overview",
+            "description": "This is a continuation of a tutorial blog series to learn the basics of Git, using GitHub and the GitHub client."
+        },
+		{
+            "url": "http://csharperimage.jeremylikness.com/2014/09/revisiting-angularjs-with-typescript.html",
+            "title": "Revisiting AngularJS with TypeScript",
+            "description": "TypeScript is an incredibly useful tool, especially when developing heavy client apps with large teams. It's a strong asset for AngularJS apps."
+        },
+		{
+            "url": "http://appendto.com/2014/09/the-cost-of-implementing-responsive-web-design-later/",
+            "title": "The cost of implementing responsive web design later",
+            "description": "A site can be coded responsively or you can be tasked with doing a retrofit to make a fixed-width site responsive. Is it better to get a desktop site out quicker and then work on making it responsive as a 'phase 2'?"
+        },
+		{
+            "url": "http://www.leadingagile.com/2014/09/acceptance-criteria/",
+            "title": "Acceptance Criteria",
+            "description": "Did We Build the Right Product? And, Did We Build the Product Right?"
+        }
+    ],
+    "freebook": {
+        "title": "Essential Coding Theory",
+		"url": "http://www.cse.buffalo.edu/~atri/courses/coding-theory/book/",
+        "author": "Venkatesan Guruswami, Atri Rudra, Madhu Sudan"
+    },
+    "book": {
+        "title": "Traction",
+		"url": "http://tractionbook.com/",
+        "author": "Gabriel Weinberg, Justin Mares",
+		"image": "https://cdn2.hubspot.net/hub/150/file-1529085876-jpg/traction-book.jpg"
+    }
+}
