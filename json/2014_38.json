@@ -1,0 +1,64 @@
+{
+    "issue": 107,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://paulgraham.com/growth.html",
+            "title": "Startup = Growth",
+            "description": "A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of 'exit'. The only essential thing is growth. Everything else we associate with startups follows from growth."
+        },
+		{
+            "url": "http://modernweb.com/2014/09/11/modern-web-best-practice-build-tools/",
+            "title": "Modern Web Best Practice: Build Tools",
+            "description": "A build tool automates the time-consuming, repetitive tasks in our workflow so we don’t have to do them manually."
+        },
+		{
+            "url": "http://blog.sortlist.com/web-design-usability-lessons-learned/",
+            "title": "5 Web Design And Usability Lessons You Can Learn From Airbnb",
+            "description": "Usability is probably one of the most important thing to consider while thinking about getting your web design and your business to the next level."
+        },
+		{
+            "url": "http://nathanleclaire.com/blog/2014/09/14/dont-be-scared-of-git-rebase/",
+            "title": "Don't Be Scared of git rebase",
+            "description": "Git rebase in its simplest form is a command which will merge another branch into the branch where you are currently working, and move all of the local commits that are ahead of the rebased branch to the top of the history on that branch."
+        },
+		{
+            "url": "http://brodzinski.com/2010/08/10-ways-to-lose-team.html",
+            "title": "10 Sure Shot Ways to Lose Your Team",
+            "description": "You can make this test against your boss. If the score is anything above 3, I’d look for a chance to change team/organization very, very soon. It isn’t healthy to work under this kind of management."
+        },
+		{
+            "url": "http://www.deanhume.com/Home/BlogPost/HTTP%20vs%20HTTPS%20performance%20comparison/8107",
+            "title": "HTTP vs HTTPS performance comparison",
+            "description": "Using HTTPS on your site can be a great way to ensure that your users are receiving safe, encrypted information. If not configured correctly, HTTPS can be slightly slower when compared to HTTP, but there are steps that can be taken to reduce this overhead."
+        },
+		{
+            "url": "http://code.tutsplus.com/articles/introduction-to-android-wear-the-basics--cms-22042",
+            "title": "Introduction to Android Wear: The Basics",
+            "description": "A new version of the Android operating system designed specifically for wearables."
+        },
+		{
+            "url": "http://www.smashingmagazine.com/2014/09/17/why-companies-need-full-time-product-managers/",
+            "title": "Why Companies Need Full-Time Product Managers (And What They Do All Day)",
+            "description": "What is a product manager? What do product managers do all day? Most importantly, why do companies need to hire them? Good questions."
+        },
+		{
+            "url": "https://www.loggly.com/blog/what-60000-customer-searches-taught-us-about-logging-in-json/",
+            "title": "What 60,000 Customer Searches Taught Us about Logging in JSON",
+            "description": "JSON is the most popular log type used by Loggly customers because it makes it relatively easy for you to benefit from automated parsing and analytics."
+        }
+    ],
+    "freebook": {
+        "title": "Web UI Design Patterns 2014",
+		"url": "http://uxpin.com/web-design-patterns.html",
+        "author": "Chris Bank, Waleed Zuberi",
+		"image": "http://uxpin.com/images/books/web-patterns/the-book.jpg"
+    },
+    "book": {
+        "title": "Using WebPagetest",
+		"url": "http://www.jdoqocy.com/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920033592.do%3Fcmp%3Daf-velocity-books-videos-product_cj_9781491902578_%2525zp&cjsku=0636920033592",
+        "author": "Rick Viscomi, Andy Davies, Marcel Duran",
+		"image": "https://akamaicovers.oreilly.com/images/0636920033592/cat.gif",
+		"affiliate": "affiliate"
+    }
+}
