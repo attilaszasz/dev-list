@@ -1,0 +1,65 @@
+{
+    "issue": 108,
+    "year": 2014,
+    "links": [
+        {
+            "url": "http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html",
+            "title": "How Twitter Uses Redis To Scale - 105TB RAM, 39MM QPS, 10,000+ Instances",
+            "description": "Redis drives Timeline, Twitter’s most important service. Timeline is an index of tweets indexed by an id. Chaining tweets together in a list produces the Home Timeline. The User Timeline, which consists of tweets the user has tweeted, is just another list."
+        },
+		{
+            "url": "https://sendgrid.com/blog/spam-traps-what-they-are-and-why-you-should-pay-attention-to-them/",
+            "title": "Spam Traps: What They Are and Why You Should Pay Attention to Them",
+            "description": "Spam traps are important because they are created by the ISPs to specifically lure spammers. In short, sending an email to a spam trap can lead directly to being blacklisted by the organization that set up the trap."
+        },
+		{
+            "url": "http://blog.thinkful.com/post/97816384473/the-high-cost-of-freelancing",
+            "title": "The High Cost Of Freelancing",
+            "description": "It’s easy to find the benefits of freelancing, but, as with any lifestyle change, it also has significant costs. This post serves as the reality check: here’s how much you’re going to have to pay to get there."
+        },
+		{
+            "url": "http://derickbailey.com/2014/09/21/calculating-standard-deviation-with-array-map-and-array-reduce-in-javascript/",
+            "title": "Calculating Standard Deviation with Array.map and Array.reduce, In JavaScript",
+            "description": "An example of how to calculate the standard deviation for a given data set."
+        },
+		{
+            "url": "http://mattwarren.org/2014/09/19/the-art-of-benchmarking/",
+            "title": "The Art of Benchmarking",
+            "description": "Benchmarking is hard, it’s very easy to end up not measuring, what you think you are measuring"
+        },
+		{
+            "url": "http://www.onjava.com/pub/a/onjava/2003/04/02/javaxpckbk.html",
+            "title": "Top 12 Reasons to Write Unit Tests",
+            "description": "Most programmers do not write tests. We all know that we should write them, but for whatever reason, most of us don't. This is unfortunate, because testing is the most powerful tool we know of to improve software quality. Tests reduce bugs, provide accurate documentation, and improve design."
+        },
+		{
+            "url": "http://swreflections.blogspot.ro/2014/09/can-static-analysis-replace-code-reviews.html",
+            "title": "Can Static Analysis replace Code Reviews?",
+            "description": "What static analysis tools can do – and what they can’t do."
+        },
+		{
+            "url": "http://rachelrodgerslaw.com/9-things-you-must-have-in-your-privacy-policy-to-stay-out-of-trouble/",
+            "title": "9 Things You Must Have in Your Privacy Policy to Stay Out of Trouble",
+            "description": "Websites and apps collect a variety of sensitive information from their customers and online visitors. If you collect even one iota of information on your website, you need a privacy policy."
+        }
+    ],
+    "freebook": {
+        "title": "SQL Code Smells",
+		"url": "https://www.simple-talk.com/books/sql-books/119-sql-code-smells/",
+        "author": "Phil Factor",
+		"image": "https://www.red-gate.com/assets/products/sql-development/sql-test/entrypage/images/sql-code-smells.png",
+        "links": [
+			{
+                "name": "pdf (zipped)",
+                "url": "http://assets.red-gate.com/offerings/sql-code-smells.zip"
+            }
+        ]
+    },
+    "book": {
+        "title": "iOS 8 Swift Programming Cookbook ",
+		"url": "http://www.dpbolvw.net/click-7619737-11260198?url=http%3A%2F%2Fshop.oreilly.com%2Fproduct%2F0636920034254.do%3Fcmp%3Daf-prog-books-videos-product_cj_9781491908662_%2525zp&cjsku=0636920034254",
+        "author": "Vandad Nahavandipoor",
+		"image": "https://akamaicovers.oreilly.com/images/0636920034254/cat.gif",
+		"affiliate": "affiliate"
+    }
+}
